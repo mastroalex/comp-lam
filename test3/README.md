@@ -7,7 +7,7 @@ Data from:
 > [Finite element investigation into the use of carbon fibre reinforced PEEK laminated composites for distal radius fracture fixation implants](https://www.sciencedirect.com/science/article/pii/S1350453319300475?via%3Dihub)
 > <br>Elizabeth Anne Gallaghera, Steven Lamorinièreb, Patrick McGarrya
 
-<img src="fig/2021-12-17-16-03-56.png" width="100">
+<img src="fig/2021-12-17-16-03-56.png" width="300">
 
 Isotropic matrix? Probably.
  $E=2𝐺(1+\nu)$$\longrightarrow G={E\over 2(1+\nu)}$
