@@ -1,0 +1,25 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{}
+
+\bibitem[{Fan and Peng(2004)Fan, J. and Peng, H.}]{Fan:2004}
+Fan J, Peng H.
+\newblock {Nonconcave penalized likelihood with a diverging number of
+  parameters}.
+\newblock Ann Statist 2004;32:928--61.
+
+\bibitem[{Cox(1972)D. R. Cox}]{Cox:1972}
+Cox DR.
+\newblock {Regression models and life tables (with Discussion)}.
+\newblock J R Statist Soc {\rm B} 1972;34:187--220.
+
+\bibitem[{Heard et~al.(2006)Heard, Nicholas A. and Holmes, Christopher C. and
+  Stephens, David A.}]{Hear:Holm:Step:quan:2006}
+Heard NA, Holmes CC, Stephens DA.
+\newblock A Quantitative Study of Gene Regulation Involved in the Immune
+  Response of {A}nopheline Mosquitoes: {A}n Application of {B}ayesian
+  Hierarchical Clustering of Curves.
+\newblock J Am Statist Assoc 2006;101:18--29.
+
+\end{thebibliography}

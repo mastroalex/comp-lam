@@ -1,0 +1,106 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{}
+
+\bibitem[{Monesi(2012)Monesi, V}]{Monesi}
+Monesi V.
+\newblock Istologia.
+\newblock Piccin; 2012.
+
+\bibitem[{Ferguson and Steffen(2003)Ferguson, Stephen J, and Thomas
+  Steffen}]{Ferguson:2003}
+Ferguson SJ, Steffen T.
+\newblock Biomechanics of the aging spine.
+\newblock European spine journal 2003;12:S97--S103.
+
+\bibitem[{Hamed et~al.(2012)Hamed, Elham and Jasiuk, Iwona and Yoo,
+  Andrew}]{Hamed:2012}
+Hamed E, Jasiuk I, Yoo A.
+\newblock Multi-scale modelling of elastic moduli of trabecular bone.
+\newblock Soc Interface 2012;9.
+
+\bibitem[{Doktor et~al.(2011)Doktor, Tomáš and Valach, Jaroslav and Kytyr,
+  Dan and Jiroušek, Ondřej}]{Doktor:2011}
+Doktor T, Valach J, Kytyr D, Jiroušek O.
+\newblock Pore Size Distribution of Human Trabecular Bone - Comparison of
+  Intrusion Measurements with Image Analysis; 2011. p. 115--118.
+
+\bibitem[{Cowin(2001)Cowin, Sthepen}]{Cowin1}
+Cowin S.
+\newblock Bone Mechanics Handbook.
+\newblock CRC Press; 2001.
+
+\bibitem[{Aboudi et~al.(2013)Jacob Aboudi and Steven M. Arnold and Brett A.
+  Bednarcyk}]{ABOUDI201387}
+Aboudi J, Arnold SM, Bednarcyk BA.
+\newblock Chapter 3 - Fundamentals of the Mechanics of Multiphase Materials.
+\newblock In: Aboudi J, Arnold SM, Bednarcyk BA, editors. Micromechanics of
+  Composite Materials Oxford: Butterworth-Heinemann; 2013.p. 87--145.
+\newblock
+  \urlprefix\url{https://www.sciencedirect.com/science/article/pii/B9780123970350000033}.
+
+\bibitem[{Dalstra et~al.(1993)Dalstra, M. and Huiskes, R. and Odgaard, A. and
+  Van Erning, L.}]{Dalstra:93}
+Dalstra M, Huiskes R, Odgaard A, Van~Erning L.
+\newblock Mechanical and textural properties of pelvic trabecular bone.
+\newblock Journal of biomechanics 1993;26:523--35.
+\newblock \urlprefix\url{https://doi.org/10.1016/0021-9290(93)90014-6}.
+
+\bibitem[{Wirtz et~al.(2000)Wirtz, D. C. and Schiffers, N. and Pandorf, T. and
+  Radermacher, K. and Weichert, D. and Forst, R.}]{Wirtz:2000}
+Wirtz DC, Schiffers N, Pandorf T, Radermacher K, Weichert D, Forst R.
+\newblock Critical evaluation of known bone material properties to realize
+  anisotropic FE-simulation of the proximal femur.
+\newblock Journal of biomechanics 2000;33:1325--30.
+\newblock \urlprefix\url{https://doi.org/10.1016/s0021-9290(00)00069-5}.
+
+\bibitem[{Jansen et~al.(2015)Jansen, L. E. and Birch, N. P. and Schiffman, J.
+  D. and Crosby, A. J. and Peyton, S. R.}]{Jansen:2015}
+Jansen LE, Birch NP, Schiffman JD, Crosby AJ, Peyton SR.
+\newblock Mechanics of intact bone marrow.
+\newblock Journal of the mechanical behavior of biomedical materials
+  2015;50:299--307.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.jmbbm.2015.06.023}.
+
+\bibitem[{Silva et~al.(1997)Silva, M. J. and Keaveny, T. M. and Hayes, W.
+  C.}]{Silva:1997}
+Silva MJ, Keaveny TM, Hayes WC.
+\newblock Load sharing between the shell and centrum in the lumbar vertebral
+  body.
+\newblock Spine 1997;22,2:140--50.
+
+\bibitem[{Keller et~al.(1989)Keller, T. S. and Hansson, T. H. and Abram, A. C.
+  and Spengler, D. M. and Panjabi, M.}]{Keller:1989}
+Keller TS, Hansson TH, Abram AC, Spengler DM, Panjabi M.
+\newblock Regional variations in the compressive properties of lumbar vertebral
+  trabeculae. Effects of disc degeneration.
+\newblock Spine 1989;14:1012--1019.
+
+\bibitem[{Keller et~al.(1993)Keller, T. S. and Ziv, I., Moeljanto, E. and
+  Spengler, D.}]{Keller:1993}
+Keller TS, Ziv ME I, Spengler D.
+\newblock Interdependence of lumbar disc and subdiscal bone properties: a
+  report of the normal and degenerated spine.
+\newblock Journal of spinal disorders 1993;6:106--113.
+
+\bibitem[{Beller et~al.(2005)Beller, Gisela and Burkhart, Markus and
+  Felsenberg, Dieter and Gowin, Wolfgang and Hege, Hans-Christian and Koller,
+  Bruno and Prohaska, Steffen and Saparin, Peter I. and Thomsen, Jesper
+  S.}]{ESA:2005}
+Beller G, Burkhart M, Felsenberg D, Gowin W, Hege HC, Koller B, et~al.
+\newblock Vertebral Body Data Set ESA29-99-L3
+  2005;\urlprefix\url{http://bone3d.zib.de/data/2005/ESA29-99-L3/}.
+
+\bibitem[{Mastrofini(2021)Mastrofini, Alessandro}]{Mastrofini:21}
+Mastrofini A.
+\newblock Image processing volumetrico su osso trabecolare.
+\newblock website
+  2021;\urlprefix\url{https://alessandromastrofini.it/image-volumetric-bone/}.
+
+\bibitem[{Cowin(2001)Cowin, Sthepen}]{CC21}
+Cowin S.
+\newblock Integrated Bone Tissue Physiology.
+\newblock Bone Mechanics Handbook 2001;1:4--5.
+
+\end{thebibliography}

@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg58383"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="disegno.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview58385"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73406285"
+     inkscape:cx="130.09785"
+     inkscape:cy="567.39011"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs58380" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 58.34706,82.162831 0.05644,-0.77188 19.138194,50.276479 9.985022,5.82895 22.277564,2.89807 h 0.003 l 0.45191,0.34043 6.48229,1.38359 21.68631,0.57327 0.91616,0.0261"
+       style="fill:none;stroke:#a67c52;stroke-width:0.4064;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path19"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       style="font-variant:normal;font-weight:normal;font-size:2.286px;font-family:MathematicaSans;-inkscape-font-specification:MathematicaSans;writing-mode:lr-tb;fill:#a67c52;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text39"
+       x="57.525024"
+       y="82.95475"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="57.525024"
+         y="82.95475"
+         id="tspan21"
+         style="stroke-width:0.352778">●</tspan><tspan
+         x="57.581474"
+         y="82.183189"
+         id="tspan23"
+         style="stroke-width:0.352778">●</tspan><tspan
+         x="76.719193"
+         y="132.46013"
+         id="tspan25"
+         style="stroke-width:0.352778">●</tspan><tspan
+         x="86.704872"
+         y="138.28868"
+         id="tspan27"
+         style="stroke-width:0.352778">●</tspan><tspan
+         x="108.98215 108.98444"
+         y="141.18677"
+         sodipodi:role="line"
+         id="tspan29"
+         style="stroke-width:0.352778">●●</tspan><tspan
+         x="109.43626"
+         y="141.52792"
+         id="tspan31"
+         style="stroke-width:0.352778">●</tspan><tspan
+         x="115.91952"
+         y="142.91161"
+         id="tspan33"
+         style="stroke-width:0.352778">●</tspan><tspan
+         x="137.60533"
+         y="143.48407"
+         id="tspan35"
+         style="stroke-width:0.352778">●</tspan><tspan
+         x="138.5218"
+         y="143.51003"
+         id="tspan37"
+         style="stroke-width:0.352778">●</tspan></text>
+    <path
+       d="m 63.052763,142.71784 v -0.87912"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path41"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 71.310232,142.71784 v -0.87912"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path47"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 90.479823,142.71784 v -0.87912"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path65"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 98.735881,142.71784 v -0.87912"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path83"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 117.90583,142.71784 v -0.87912"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path101"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 126.16153,142.71784 v -0.87912"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path119"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 56.968757,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path137"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 60.395993,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path139"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 65.224816,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path141"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 67.061729,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path143"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 68.651699,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path145"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 70.054696,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path147"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 79.565937,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path149"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 84.394407,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path151"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 87.821643,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path153"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 92.651876,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path155"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 94.487379,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path157"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 96.077701,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path159"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 97.480345,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path161"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 106.99159,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path163"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 111.82182,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path165"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 115.24729,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path167"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 120.07752,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path169"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 121.91303,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path171"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 123.50476,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path173"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 124.90741,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path175"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 134.41865,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path177"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 139.24747,142.71784 v -0.43956"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path179"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="M 53.179219,142.71784 H 141.10237"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path181"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,142.71784 h 1.14935"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path183"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,140.15738 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path185"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,137.59727 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path187"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,135.0354 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path189"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,132.47494 h 1.14935"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path191"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,129.91448 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path197"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,127.35402 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path199"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,124.79391 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path201"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,122.23345 h 1.14935"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path203"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,119.67299 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path209"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,117.11253 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path211"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,114.55206 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path213"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,111.99196 h 1.14935"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path215"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,109.43149 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path221"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,106.87103 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path223"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,104.31057 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path225"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,101.75011 h 1.14935"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path227"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,99.189651 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path233"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,96.628131 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path235"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,94.067671 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path237"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,91.507211 h 1.14935"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path239"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,88.946751 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path245"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,86.386641 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path247"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,83.826181 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path249"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,81.265721 h 1.14935"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path251"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 54.937463,78.705261 h 0.689328"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path257"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="M 54.937463,144.03652 V 78.093541"
+       style="fill:none;stroke:#000000;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:1"
+       id="path259"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.156944;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.26338,142.13213 -61.266891,-0.0137"
+       id="path10618"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="61.899136"
+       y="147.27835"
+       id="text36241"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan36239"
+         style="stroke-width:0.264583"
+         x="61.899136"
+         y="147.27835">$5000$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="69.398727"
+       y="147.30547"
+       id="text39233"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39231"
+         style="stroke-width:0.264583"
+         x="69.398727"
+         y="147.30547">$10^4$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="97.517288"
+       y="147.13231"
+       id="text39233-1"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39231-4"
+         style="stroke-width:0.264583"
+         x="97.517288"
+         y="147.13231">$10^5$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="88.787636"
+       y="147.40579"
+       id="text39933"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39931"
+         style="stroke-width:0.264583"
+         x="88.787636"
+         y="147.40579">$5\cdot 10^4$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="124.46055"
+       y="147.51462"
+       id="text39933-7"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39931-8"
+         style="stroke-width:0.264583"
+         x="124.46055"
+         y="147.51462">$10^6$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="45.396912"
+       y="133.62434"
+       id="text39933-7-9"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39931-8-5"
+         style="stroke-width:0.264583"
+         x="45.396912"
+         y="133.62434">$0.02$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="45.538406"
+       y="123.42965"
+       id="text39933-7-9-6"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39931-8-5-9"
+         style="stroke-width:0.264583"
+         x="45.538406"
+         y="123.42965">$0.04$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="45.66584"
+       y="113.61726"
+       id="text39933-7-9-62"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39931-8-5-4"
+         style="stroke-width:0.264583"
+         x="45.66584"
+         y="113.61726">$0.06$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="45.538406"
+       y="103.42255"
+       id="text39933-7-9-64"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39931-8-5-1"
+         style="stroke-width:0.264583"
+         x="45.538406"
+         y="103.42255">$0.08$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="45.410973"
+       y="93.227867"
+       id="text39933-7-9-3"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39931-8-5-90"
+         style="stroke-width:0.264583"
+         x="45.410973"
+         y="93.227867">$0.10$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="45.283539"
+       y="83.415459"
+       id="text39933-7-9-5"
+       inkscape:export-filename="C:\Users\bigba\OneDrive\Documenti\GitHub\bone-homogenization\report\figures\path19.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan39931-8-5-8"
+         style="stroke-width:0.264583"
+         x="45.283539"
+         y="83.415459">$0.12$</tspan></text>
+  </g>
+</svg>
