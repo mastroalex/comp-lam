@@ -2,55 +2,48 @@ This is BibTeX, Version 0.99d (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: vancouver-authoryear.bst
+I found no \citation commands---while reading file main.aux
 Database file #1: paper-refs.bib
-Name 1 in "Ferguson, Stephen J, and Thomas Steffen" has a comma at the end for entry Ferguson:2003
-while executing---line 1732 of file vancouver-authoryear.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Name 1 in "Ferguson, Stephen J, and Thomas Steffen" has a comma at the end for entry Ferguson:2003
-while executing---line 1804 of file vancouver-authoryear.bst
-Warning--empty booktitle in Doktor:2011
-Too many commas in name 2 of "Keller, T.  S.  and Ziv, I. , Moeljanto, E.  and Spengler, D. " for entry Keller:1993
-while executing---line 1804 of file vancouver-authoryear.bst
-Warning--empty journal in ESA:2005
-You've used 15 entries,
+You've used 0 entries,
             3097 wiz_defined-function locations,
-            780 strings with 7791 characters,
-and the built_in function-call counts, 24304 in all, are:
-= -- 2955
-> -- 208
-< -- 7
-+ -- 150
-- -- 52
-* -- 2053
-:= -- 2660
-add.period$ -- 47
-call.type$ -- 15
-change.case$ -- 2
-chr.to.int$ -- 15
-cite$ -- 17
-duplicate$ -- 2060
-empty$ -- 2336
-format.name$ -- 81
-if$ -- 5626
+            671 strings with 5038 characters,
+and the built_in function-call counts, 27 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 8
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 154
-newline$ -- 83
-num.names$ -- 32
-pop$ -- 287
+missing$ -- 0
+newline$ -- 6
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 223
+skip$ -- 1
 stack$ -- 0
-substring$ -- 4491
-swap$ -- 320
-text.length$ -- 2
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 86
-warning$ -- 2
-while$ -- 134
+type$ -- 0
+warning$ -- 0
+while$ -- 0
 width$ -- 0
-write$ -- 203
-(There were 3 error messages)
+write$ -- 5
+(There was 1 error message)
