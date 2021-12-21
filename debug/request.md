@@ -130,7 +130,11 @@ Definizione dei parametri materiali nella sezione `SIMULAZIONE`.
 
 Fare running dalla sezione `SIMULAZIONE`.
 
+![](../code.drawio.svg)
+
+
 La risoluzione avviene tramite il ciclo:
+
 
 ```mathematica
 Do[
