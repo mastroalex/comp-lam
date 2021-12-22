@@ -28,7 +28,9 @@ Q_{21} & Q_{22} & 0 \\
 
 Che implementate forniscono risultati diversi:
 
-```mathematica
+1. Definisco le due matrici $T_\sigma$ e $T_\epsilon$
+  
+  ```mathematica
 \[DoubleStruckCapitalT]\[Sigma][\[Theta]_] := {{Cos[\[Theta]]^2, 
     Sin[\[Theta]]^2, 2 Cos[\[Theta]] Sin[\[Theta]]},
    {Sin[\[Theta]]^2, 
@@ -41,7 +43,9 @@ Che implementate forniscono risultati diversi:
    {-2 Cos[\[Theta]] Sin[\[Theta]], 2 Cos[\[Theta]] Sin[\[Theta]], 
     Cos[\[Theta]]^2 - Sin[\[Theta]]^2}};
 ```
-E
+
+
+2. Calcolo $\bar Q$
 
 ```mathematica
 (*lessons*)
@@ -58,7 +62,7 @@ MatrixForm[
      0}, {2.91, 9.71, 0}, {0, 0, 
     4.55}} . \[DoubleStruckCapitalT]\[Epsilon][45*Pi/180]]
 ```
-Output:
+3. Output:
 
 $\begin{aligned}
 &\left(\begin{array}{ccc}
@@ -101,7 +105,7 @@ $\{\mathbb{A}, \mathbb{B}, \mathbb{D}\}:=\left\{\left(\begin{array}{ccc}
 -0.211969 & -0.134283 & 0.181249
 \end{array}\right)\right\}$
 
-![](fig/2021-12-20-23-13-02.png)
+![](fig/2021-12-20-23-13-02.png =50%x )
 
 ## Definizione vista a lezione: 
 
@@ -119,7 +123,7 @@ $\{\mathbb{A}, \mathbb{B}, \mathbb{D}\}:=\left\{\left(\begin{array}{lll}
 0.211969 & 0.134283 & 0.181249
 \end{array}\right)\right\}$
 
-![](fig/2021-12-20-23-14-51.png)
+![](fig/2021-12-20-23-14-51.png =50%x )
 
 > Quale è corretta ?
 
@@ -128,7 +132,7 @@ $\{\mathbb{A}, \mathbb{B}, \mathbb{D}\}:=\left\{\left(\begin{array}{lll}
 
 Definizione dei parametri materiali nella sezione `SIMULAZIONE`.
 
-Fare running dalla sezione `SIMULAZIONE`.
+Running dalla sezione `SIMULAZIONE`.
 
 ![](../code.drawio.svg)
 
@@ -162,3 +166,85 @@ Do[
 1. `totalQ` calcola le matrici $[Q]$ e le ordina in un vettore dal livello inferiore al superiore. Analogamente per gli angoli $\theta\theta$ e lo spessore $zzv$.
 2. L'output di `totalQ`viene passato a `ABDcomp1` che restituisce $\{\mathbb{A}, \mathbb{B}, \mathbb{D}\}$. **Qui c'è il problema della definizione di $[\bar Q]$**
    
+
+## Esempio 1
+
+![](pastedFig/2021-12-22-08-43-03.png =75%x )
+
+- Definizione Kollar: $\{\mathbb{A}, \mathbb{B}, \mathbb{D}\}:=\left\{\left(\begin{array}{lll}
+194.525 & 39.4633 & 34.7917 \\
+39.4633 & 55.3582 & 34.7917 \\
+34.7917 & 34.7917 & 42.7391
+\end{array}\right),\left(\begin{array}{ccc}
+-51.6112 & 16.8196 & 17.3958 \\
+16.8196 & 17.9721 & 17.3958 \\
+17.3958 & 17.3958 & 16.8196
+\end{array}\right),\left(\begin{array}{llll}
+64.8416 & 13.1544 & 11.5972 \\ 13.1544 & 18.4527 & 11.5972 \\
+11.5972 & 11.5972 & 14.2464
+\end{array}\right)\right\}$
+- Definizione lezione:$\left(\begin{array}{ccc}
+194.525 & 39.4633 & -34.7917 \\
+39.4633 & 55.3582 & -34.7917 \\
+-34.7917 & -34.7917 & 42.7391
+\end{array}\right),\left(\begin{array}{ccc}
+-51.6112 & 16.8196 & -17.3958 \\
+16.8196 & 17.9721 & -17.3958 \\
+-17.3958 & -17.3958 & 16.8196
+\end{array}\right),\left(\begin{array}{ccc}
+64.8416 & 13.1544 & -11.5972 \\
+13.1544 & 18.4527 & -11.5972 \\
+-11.5972 & -11.5972 & 14.2464
+\end{array}\right)$
+
+Risultati:
+
+![](pastedFig/2021-12-22-08-47-33.png =500x )
+
+In particolare i risultati corrispondono solo con la definizione del Kollar.
+
+## Esempio 2
+
+- Def. Kollar: $\left(\begin{array}{lll}
+77.8099 & 15.7853 & 13.9167 \\
+15.7853 & 22.1433 & 13.9167 \\
+13.9167 & 13.9167 & 17.0956
+\end{array}\right),\left(\begin{array}{lll}
+-4.1289 & 1.34556 & 1.39167 \\
+1.34556 & 1.43777 & 1.39167 \\
+1.39167 & 1.39167 & 1.34556
+\end{array}\right),\left(\begin{array}{ccc}
+4.14986 & 0.841883 & 0.742222 \\
+0.841883 & 1.18097 & 0.742222 \\
+0.742222 & 0.742222 & 0.911768
+\end{array}\right)$
+- Def. Lezione: $\{\mathbb{A}, \mathbb{B}, \mathbb{D}\}:=\left\{\left(\begin{array}{ccc}
+77.8099 & 15.7853 & -13.9167 \\
+15.7853 & 22.1433 & -13.9167 \\
+-13.9167 & -13.9167 & 17.0956
+\end{array}\right),\left(\begin{array}{ccc}
+-4.1289 & 1.34556 & -1.39167 \\
+1.34556 & 1.43777 & -1.39167 \\
+-1.39167 & -1.39167 & 1.34556
+\end{array}\right),\left(\begin{array}{cc}
+4.14986 & 0.841883 & -0.742222 \\
+0.841883 & 1.18097 & -0.742222 \\
+-0.742222 & -0.742222 & 0.911768
+\end{array}\right)\right\}$
+
+
+Risultati:
+
+![](pastedFig/2021-12-22-08-49-39.png =75%x )
+
+
+## Caso $[-30_{1}/-45_{1}/-30_{1}/-45_{1}]$
+
+Forse continuo ad ottenere risultati particolari:
+
+![](pastedFig/2021-12-22-08-57-32.png =50%x )
+
+![](pastedFig/2021-12-22-08-57-42.png =50%x )
+
+
+
