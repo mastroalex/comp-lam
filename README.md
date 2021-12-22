@@ -7,8 +7,11 @@
 - [18 dec](test4/README.md) - Optimized dimension and obtained post processing graphs. See also [first_test](first_test/README.md) for the unique test code. Complete first serie of test for $[-\alpha,\alpha,30,-30/0_2]_s$. Started [report](report/README.md)
 - [19 dec](more_test/README.md) - Starting generalizing code to accept more cases. 
 - [20 dec](more_test/README.md) - Added post processing visual information. Started some test. Started wrtiting report. Started some debug test --> see [debug folder](debug/README.md)
+- [21 dec](debug/README.md) - Lits all question: [request](debug/request.md). Discovered markdown fig dimension comand and personalized command. 
+- [22 dec](/more_test/stress.md) - Talk with prof: the error was in the interpretation of the rotation matrix. Correct interpretation is **the one from Kollar**. Update all code! 
 
 ## To-Do 
 
-* [ ] Make other test from Kollar example
-* [ ] Start testing from request!!
+* [x] Make other test from Kollar example
+* [x] Start testing from request!!
+* [ ] TEST ALL 
