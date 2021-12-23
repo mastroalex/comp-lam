@@ -64,7 +64,114 @@ Simple function:
 
 ![](pastedFig/2021-12-22-10-58-13.png =50%x)
 
-## What to plot ? $σ_x$, $σ_y$ o $σ_{xy}$  ?
+## How to plot ? $σ_x$, $σ_y$ o $σ_{xy}$  ?
 SOME PROBLEM: 
 
 ![](pastedFig/2021-12-22-11-18-43.png)
+
+### Use `Pieciewise[]`
+
+```mathematica
+Do[
+ plotval = 
+   Join[plotval, {{(\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ][[
+          i]] . \[Epsilon]FINCalc[x])[[1]], 
+      zzv[[i]] < x < zzv[[i + 1]]}}];
+ , {i, 1, Length[\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ]]}
+ ]
+plotfun = Piecewise[plotval
+   ];
+MatrixForm[plotval]
+xval
+Plot[plotfun, {x, zzv[[1]], zzv[[Length[zzv]]]}]
+```
+
+![](pastedFig/2021-12-23-07-04-14.png =50%x)
+
+### Transform into procedure:
+
+```mathematica
+plotStress[QQ_, zzv_] := (
+   plotval = {};
+   Do[
+    plotval = 
+      Join[
+       plotval, {{(\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ][[
+             i]] . \[Epsilon]FINCalc[x])[[1]], 
+         zzv[[i]] < x < zzv[[i + 1]]}}];
+    , {i, 1, Length[\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ]]}
+    ];
+   plotfun = Piecewise[plotval];
+   stressGraph = Plot[plotfun, {x, zzv[[1]], zzv[[Length[zzv]]]}];
+   Print[stressGraph];
+   );
+```
+### Problem: do not use $ [Q]$ but $[\bar Q]$ 
+
+Update `Do[]`cycle as:
+```mathematica
+Do[
+  plotval = 
+    Join[
+     plotval, {{((Inverse[\[DoubleStruckCapitalT]\[Sigma][\[Theta]\
+\[Theta][[i]]]] . \[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ][[
+             i]] . \
+\[DoubleStruckCapitalT]\[Epsilon][\[Theta]\[Theta][[
+              i]]]) . \[Epsilon]FINCalc[x])[[2]], 
+       zzv[[i]] < x < zzv[[i + 1]]}}];
+  , {i, 1, Length[\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ]]}
+  ];
+```
+
+Now it seem better:
+
+![](pastedFig/2021-12-23-07-19-29.png =75%x)
+
+
+## Final procedure:
+
+```mathematica
+plotStress[QQ_, zzv_, \[Theta]\[Theta]_, axis_] := (
+   If[axis == "\[Sigma]x", index = 1];
+   If[axis == "\[Sigma]y", index = 2];
+   If[axis == "\[Tau]xy", index = 3];
+   plotval = {};
+   plotval1 = {};
+   Do[
+    plotval = 
+      Join[
+       plotval, {{((Inverse[\[DoubleStruckCapitalT]\[Sigma][\[Theta]\
+\[Theta][[i]]]] . \[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ][[
+               i]] . \[DoubleStruckCapitalT]\[Epsilon][\[Theta]\
+\[Theta][[i]]]) . \[Epsilon]FINCalc[x])[[index]], 
+         zzv[[i]] < x < zzv[[i + 1]]}}];
+    , {i, 1, Length[\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ]]}
+    ];
+   Do[
+    plotval1 = 
+      Join[
+       plotval1, {{((Inverse[\[DoubleStruckCapitalT]\[Sigma][\[Theta]\
+\[Theta][[i]]]] . \[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ][[
+               i]] . \[DoubleStruckCapitalT]\[Epsilon][\[Theta]\
+\[Theta][[i]]]) . {1, 1, 1})[[index]], 
+         zzv[[i]] < x < zzv[[i + 1]]}}];
+    , {i, 1, Length[\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ]]}
+    ];
+   plotfun = Piecewise[plotval];
+   plotfun1 = Piecewise[plotval1];
+   stressGraph = 
+    Plot[plotfun, {x, zzv[[1]], zzv[[Length[zzv]]]}, 
+     Exclusions -> None, PlotLabel -> axis];
+   qgraph1 = 
+    Plot[plotfun1, {x, zzv[[1]], zzv[[Length[zzv]]]}, 
+     Exclusions -> None, PlotLabel -> "\[DoubleStruckCapitalQ]"];
+   epsilongraph1 = 
+    Plot[(\[Epsilon]FINCalc[x])[[index]], {x, zzv[[1]], 
+      zzv[[Length[zzv]]]}, Exclusions -> None, 
+     PlotLabel -> "strain"];  
+   Print[stressGraph];
+   Print[qgraph1];
+   Print[epsilongraph1];
+   );
+```
+![](pastedFig/2021-12-23-07-50-55.png =75%x)
