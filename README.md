@@ -8,7 +8,10 @@
 - [19 dec](more_test/README.md) - Starting generalizing code to accept more cases. 
 - [20 dec](more_test/README.md) - Added post processing visual information. Started some test. Started wrtiting report. Started some debug test --> see [debug folder](debug/README.md)
 - [21 dec](debug/README.md) - Lits all question: [request](debug/request.md). Discovered markdown fig dimension comand and personalized command. 
-- [22 dec](/more_test/stress.md) - Talk with prof: the error was in the interpretation of the rotation matrix. Correct interpretation is **the one from Kollar**. Update all code! 
+- [22 dec](/debug/stress.md) - Talk with prof: the error was in the interpretation of the rotation matrix. Correct interpretation is **the one from Kollar**. Update all code! 
+- 23 dec - Finished σ plotting, see [stress.md](debug/stress.md). Corrected file: [first_test folder](first_test/README.md) and done test.
+- 24 dec - Corrected file: [more_Test folder](first_test/README.md) and done test.
+- 19 dec - Continue testing. [See more_test README](more_test/FABRIC/README.md). Developed code for fabric layer (`more_test_final_fabric.nb`) and for last case of analysis (`more_test_final_last_layer.nb`).
 
 ## To-Do 
 

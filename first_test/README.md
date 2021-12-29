@@ -137,4 +137,198 @@ Divided into
 
 ![](fig/2021-12-18-22-42-44.png)
 
+# Upload file
+
+> 23 dec - Correction from previous debug 
+
+## Correction into `first_test_3.nb`:
+  
+  - Added $\mathbb T_\epsilon$ into _Material Properties_
+  - Substitute $\mathbb Q_{bar}$ into `ABDcomp1[]`.
+  - Correction `zzv` into `totalQ[]`:
+
+From:
+```mathematica
+   zzv[[index + j + 1]] = layer[[i, 7]];
+```
+
+To
+
+```mathematica
+zzv[[index+j+1]]= zzv[[index+j]]+layer[[i,7]];
+```
+
+- Upload `zzv` final calculation:
+
+From:
+
+```mathematica
+Do[zzv[[k]] = zzv[[k - 1]] + zzv[[k]], {k, 2, Length[zzv]}];
+zzv = zzv - (Abs[zzv[[1]] - zzv[[Length[zzv]]]]/2);
+Return[{\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ], 
+  zzv, \[Theta]\[Theta]}]
+```
+
+To:
+
+```mathematica
+zzv = zzv - (Abs[zzv[[1]] + zzv[[Length[zzv]]]]/2);
+Return[{\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ], 
+  zzv, \[Theta]\[Theta]}]
+```
+
+## Code work -> `first_test_final.nb`
+
+Ad option to use different load conditions:
+- Add variabile `axLoad` and `trLoad`.
+- Pass it to `SimulationComplete[alpha,axLoad,trLoad]`
+- Pass it to `MyGeometry[]`
+- Substitute it to `q1` and `q3` value 
+- Exporto with different path to clean folder:
+
+```mathematica
+If[axLoad == 0, 
+ path = StringJoin[NotebookDirectory[], "/transversal_load/"]];
+If[trLoad == 0, 
+ path = StringJoin[NotebookDirectory[], "/axial_load/"]];
+If[axLoad != 0 && trLoad != 0, 
+ path = StringJoin[NotebookDirectory[], "/both_load/"]];
+ ```
+
+Refine code and save it as `first_test_final.nb`.
+
+## Redone all the test
+
+> All seems ok!
+
+Test done:
+- Plate with axial load
+- Plate with transversal load
+- Plate with both load
+- Cylinder
+
+> 24 dec
+
+## Correction for `more_test.nb`
+
+Save file into `more_test2.nb`.
+
+  
+  - Added $\mathbb T_\epsilon$ into _Material Properties_
+  - Substitute $\mathbb Q_{bar}$ into `ABDcomp1[]`.
+  - Correction `zzv` into `totalQ[]`:
+
+From:
+```mathematica
+   zzv[[index + j + 1]] = layer[[i, 7]];
+```
+
+To
+
+```mathematica
+zzv[[index+j+1]]= zzv[[index+j]]+layer[[i,7]];
+```
+
+- Upload `zzv` final calculation:
+
+From:
+
+```mathematica
+Do[zzv[[k]] = zzv[[k - 1]] + zzv[[k]], {k, 2, Length[zzv]}];
+zzv = zzv - (Abs[zzv[[1]] - zzv[[Length[zzv]]]]/2);
+Return[{\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ], 
+  zzv, \[Theta]\[Theta]}]
+```
+
+To:
+
+```mathematica
+zzv = zzv - (Abs[zzv[[1]] + zzv[[Length[zzv]]]]/2);
+Return[{\[DoubleStruckCapitalQ]\[DoubleStruckCapitalQ], 
+  zzv, \[Theta]\[Theta]}]
+```
+
+  - Added `PostStrainCurvature[]`and relative function in Post Processing Procedure
+    - `εFINCalc[]`
+    - `plotStress[]`
+  
+- Added `plotStress[]` in `SimulationComplete[]`procedure
+
+- Added command for export different load conditions:
+
+```mathematica
+If[axLoad == 0, 
+ path1 = StringJoin[NotebookDirectory[], "/transversal_load/"]];
+If[trLoad == 0, 
+ path1 = StringJoin[NotebookDirectory[], "/axial_load/"]];
+If[axLoad != 0 && trLoad != 0, 
+ path1 = StringJoin[NotebookDirectory[], "/both_load/"]];
+path = Table[layer[[j, 2]], {j, 1, Length[layer]}];
+(*...*)
+Export[path1, "/", 
+   ToString[path], "/W_X", ".pdf"], graph1, "pdf"];
+```
+
+And export for StressInThickness:
+```mathematica
+Export[StringJoin[NotebookDirectory[], "/", path1, "stressGraph", "_",
+      ToString[axis], ".pdf"], stressGraph, "pdf"];
+  Export[
+    StringJoin[NotebookDirectory[], "/", path1, "Q", "_", 
+     ToString[axis], ".pdf"], qgraph1, "pdf"];
+  Export[
+    StringJoin[NotebookDirectory[], "/", path1, "epsilon", "_", 
+     ToString[axis], ".pdf"], epsilongraph1, "pdf"];
+  );
+```
+
+## This code not work very well --> Now I use the one from `debug`folder and upload export path.
+
+--> To `more_test3.nb`
+
+✅ Now all works
+
+### Testing mesh refinements to solve $[-30/-45/-30/-45]$ 
+
+Now: 
+
+![](pastedFig/2021-12-24-08-23-06.png =50%x)
+
+Into `MyGeometry` set `nmesh`from 20 to 40. Than to 60. 
+
+![](pastedFig/2021-12-24-08-30-09.png =50%x)
+
+![](pastedFig/2021-12-24-08-31-33.png =50%x)
+
+> 40 could be ok 
+
+
+Analyze it more depth:
+
+#### Only transversal load:
+
+![](pastedFig/2021-12-24-08-34-55.png =50%x)
+
+Reducing load by $10^{-1}$:
+
+Only rescaling
+
+![](pastedFig/2021-12-24-08-35-52.png =50%x)
+
+### Only axial load:
+
+![](pastedFig/2021-12-24-08-39-15.png =50%x)
+
+## Added `path` also for cylinder simulation
+
+## Clean all code and folder files
+
+--> `more_test.final.nb`.
+
+## Redone all tests
+
+### First of all:
+- [x] In plane - out plane 
+- [x] Fabric layer 
+- [ ] Verify and comment in report couplig (pg 76 Kollar) and matrix form.
 
