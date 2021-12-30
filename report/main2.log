@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  20 DEC 2021 13:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  30 DEC 2021 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2125,7 +2125,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 TextBlockOrigin set to 4pc+6.64pt x 4pc+6pt
-<figures//logo.png, id=88, 336.384pt x 337.698pt>
+<figures//logo.png, id=96, 336.384pt x 337.698pt>
 File: figures//logo.png Graphic file (type png)
 <use figures//logo.png>
 Package pdftex.def Info: figures//logo.png  used on input line 158.
@@ -2199,7 +2199,7 @@ LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct1.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<figures//struct1.pdf, id=101, 1371.1225pt x 770.88pt>
+<figures//struct1.pdf, id=109, 1371.1225pt x 770.88pt>
 File: figures//struct1.pdf Graphic file (type pdf)
 <use figures//struct1.pdf>
 Package pdftex.def Info: figures//struct1.pdf  used on input line 200.
@@ -2238,7 +2238,7 @@ LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct2.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<figures//struct2.pdf, id=102, 1371.1225pt x 770.88pt>
+<figures//struct2.pdf, id=110, 1371.1225pt x 770.88pt>
 File: figures//struct2.pdf Graphic file (type pdf)
 <use figures//struct2.pdf>
 Package pdftex.def Info: figures//struct2.pdf  used on input line 207.
@@ -2247,7 +2247,7 @@ Package pdftex.def Info: figures//struct2.pdf  used on input line 207.
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct3.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<figures//struct3.pdf, id=103, 1371.1225pt x 770.88pt>
+<figures//struct3.pdf, id=111, 1371.1225pt x 770.88pt>
 File: figures//struct3.pdf Graphic file (type pdf)
 <use figures//struct3.pdf>
 Package pdftex.def Info: figures//struct3.pdf  used on input line 214.
@@ -2256,7 +2256,7 @@ Package pdftex.def Info: figures//struct3.pdf  used on input line 214.
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct4.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<figures//struct4.pdf, id=104, 1371.1225pt x 770.88pt>
+<figures//struct4.pdf, id=112, 1371.1225pt x 770.88pt>
 File: figures//struct4.pdf Graphic file (type pdf)
 <use figures//struct4.pdf>
 Package pdftex.def Info: figures//struct4.pdf  used on input line 221.
@@ -2277,38 +2277,28 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Merriwthr-OsF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<figures//plate_.pdf, id=106, 401.5pt x 401.5pt>
+<figures//plate_.pdf, id=114, 401.5pt x 401.5pt>
 File: figures//plate_.pdf Graphic file (type pdf)
 <use figures//plate_.pdf>
 Package pdftex.def Info: figures//plate_.pdf  used on input line 252.
 (pdftex.def)             Requested size: 117.17737pt x 117.17331pt.
-<figures//plate_deformed.pdf, id=107, 602.25pt x 355.3275pt>
-File: figures//plate_deformed.pdf Graphic file (type pdf)
-<use figures//plate_deformed.pdf>
-Package pdftex.def Info: figures//plate_deformed.pdf  used on input line 259.
-(pdftex.def)             Requested size: 117.17737pt x 69.13405pt.
-
-Underfull \hbox (badness 3895) in paragraph at lines 260--260
-[]\T1/Merriwthr-OsF/b/n/6.8438 (+20) (b) |\T1/Merriwthr-OsF/m/up/6.8438 (+20) E
-l-e-mento tipo pi-as-tra (CASO
- []
-
-<figures//cyl_.pdf, id=108, 602.25pt x 602.25pt>
+<figures///first_test/alpha=40.pdf, id=115, 401.5pt x 264.99pt>
+File: figures///first_test/alpha=40.pdf Graphic file (type pdf)
+<use figures///first_test/alpha=40.pdf>
+Package pdftex.def Info: figures///first_test/alpha=40.pdf  used on input line 
+259.
+(pdftex.def)             Requested size: 117.17737pt x 77.33438pt.
+<figures//cyl_.pdf, id=117, 602.25pt x 602.25pt>
 File: figures//cyl_.pdf Graphic file (type pdf)
 <use figures//cyl_.pdf>
 Package pdftex.def Info: figures//cyl_.pdf  used on input line 266.
 (pdftex.def)             Requested size: 117.17737pt x 117.17636pt.
-<figures//cyl_deformed.pdf, id=109, 903.375pt x 708.6475pt>
-File: figures//cyl_deformed.pdf Graphic file (type pdf)
-<use figures//cyl_deformed.pdf>
-Package pdftex.def Info: figures//cyl_deformed.pdf  used on input line 273.
-(pdftex.def)             Requested size: 117.17737pt x 91.91115pt.
-
-Underfull \hbox (badness 1635) in paragraph at lines 274--274
-[]\T1/Merriwthr-OsF/b/n/6.8438 (+20) (d) |\T1/Merriwthr-OsF/m/up/6.8438 (+20) E
-l-e-mento tipo cilin-dro (CASO
- []
-
+<figures///more_test/cyl_30_45_30_45.pdf, id=118, 602.25pt x 462.72874pt>
+File: figures///more_test/cyl_30_45_30_45.pdf Graphic file (type pdf)
+<use figures///more_test/cyl_30_45_30_45.pdf>
+Package pdftex.def Info: figures///more_test/cyl_30_45_30_45.pdf  used on input
+ line 273.
+(pdftex.def)             Requested size: 117.17737pt x 90.0305pt.
 
 Underfull \hbox (badness 1831) in paragraph at lines 286--287
 []\T1/Merriwthr-OsF/m/up/7.5 (+20) PRESENTA I DUE DIF-FER-ENTI ELEEMTNI STRUT-T
@@ -2323,82 +2313,150 @@ ble
 ine 294.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/it' will be
 (Font)              scaled to size 7.5pt on input line 294.
-<figures//U_Y=.pdf, id=110, 260.975pt x 141.52875pt>
-File: figures//U_Y=.pdf Graphic file (type pdf)
-<use figures//U_Y=.pdf>
-Package pdftex.def Info: figures//U_Y=.pdf  used on input line 302.
-(pdftex.def)             Requested size: 219.70105pt x 119.14679pt.
-<figures//V_X=.pdf, id=111, 260.975pt x 139.52126pt>
-File: figures//V_X=.pdf Graphic file (type pdf)
-<use figures//V_X=.pdf>
-Package pdftex.def Info: figures//V_X=.pdf  used on input line 309.
-(pdftex.def)             Requested size: 219.70105pt x 117.45677pt.
-<figures//W_Y=.pdf, id=112, 260.975pt x 137.51375pt>
-File: figures//W_Y=.pdf Graphic file (type pdf)
-<use figures//W_Y=.pdf>
-Package pdftex.def Info: figures//W_Y=.pdf  used on input line 316.
-(pdftex.def)             Requested size: 219.70105pt x 115.76674pt.
-<figures//W_X=.pdf, id=113, 260.975pt x 139.52126pt>
-File: figures//W_X=.pdf Graphic file (type pdf)
-<use figures//W_X=.pdf>
-Package pdftex.def Info: figures//W_X=.pdf  used on input line 323.
-(pdftex.def)             Requested size: 219.70105pt x 117.45677pt.
+<figures///first_test/bothload/V_X.pdf, id=120, 260.975pt x 139.52126pt>
+File: figures///first_test/bothload/V_X.pdf Graphic file (type pdf)
+<use figures///first_test/bothload/V_X.pdf>
+Package pdftex.def Info: figures///first_test/bothload/V_X.pdf  used on input l
+ine 302.
+(pdftex.def)             Requested size: 146.46985pt x 78.30592pt.
+<figures///first_test/bothload/W_Y.pdf, id=121, 260.975pt x 137.51375pt>
+File: figures///first_test/bothload/W_Y.pdf Graphic file (type pdf)
+<use figures///first_test/bothload/W_Y.pdf>
+Package pdftex.def Info: figures///first_test/bothload/W_Y.pdf  used on input l
+ine 309.
+(pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
+<figures///first_test/bothload/W_X.pdf, id=122, 260.975pt x 137.51375pt>
+File: figures///first_test/bothload/W_X.pdf Graphic file (type pdf)
+<use figures///first_test/bothload/W_X.pdf>
+Package pdftex.def Info: figures///first_test/bothload/W_X.pdf  used on input l
+ine 317.
+(pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
+<figures///first_test/transversal_load/V_X.pdf, id=124, 260.975pt x 137.51375pt
+>
+File: figures///first_test/transversal_load/V_X.pdf Graphic file (type pdf)
+<use figures///first_test/transversal_load/V_X.pdf>
+Package pdftex.def Info: figures///first_test/transversal_load/V_X.pdf  used on
+ input line 332.
+(pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
+<figures///first_test/transversal_load/W_Y.pdf, id=125, 260.975pt x 137.51375pt
+>
+File: figures///first_test/transversal_load/W_Y.pdf Graphic file (type pdf)
+<use figures///first_test/transversal_load/W_Y.pdf>
+Package pdftex.def Info: figures///first_test/transversal_load/W_Y.pdf  used on
+ input line 339.
+(pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
+<figures///first_test/transversal_load/W_X.pdf, id=126, 260.975pt x 137.51375pt
+>
+File: figures///first_test/transversal_load/W_X.pdf Graphic file (type pdf)
+<use figures///first_test/transversal_load/W_X.pdf>
+Package pdftex.def Info: figures///first_test/transversal_load/W_X.pdf  used on
+ input line 347.
+(pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
+<figures///first_test/axial_load/V_X.pdf, id=128, 260.975pt x 139.52126pt>
+File: figures///first_test/axial_load/V_X.pdf Graphic file (type pdf)
+<use figures///first_test/axial_load/V_X.pdf>
+Package pdftex.def Info: figures///first_test/axial_load/V_X.pdf  used on input
+ line 361.
+(pdftex.def)             Requested size: 146.46985pt x 78.30592pt.
+<figures///first_test/axial_load/W_Y.pdf, id=129, 260.975pt x 133.49875pt>
+File: figures///first_test/axial_load/W_Y.pdf Graphic file (type pdf)
+<use figures///first_test/axial_load/W_Y.pdf>
+Package pdftex.def Info: figures///first_test/axial_load/W_Y.pdf  used on input
+ line 368.
+(pdftex.def)             Requested size: 146.46985pt x 74.92581pt.
+<figures///first_test/axial_load/W_X.pdf, id=130, 260.975pt x 133.49875pt>
+File: figures///first_test/axial_load/W_X.pdf Graphic file (type pdf)
+<use figures///first_test/axial_load/W_X.pdf>
+Package pdftex.def Info: figures///first_test/axial_load/W_X.pdf  used on input
+ line 376.
+(pdftex.def)             Requested size: 146.46985pt x 74.92581pt.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 7.8pt on input line 335.
+(Font)              scaled to size 7.8pt on input line 389.
 [2]
-Underfull \vbox (badness 5175) has occurred while \output is active []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 1454) has occurred while \output is active []
+
  [3 <./figures//struct1.pdf> <./figures//struct2.pdf> <./figures//struct3.pdf> 
-<./figures//struct4.pdf> <./figures//plate_.pdf> <./figures//plate_deformed.pdf
+<./figures//struct4.pdf> <./figures//plate_.pdf> <./figures///first_test/alpha=
+40.pdf
 
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//plate_deformed.pd
-f): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/alpha
+=40.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
 > <./figures//cyl_.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//cyl_.pdf): PDF in
 clusion: multiple pdfs with page group included in a single page
-> <./figures//cyl_deformed.pdf
+> <./figures///more_test/cyl_30_45_30_45.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//cyl_deformed.pdf)
-: PDF inclusion: multiple pdfs with page group included in a single page
-> <./figures//U_Y=.pdf
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///more_test/cyl_30
+_45_30_45.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
+> <./figures///first_test/bothload/V_X.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//U_Y=.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
-> <./figures//V_X=.pdf
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/bothl
+oad/V_X.pdf): PDF inclusion: multiple pdfs with page group included in a single
+ page
+> <./figures///first_test/bothload/W_Y.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//V_X=.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
-> <./figures//W_Y=.pdf
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/bothl
+oad/W_Y.pdf): PDF inclusion: multiple pdfs with page group included in a single
+ page
+> <./figures///first_test/bothload/W_X.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//W_Y=.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
-> <./figures//W_X=.pdf
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/bothl
+oad/W_X.pdf): PDF inclusion: multiple pdfs with page group included in a single
+ page
+> <./figures///first_test/transversal_load/V_X.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//W_X=.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/trans
+versal_load/V_X.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+> <./figures///first_test/transversal_load/W_Y.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/trans
+versal_load/W_Y.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+> <./figures///first_test/transversal_load/W_X.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/trans
+versal_load/W_X.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+> <./figures///first_test/axial_load/V_X.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/axial
+_load/V_X.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
+> <./figures///first_test/axial_load/W_Y.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/axial
+_load/W_Y.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
+> <./figures///first_test/axial_load/W_X.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/axial
+_load/W_X.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
 >] [4]
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct5.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<figures//struct5.pdf, id=329, 1371.1225pt x 770.88pt>
+<figures//struct5.pdf, id=413, 1371.1225pt x 770.88pt>
 File: figures//struct5.pdf Graphic file (type pdf)
 <use figures//struct5.pdf>
-Package pdftex.def Info: figures//struct5.pdf  used on input line 363.
+Package pdftex.def Info: figures//struct5.pdf  used on input line 419.
 (pdftex.def)             Requested size: 146.46985pt x 82.33865pt.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 454.
 [5 <./figures//struct5.pdf>] (./main2.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 6.
 
 ) 
 AED: lastpage setting LastPage
-[6
-
-] (./main2.aux)
+[6] (./main2.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -2406,23 +2464,17 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `main2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main2.out':
-(rerunfilecheck)             Before: 6C42C429BD358379005E5EE19EFFD5C8;2849
-(rerunfilecheck)             After:  9D91F5373F04A936C78F22823203E67F;3131.
+Package rerunfilecheck Info: File `main2.out' has not changed.
+(rerunfilecheck)             Checksum: 9D91F5373F04A936C78F22823203E67F;3131.
  ) 
 Here is how much of TeX's memory you used:
- 38674 strings out of 478994
- 731789 string characters out of 5858184
- 1356004 words of memory out of 5000000
- 54959 multiletter control sequences out of 15000+600000
- 1387152 words of font info for 394 fonts, out of 8000000 for 9000
+ 38735 strings out of 478994
+ 734556 string characters out of 5858184
+ 1363007 words of memory out of 5000000
+ 54996 multiletter control sequences out of 15000+600000
+ 1406654 words of font info for 407 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 126i,12n,131p,473b,886s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 126i,13n,131p,473b,886s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2021/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_owzwzj.enc}{/usr
 /local/texlive/2021/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_posqbl.en
@@ -2434,12 +2486,13 @@ e1/sorkin/merriweather/Merriwthr-Regular.pfb></usr/local/texlive/2021/texmf-dis
 t/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2021/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2021/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/texmf-dist
-/fonts/type1/public/amsfonts/euler/eurm7.pfb></usr/local/texlive/2021/texmf-dis
-t/fonts/type1/public/lm/lmtt8.pfb>
-Output written on main2.pdf (6 pages, 5831127 bytes).
+/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/local/texlive/2021/texmf-dis
+t/fonts/type1/public/amsfonts/euler/eurm7.pfb></usr/local/texlive/2021/texmf-di
+st/fonts/type1/public/lm/lmtt8.pfb>
+Output written on main2.pdf (6 pages, 5661767 bytes).
 PDF statistics:
- 428 PDF objects out of 1000 (max. 8388607)
- 295 compressed objects within 3 object streams
- 38 named destinations out of 1000 (max. 500000)
- 172787 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 515 PDF objects out of 1000 (max. 8388607)
+ 355 compressed objects within 4 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 176924 words of extra memory for PDF output out of 184870 (max. 10000000)
 

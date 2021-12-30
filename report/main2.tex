@@ -256,8 +256,8 @@ Vengono affrontati anche due elementi strutturali differenti:
 	\hfill
 	\begin{subfigure}[t]{0.24\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{plate_deformed.pdf}
-		\caption{Elemento tipo piastra (CASO METTIR RIFERIMENTO}
+		\includegraphics[width=\textwidth]{/first_test/alpha=40.pdf}
+		\caption{Elemento tipo piastra deformato (caso \cref{sec:plate_A}  con $\alpha=40^\circ$ )}
 		\label{fig:five over x}
 	\end{subfigure}
 	\hfill
@@ -270,8 +270,8 @@ Vengono affrontati anche due elementi strutturali differenti:
 	\hfill
 	\begin{subfigure}[t]{0.24\textwidth}
 	\centering
- \includegraphics[width=\textwidth]{cyl_deformed.pdf}
-	\caption{Elemento tipo cilindro (CASO METTIR RIFERIMENTO}
+ \includegraphics[width=\textwidth]{/more_test/cyl_30_45_30_45.pdf}
+	\caption{Elemento tipo cilindro deformato (caso \cref{sec:cyl_C}}
 	\label{fig:five ove x}
 \end{subfigure}
 	\hfill
@@ -296,38 +296,92 @@ PRESENTA I DUE DIFFERENTI ELEEMTNI STRUTTURALI
 
 \begin{figure*}[bt!]
 	\centering
-	\begin{subfigure}[t]{0.45\textwidth}
+
+	\begin{subfigure}[t]{0.3\textwidth}
 		\centering
-		
-		\includegraphics[width=\textwidth]{U_Y=.pdf}
-		\caption{Descrizione}
+		\includegraphics[width=\textwidth]{/first_test/bothload/V_X.pdf}
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=0$ della piastra}
 		
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}[t]{0.45\textwidth}
+	\begin{subfigure}[t]{0.3\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{V_X=.pdf}
-		\caption{Descrizione}
+\includegraphics[width=\textwidth]{/first_test/bothload/W_Y.pdf}
+		
+		\caption{Effetto torsionale, spostamento lungo $\hat z$ del bordo estremale della piastra ($x=L$)}
 		
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}[t]{0.45\textwidth}
+	\begin{subfigure}[t]{0.3\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{W_Y=.pdf}
-		\caption{Descrizione}
+		\includegraphics[width=\textwidth]{/first_test/bothload/W_X.pdf}
+		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
 		
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}[t]{0.45\textwidth}
-		\centering
-		\includegraphics[width=\textwidth]{W_X=.pdf}
-		\caption{Descrizione}
-		
-	\end{subfigure}
-	\hfill
-	\caption{Risultati caso (A) per un elemento strutturale tipo piastra (\cref{sec:plate_A})}
-	\label{fig:plate_A}
+	\caption{Risultati caso (a) per un elemento strutturale tipo piastra con entrambi i carichi (\cref{sec:plate_A})}
+	\label{fig:plate_A_both_load}
 \end{figure*}
+
+
+\begin{figure*}[bt!]
+	\centering
+	
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/first_test/transversal_load/V_X.pdf}
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/first_test/transversal_load/W_Y.pdf}
+		
+		\caption{Effetto torsionale, spostamento lungo $\hat z$ del bordo estremale della piastra ($x=L$)}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/first_test/transversal_load/W_X.pdf}
+		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\caption{Risultati caso (a) per un elemento strutturale tipo piastra con carichi tipo trasversale (\cref{sec:plate_A})}
+	\label{fig:plate_A_transload_load}
+\end{figure*}
+
+\begin{figure*}[bt!]
+	\centering
+	
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/first_test/axial_load/V_X.pdf}
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/first_test/axial_load/W_Y.pdf}
+		
+		\caption{Effetto torsionale, spostamento lungo $\hat z$ del bordo estremale della piastra ($x=L$)}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/first_test/axial_load/W_X.pdf}
+		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\caption{Risultati caso (a) per un elemento strutturale tipo piastra con carichi tipo assiale(\cref{sec:plate_A})}
+	\label{fig:plate_A_axial_load}
+\end{figure*}
+
 
 \textcolor{blue}{\lipsum[1-2]}
 
@@ -344,8 +398,10 @@ PRESENTA I DUE DIFFERENTI ELEEMTNI STRUTTURALI
 \subsubsection{Caso (a)}
 \textcolor{blue}{\lipsum[1-2]}
 \subsubsection{Caso (b)}
+\label{sec:cyl_B}
 \textcolor{blue}{\lipsum[1-2]}
 \subsubsection{Caso (c)}
+\label{sec:cyl_C}
 \textcolor{blue}{\lipsum[1-2]}
 \subsubsection{Caso (d)}
 \textcolor{blue}{\lipsum[1-2]}

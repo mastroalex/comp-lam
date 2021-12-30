@@ -11,7 +11,8 @@
 - [22 dec](/debug/stress.md) - Talk with prof: the error was in the interpretation of the rotation matrix. Correct interpretation is **the one from Kollar**. Update all code! 
 - 23 dec - Finished σ plotting, see [stress.md](debug/stress.md). Corrected file: [first_test folder](first_test/README.md) and done test.
 - 24 dec - Corrected file: [more_Test folder](first_test/README.md) and done test.
-- 19 dec - Continue testing. [See more_test README](more_test/FABRIC/README.md). Developed code for fabric layer (`more_test_final_fabric.nb`) and for last case of analysis (`more_test_final_last_layer.nb`).
+- 29 dec - Continue testing. [See more_test README](more_test/FABRIC/README.md). Developed code for fabric layer (`more_test_final_fabric.nb`) and for last case of analysis (`more_test_final_last_layer.nb`).
+- 30 dec - Added plot for last layer case.
 
 ## To-Do 
 
