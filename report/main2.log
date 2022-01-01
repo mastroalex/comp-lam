@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  30 DEC 2021 09:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  1 JAN 2022 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2183,7 +2183,7 @@ Overfull \hbox (54.64pt too wide) in paragraph at lines 158--158
  []
 
 
-Underfull \vbox (badness 3601) has occurred while \output is active []
+Underfull \vbox (badness 3536) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
 (Font)              scaled to size 7.8pt on input line 173.
@@ -2446,10 +2446,10 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct5.pdf): PDF
 <figures//struct5.pdf, id=413, 1371.1225pt x 770.88pt>
 File: figures//struct5.pdf Graphic file (type pdf)
 <use figures//struct5.pdf>
-Package pdftex.def Info: figures//struct5.pdf  used on input line 419.
+Package pdftex.def Info: figures//struct5.pdf  used on input line 420.
 (pdftex.def)             Requested size: 146.46985pt x 82.33865pt.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 454.
+(Font)              scaled to size 10.0pt on input line 455.
 [5 <./figures//struct5.pdf>] (./main2.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 6.
@@ -2468,10 +2468,10 @@ Package rerunfilecheck Info: File `main2.out' has not changed.
 (rerunfilecheck)             Checksum: 9D91F5373F04A936C78F22823203E67F;3131.
  ) 
 Here is how much of TeX's memory you used:
- 38735 strings out of 478994
- 734556 string characters out of 5858184
- 1363007 words of memory out of 5000000
- 54996 multiletter control sequences out of 15000+600000
+ 38737 strings out of 478994
+ 734583 string characters out of 5858184
+ 1362095 words of memory out of 5000000
+ 54998 multiletter control sequences out of 15000+600000
  1406654 words of font info for 407 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  126i,13n,131p,473b,886s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2489,7 +2489,7 @@ st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/local/texlive/2021/texmf-dis
 t/fonts/type1/public/amsfonts/euler/eurm7.pfb></usr/local/texlive/2021/texmf-di
 st/fonts/type1/public/lm/lmtt8.pfb>
-Output written on main2.pdf (6 pages, 5661767 bytes).
+Output written on main2.pdf (6 pages, 5661838 bytes).
 PDF statistics:
  515 PDF objects out of 1000 (max. 8388607)
  355 compressed objects within 4 object streams
