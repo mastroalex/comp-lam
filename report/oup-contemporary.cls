@@ -65,7 +65,7 @@
 
 
 \RequirePackage{scrextend}
-\changefontsizes[10.5pt]{7.5pt}
+\changefontsizes[12 pt]{9 pt}
 
 
 
@@ -137,23 +137,37 @@
 \RequirePackage{fancyhdr}
 \fancyhf{}
 \renewcommand{\headrule}{\color{black!15}\rule{\textwidth}{2pt}}
-\fancyhead[LE]{%
-  \hspace*{12pt}%
-  \fontsize{7.8pt}{10pt}\selectfont%
-  \color{jcolour}%
-  \textbf{\thepage}%
-  \hspace{1em}\raisebox{-0.5pt}{|}\hspace{1em}%
-%  \textit{\@jname}, \@jyear, Vol.~\@jvolume, No.~\@jnumber
-  \textit{\@jname}, \@jyear, No.~\@jnumber
+\lhead{%
+	%\hspace*{12pt}%
+	\fontsize{7.8pt}{10pt}\selectfont%
+	\color{jcolour}%
+	%\textbf{\thepage}%
+	%\hspace{1em}\raisebox{-0.5pt}{|}\hspace{1em}%
+	%  \textit{\@jname}, \@jyear, Vol.~\@jvolume, No.~\@jnumber
+	\textit{\@jname}, \@jyear, No.~\@jnumber
 }
-\fancyhead[RO]{%
-  \fontsize{7.8pt}{10pt}\selectfont%
-  \color{jcolour}%
-  \@runningauthor%
-  \hspace{1em}\raisebox{-0.5pt}{|}\hspace{1em}%
-  \textbf{\thepage}%
-  \hspace*{12pt}%
+\rfoot{
+	\color{jcolour}%
+	\textbf{\thepage}%
 }
+%\fancyhead[LE]{%
+	%  \hspace*{12pt}%
+	%  \fontsize{7.8pt}{10pt}\selectfont%
+	%  \color{jcolour}%
+	%  \textbf{\thepage}%
+	%  \hspace{1em}\raisebox{-0.5pt}{|}\hspace{1em}%
+	%%  \textit{\@jname}, \@jyear, Vol.~\@jvolume, No.~\@jnumber
+	%  \textit{\@jname}, \@jyear, No.~\@jnumber
+	%}
+%\fancyhead[RO]{%
+	%  \fontsize{7.8pt}{10pt}\selectfont%
+	%  \color{jcolour}%
+	%  \@runningauthor%
+	%  \hspace{1em}\raisebox{-0.5pt}{|}\hspace{1em}%
+	%  \textbf{\thepage}%
+	% \hspace*{12pt}%
+	%}
+
 
 \fancypagestyle{plain}{%
   \fancyhf{}
