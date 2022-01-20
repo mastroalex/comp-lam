@@ -1,6 +1,20 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{2}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{}
+
+\bibitem[{Rohner et~al.(2005)Rohner, B and Wieling, R and Magerl, F and
+  Schneider, E and Steiner, A.}]{Rohner}
+Rohner B, Wieling R, Magerl F, Schneider E, Steiner A.
+\newblock Performance of a composite flow moulded carbon fibre reinforced
+  osteosynthesis plate.
+\newblock Veterinary and comparative orthopaedics and traumatology
+  2005;18:175--182.
+\newblock \urlprefix\url{https://pubmed.ncbi.nlm.nih.gov/16594449/}.
+
+\bibitem[{solutions(????)Invibio - Biometerial solutions}]{PEEKOPTIMA}
+solutions IB.
+\newblock High performance PEEK-OPTIMA\textsuperscript{TM}
+  polymers;\urlprefix\url{https://invibio.com/?sc_camp=E59377A0AC154734AAC9E1697EFB5C9A&gclid=Cj0KCQiAraSPBhDuARIsAM3Js4qZvZcUwHiecEq5Qvu0ZF5sWBTPRQzl-18lnvyia5uTpheOAmeo27IaAmXEEALw_wcB}.
 
 \end{thebibliography}
