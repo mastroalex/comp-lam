@@ -1,4 +1,4 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{4}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{}
@@ -15,6 +15,22 @@ Rohner B, Wieling R, Magerl F, Schneider E, Steiner A.
 \bibitem[{solutions(????)Invibio - Biometerial solutions}]{PEEKOPTIMA}
 solutions IB.
 \newblock High performance PEEK-OPTIMA\textsuperscript{TM}
-  polymers;\urlprefix\url{https://invibio.com/?sc_camp=E59377A0AC154734AAC9E1697EFB5C9A&gclid=Cj0KCQiAraSPBhDuARIsAM3Js4qZvZcUwHiecEq5Qvu0ZF5sWBTPRQzl-18lnvyia5uTpheOAmeo27IaAmXEEALw_wcB}.
+  polymers;\urlprefix\url{https://invibio.com/}.
+
+\bibitem[{Verma et~al.(2021)Shivam Verma and Nitin Sharma and Saurabh Kango and
+  Sumit Sharma}]{Verma}
+Verma S, Sharma N, Kango S, Sharma S.
+\newblock Developments of PEEK (Polyetheretherketone) as a biomedical material:
+  A focused review.
+\newblock European Polymer Journal 2021;147:110295.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.eurpolymj.2021.110295}.
+
+\bibitem[{Gallagher et~al.(2019)Gallagher, E. A. and Lamorinière, S. and
+  McGarry, P.}]{Gallagher}
+Gallagher EA, Lamorinière S, McGarry P.
+\newblock Finite element investigation into the use of carbon fibre reinforced
+  PEEK laminated composites for distal radius fracture fixation implants.
+\newblock Medical engineering \& physics 2019;67:22--32.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.medengphy.2019.03.006}.
 
 \end{thebibliography}
