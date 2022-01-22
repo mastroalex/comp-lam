@@ -1,7 +1,15 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{6}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{}
+
+\bibitem[{Verma et~al.(2021)Shivam Verma and Nitin Sharma and Saurabh Kango and
+  Sumit Sharma}]{Verma}
+Verma S, Sharma N, Kango S, Sharma S.
+\newblock Developments of PEEK (Polyetheretherketone) as a biomedical material:
+  A focused review.
+\newblock European Polymer Journal 2021;147:110295.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.eurpolymj.2021.110295}.
 
 \bibitem[{Rohner et~al.(2005)Rohner, B and Wieling, R and Magerl, F and
   Schneider, E and Steiner, A.}]{Rohner}
@@ -12,18 +20,28 @@ Rohner B, Wieling R, Magerl F, Schneider E, Steiner A.
   2005;18:175--182.
 \newblock \urlprefix\url{https://pubmed.ncbi.nlm.nih.gov/16594449/}.
 
-\bibitem[{solutions(????)Invibio - Biometerial solutions}]{PEEKOPTIMA}
-solutions IB.
+\bibitem[{Invibio and solutions(????)Invibio and Biometerial
+  solutions}]{PEEKOPTIMA}
+Invibio, solutions B.
 \newblock High performance PEEK-OPTIMA\textsuperscript{TM}
   polymers;\urlprefix\url{https://invibio.com/}.
 
-\bibitem[{Verma et~al.(2021)Shivam Verma and Nitin Sharma and Saurabh Kango and
-  Sumit Sharma}]{Verma}
-Verma S, Sharma N, Kango S, Sharma S.
-\newblock Developments of PEEK (Polyetheretherketone) as a biomedical material:
-  A focused review.
-\newblock European Polymer Journal 2021;147:110295.
-\newblock \urlprefix\url{https://doi.org/10.1016/j.eurpolymj.2021.110295}.
+\bibitem[{Mugnai et~al.(2018)Raffaele Mugnai and Luigi Tarallo and Francesco
+  Capra and Fabio Catani}]{MUGNAI2018877}
+Mugnai R, Tarallo L, Capra F, Catani F.
+\newblock Biomechanical comparison between stainless steel, titanium and
+  carbon-fiber reinforced polyetheretherketone volar locking plates for distal
+  radius fractures.
+\newblock Orthopaedics and Traumatology: Surgery and Research
+  2018;104(6):877--882.
+\newblock
+  \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1877056818301440}.
+
+\bibitem[{Kollar and Springer(2009)Laszlo P. Kollar and George S.
+  Springer}]{Kollar:1}
+Kollar LP, Springer GS.
+\newblock {Mechanics of Composite Structures}.
+\newblock Cambridge UniversityPress; 2009.
 
 \bibitem[{Gallagher et~al.(2019)Gallagher, E. A. and Lamorinière, S. and
   McGarry, P.}]{Gallagher}
