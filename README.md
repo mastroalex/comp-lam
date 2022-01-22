@@ -1,4 +1,6 @@
 # comp-lam
+
+ ![](https://github.com/mastroalex/comp-lam/blob/main/report/figures/laminate_structure.svg)
  
 ## Note
 
