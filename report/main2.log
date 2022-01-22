@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  22 JAN 2022 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  22 JAN 2022 23:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2221,7 +2221,7 @@ LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 256.
 [2 <./figures//laminate_figures.pdf>]
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 271.
+(Font)              scaled to size 7.0pt on input line 273.
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct1.pdf): PDF
@@ -2229,36 +2229,36 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct1.pdf): PDF
 <figures//struct1.pdf, id=186, 1371.1225pt x 770.88pt>
 File: figures//struct1.pdf Graphic file (type pdf)
 <use figures//struct1.pdf>
-Package pdftex.def Info: figures//struct1.pdf  used on input line 321.
+Package pdftex.def Info: figures//struct1.pdf  used on input line 323.
 (pdftex.def)             Requested size: 117.17737pt x 65.87093pt.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 8.21255pt on input line 322.
+(Font)              scaled to size 8.21255pt on input line 324.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
-(Font)              scaled to size 8.21255pt on input line 322.
-LaTeX Font Info:    Calculating math sizes for size <8.21255> on input line 322
+(Font)              scaled to size 8.21255pt on input line 324.
+LaTeX Font Info:    Calculating math sizes for size <8.21255> on input line 324
 .
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 8.21255pt on input line 322.
+(Font)              scaled to size 8.21255pt on input line 324.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 6.84349pt on input line 322.
+(Font)              scaled to size 6.84349pt on input line 324.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 5.74875pt on input line 322.
+(Font)              scaled to size 5.74875pt on input line 324.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 6.84349pt on input line 322.
+(Font)              scaled to size 6.84349pt on input line 324.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 5.74875pt on input line 322.
+(Font)              scaled to size 5.74875pt on input line 324.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 8.21255pt on input line 322.
+(Font)              scaled to size 8.21255pt on input line 324.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 6.84349pt on input line 322.
+(Font)              scaled to size 6.84349pt on input line 324.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 5.74875pt on input line 322.
+(Font)              scaled to size 5.74875pt on input line 324.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 8.21255pt on input line 322.
+(Font)              scaled to size 8.21255pt on input line 324.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 6.84349pt on input line 322.
+(Font)              scaled to size 6.84349pt on input line 324.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 5.74875pt on input line 322.
+(Font)              scaled to size 5.74875pt on input line 324.
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct2.pdf): PDF
@@ -2266,7 +2266,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct2.pdf): PDF
 <figures//struct2.pdf, id=187, 1371.1225pt x 770.88pt>
 File: figures//struct2.pdf Graphic file (type pdf)
 <use figures//struct2.pdf>
-Package pdftex.def Info: figures//struct2.pdf  used on input line 328.
+Package pdftex.def Info: figures//struct2.pdf  used on input line 330.
 (pdftex.def)             Requested size: 117.17737pt x 65.87093pt.
 
 
@@ -2275,7 +2275,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct3.pdf): PDF
 <figures//struct3.pdf, id=188, 1371.1225pt x 770.88pt>
 File: figures//struct3.pdf Graphic file (type pdf)
 <use figures//struct3.pdf>
-Package pdftex.def Info: figures//struct3.pdf  used on input line 335.
+Package pdftex.def Info: figures//struct3.pdf  used on input line 337.
 (pdftex.def)             Requested size: 117.17737pt x 65.87093pt.
 
 
@@ -2284,16 +2284,16 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct4.pdf): PDF
 <figures//struct4.pdf, id=189, 1371.1225pt x 770.88pt>
 File: figures//struct4.pdf Graphic file (type pdf)
 <use figures//struct4.pdf>
-Package pdftex.def Info: figures//struct4.pdf  used on input line 342.
+Package pdftex.def Info: figures//struct4.pdf  used on input line 344.
 (pdftex.def)             Requested size: 117.17737pt x 65.87093pt.
 LaTeX Font Info:    Trying to load font information for TS1+Merriwthr-OsF on in
-put line 364.
+put line 366.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/merriweather/TS1Merriwthr-OsF.fd
 File: TS1Merriwthr-OsF.fd 2020/08/30 (autoinst) Font definitions for TS1/Merriw
 thr-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 364.
+(Font)              scaled to size 9.0pt on input line 366.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Merriwthr-OsF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
@@ -2301,24 +2301,24 @@ Package microtype Info: Loading generic protrusion settings for font family
 <figures//plate_.pdf, id=191, 401.5pt x 401.5pt>
 File: figures//plate_.pdf Graphic file (type pdf)
 <use figures//plate_.pdf>
-Package pdftex.def Info: figures//plate_.pdf  used on input line 373.
+Package pdftex.def Info: figures//plate_.pdf  used on input line 375.
 (pdftex.def)             Requested size: 117.17737pt x 117.17331pt.
 <figures///first_test/alpha=40.pdf, id=192, 401.5pt x 264.99pt>
 File: figures///first_test/alpha=40.pdf Graphic file (type pdf)
 <use figures///first_test/alpha=40.pdf>
 Package pdftex.def Info: figures///first_test/alpha=40.pdf  used on input line 
-380.
+382.
 (pdftex.def)             Requested size: 117.17737pt x 77.33438pt.
 <figures//cyl_.pdf, id=194, 602.25pt x 602.25pt>
 File: figures//cyl_.pdf Graphic file (type pdf)
 <use figures//cyl_.pdf>
-Package pdftex.def Info: figures//cyl_.pdf  used on input line 387.
+Package pdftex.def Info: figures//cyl_.pdf  used on input line 389.
 (pdftex.def)             Requested size: 117.17737pt x 117.17636pt.
 <figures///more_test/cyl_30_45_30_45.pdf, id=195, 602.25pt x 462.72874pt>
 File: figures///more_test/cyl_30_45_30_45.pdf Graphic file (type pdf)
 <use figures///more_test/cyl_30_45_30_45.pdf>
 Package pdftex.def Info: figures///more_test/cyl_30_45_30_45.pdf  used on input
- line 394.
+ line 396.
 (pdftex.def)             Requested size: 117.17737pt x 90.0305pt.
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
@@ -2332,69 +2332,66 @@ Package fancyhdr Warning: \headheight is too small (17.5pt):
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/sl' in size <9> not availabl
 e
 (Font)              Font shape `T1/Merriwthr-OsF/b/it' tried instead on input l
-ine 415.
+ine 417.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 415.
+(Font)              scaled to size 9.0pt on input line 417.
 <figures///first_test/bothload/V_X.pdf, id=214, 260.975pt x 139.52126pt>
 File: figures///first_test/bothload/V_X.pdf Graphic file (type pdf)
 <use figures///first_test/bothload/V_X.pdf>
 Package pdftex.def Info: figures///first_test/bothload/V_X.pdf  used on input l
-ine 423.
+ine 425.
 (pdftex.def)             Requested size: 146.46985pt x 78.30592pt.
 <figures///first_test/bothload/W_Y.pdf, id=215, 260.975pt x 137.51375pt>
 File: figures///first_test/bothload/W_Y.pdf Graphic file (type pdf)
 <use figures///first_test/bothload/W_Y.pdf>
 Package pdftex.def Info: figures///first_test/bothload/W_Y.pdf  used on input l
-ine 430.
+ine 432.
 (pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
 <figures///first_test/bothload/W_X.pdf, id=216, 260.975pt x 137.51375pt>
 File: figures///first_test/bothload/W_X.pdf Graphic file (type pdf)
 <use figures///first_test/bothload/W_X.pdf>
 Package pdftex.def Info: figures///first_test/bothload/W_X.pdf  used on input l
-ine 438.
+ine 440.
 (pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
 <figures///first_test/transversal_load/V_X.pdf, id=218, 260.975pt x 137.51375pt
 >
 File: figures///first_test/transversal_load/V_X.pdf Graphic file (type pdf)
 <use figures///first_test/transversal_load/V_X.pdf>
 Package pdftex.def Info: figures///first_test/transversal_load/V_X.pdf  used on
- input line 453.
+ input line 455.
 (pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
 <figures///first_test/transversal_load/W_Y.pdf, id=219, 260.975pt x 137.51375pt
 >
 File: figures///first_test/transversal_load/W_Y.pdf Graphic file (type pdf)
 <use figures///first_test/transversal_load/W_Y.pdf>
 Package pdftex.def Info: figures///first_test/transversal_load/W_Y.pdf  used on
- input line 460.
+ input line 462.
 (pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
 <figures///first_test/transversal_load/W_X.pdf, id=220, 260.975pt x 137.51375pt
 >
 File: figures///first_test/transversal_load/W_X.pdf Graphic file (type pdf)
 <use figures///first_test/transversal_load/W_X.pdf>
 Package pdftex.def Info: figures///first_test/transversal_load/W_X.pdf  used on
- input line 468.
+ input line 470.
 (pdftex.def)             Requested size: 146.46985pt x 77.17923pt.
 <figures///first_test/axial_load/V_X.pdf, id=222, 260.975pt x 139.52126pt>
 File: figures///first_test/axial_load/V_X.pdf Graphic file (type pdf)
 <use figures///first_test/axial_load/V_X.pdf>
 Package pdftex.def Info: figures///first_test/axial_load/V_X.pdf  used on input
- line 482.
+ line 484.
 (pdftex.def)             Requested size: 146.46985pt x 78.30592pt.
 <figures///first_test/axial_load/W_Y.pdf, id=223, 260.975pt x 133.49875pt>
 File: figures///first_test/axial_load/W_Y.pdf Graphic file (type pdf)
 <use figures///first_test/axial_load/W_Y.pdf>
 Package pdftex.def Info: figures///first_test/axial_load/W_Y.pdf  used on input
- line 489.
+ line 491.
 (pdftex.def)             Requested size: 146.46985pt x 74.92581pt.
 <figures///first_test/axial_load/W_X.pdf, id=224, 260.975pt x 133.49875pt>
 File: figures///first_test/axial_load/W_X.pdf Graphic file (type pdf)
 <use figures///first_test/axial_load/W_X.pdf>
 Package pdftex.def Info: figures///first_test/axial_load/W_X.pdf  used on input
- line 497.
+ line 499.
 (pdftex.def)             Requested size: 146.46985pt x 74.92581pt.
-
-Underfull \vbox (badness 1360) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
@@ -2420,22 +2417,10 @@ clusion: multiple pdfs with page group included in a single page
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///more_test/cyl_30
 _45_30_45.pdf): PDF inclusion: multiple pdfs with page group included in a sing
 le page
-> <./figures///first_test/bothload/V_X.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/bothl
-oad/V_X.pdf): PDF inclusion: multiple pdfs with page group included in a single
- page
-> <./figures///first_test/bothload/W_Y.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/bothl
-oad/W_Y.pdf): PDF inclusion: multiple pdfs with page group included in a single
- page
-> <./figures///first_test/bothload/W_X.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/bothl
-oad/W_X.pdf): PDF inclusion: multiple pdfs with page group included in a single
- page
 >]
+Underfull \vbox (badness 2653) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2447,8 +2432,23 @@ Package fancyhdr Warning: \headheight is too small (17.5pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.49997pt}.
 
-[5 <./figures///first_test/transversal_load/V_X.pdf> <./figures///first_test/tr
-ansversal_load/W_Y.pdf
+[5 <./figures///first_test/bothload/V_X.pdf> <./figures///first_test/bothload/W
+_Y.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/bothl
+oad/W_Y.pdf): PDF inclusion: multiple pdfs with page group included in a single
+ page
+> <./figures///first_test/bothload/W_X.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/bothl
+oad/W_X.pdf): PDF inclusion: multiple pdfs with page group included in a single
+ page
+> <./figures///first_test/transversal_load/V_X.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/trans
+versal_load/V_X.pdf): PDF inclusion: multiple pdfs with page group included in 
+a single page
+> <./figures///first_test/transversal_load/W_Y.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/trans
 versal_load/W_Y.pdf): PDF inclusion: multiple pdfs with page group included in 
@@ -2474,6 +2474,12 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///first_test/axial
 _load/W_X.pdf): PDF inclusion: multiple pdfs with page group included in a sing
 le page
 >]
+Underfull \vbox (badness 2717) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
 (fancyhdr)                Make it at least 18.99997pt, for example:
@@ -2489,10 +2495,10 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//struct5.pdf): PDF
 <figures//struct5.pdf, id=497, 1371.1225pt x 770.88pt>
 File: figures//struct5.pdf Graphic file (type pdf)
 <use figures//struct5.pdf>
-Package pdftex.def Info: figures//struct5.pdf  used on input line 541.
+Package pdftex.def Info: figures//struct5.pdf  used on input line 543.
 (pdftex.def)             Requested size: 146.46985pt x 82.33865pt.
 
-Underfull \hbox (badness 4819) in paragraph at lines 575--575
+Underfull \hbox (badness 4819) in paragraph at lines 577--577
 []\T1/Merriwthr-OsF/m/up/9 (+20) textcolorblueLorem ip-sum do-lor sit amet, con
 -
  []
@@ -2531,7 +2537,7 @@ Package rerunfilecheck Info: File `main2.out' has not changed.
 Here is how much of TeX's memory you used:
  38863 strings out of 478994
  736916 string characters out of 5858184
- 1354644 words of memory out of 5000000
+ 1354110 words of memory out of 5000000
  55035 multiletter control sequences out of 15000+600000
  1417836 words of font info for 454 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2552,7 +2558,7 @@ onts/type1/public/amsfonts/euler/eufm10.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/texlive/2021/texmf-di
 st/fonts/type1/public/amsfonts/euler/eurm7.pfb></usr/local/texlive/2021/texmf-d
 ist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on main2.pdf (8 pages, 8629261 bytes).
+Output written on main2.pdf (8 pages, 8629803 bytes).
 PDF statistics:
  619 PDF objects out of 1000 (max. 8388607)
  420 compressed objects within 5 object streams
