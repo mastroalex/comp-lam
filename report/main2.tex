@@ -40,6 +40,9 @@
 \usepackage{textcomp}
 \usepackage{cleveref}
 \newcommand{\crefrangeconjunction}{ {a}\nobreakspace}
+\crefname{table}{tab}{tabs}
+\renewcommand{\figurename}{Fig.}
+
 \crefformat{section}{\S#2#1#3} % see manual of cleveref, section 8.2.1
 \crefformat{subsection}{\S#2#1#3}
 \crefformat{subsubsection}{\S#2#1#3}
@@ -255,9 +258,20 @@ G_{12}=\left(\frac{v_{m}}{G_{m}}+\frac{v_{f}}{G_{f}}\right)^{-1}
 \label{eq:SS}
 \end{equation}
 
-In particolare, è possibile osservare l'andamento dei moduli tipo Young nella figura COMPLETA + CONSIDERAZIONI
+\begin{figure}
+	\includegraphics[width=\linewidth]{miture_rule_result}
+	\caption{Andamento dei moduli tipo Young $E_1$ ed $E_2$ e del modulo di taglio $G_{12}$ al variare di $f_f\in \left[0.3;0.9\right]$.}
+		\label{fig:mixtureRule} 
+\end{figure}
 
-\subsection{Teoria dei laminati sottili ??}
+In particolare, è possibile osservare l'andamento dei moduli tipo Young nella \cref{fig:mixtureRule}. È evidente l'andamento lineare di $E_1$. Tutti i moduli aumentano all'aumentare della $f_f$ in quanto aumenta il contributo delle fibre di carbonio che presentano moduli più alti del PEEK. 
+
+L'analisi seguente considera una $f_f$ fissata al 60\%. 
+
+
+
+
+\subsection{Teoria dei laminati sottili }
 
 \textcolor{blue}{\lipsum[1-2]}
 
@@ -272,7 +286,7 @@ In particolare, è possibile osservare l'andamento dei moduli tipo Young nella f
 	
 	\caption{Parametri materiali \citep{Gallagher}}
 
-	\begin{tabular}{l l l}
+	\begin{tabular}{ m{0.4\linewidth} m{0.4\linewidth}  }
 		\toprule
 		CF & PEEK\\
 		\midrule
@@ -284,34 +298,29 @@ In particolare, è possibile osservare l'andamento dei moduli tipo Young nella f
 	\label{tab:parametri}
 \end{table}
 
-Introduci REGOLA DELLE MISCELE
+Viene considerata una matrice polimerica PEEK che presenta un modulo elastico relativamente basso, di 4 GPa con coefficiente di Poisson $\nu =0.36$. La matrice  viene rinforzata con fibre di carbonio che invece presentano un'elevata rigidezza, modulo elastico di 236 GPa e un coefficiente di Poisson di 0.2. Maggiori informazioni in \cref{tab:parametri}. 
 
-Fissata una fiber fraction di $ff=0.62$.  
+I risultati della regola delle miscele considerando una frazione volumetrica di fibre del 62\% sono riportati in \cref{tab:miscele}. 
 
-PLOTTA E1 ed E2 rispetto alla variazione del fiber fraction ??
 
-TEST SU LAMINATI CON DIFFERNTI PROPRIETà ??  EVENTUALMENTE USA IL CASO SPECIALE DELLE TENSIONI NELLO SPESSORE
-
-\textcolor{blue}{\lipsum[1-2]}
-
-\begin{table}[bt!]
-	\centering
-	\captionsetup{justification=centering}
-	
-	\caption{Risultati applicando la regola delle miscele}
-	
-	\begin{tabular}{l l l}
+\begin{table}[h!]
+	\centering	
+	\begin{tabular}{ m{0.4\linewidth} m{0.4\linewidth}  }
 		\toprule
-				$ff$  & 0.62 \\
-						\toprule
+		$ff$  & 0.62 \\
 		$E_{1}$  & 147.96 GPa  \\
 		$E_{2}$  & 10.83 GPa  \\
 		$\nu_{12}$ & $0.26$ \\
 		$G_{12}$ & 4.24 GPa \\
 		\bottomrule
 	\end{tabular}
+	\captionsetup{justification=centering}
+\caption{Risultati applicando la regola delle miscele}
 	\label{tab:miscele}
 \end{table}
+
+
+
 
 \section{Layout del laminato}
 
