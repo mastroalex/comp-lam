@@ -20,4 +20,4 @@
 
 * [x] Make other test from Kollar example
 * [x] Start testing from request!!
-* [ ] TEST ALL 
+* [x] TEST ALL 
