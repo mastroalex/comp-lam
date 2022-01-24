@@ -41,7 +41,10 @@
 \usepackage{cleveref}
 \newcommand{\crefrangeconjunction}{ {a}\nobreakspace}
 \crefname{table}{tab}{tabs}
+\crefname{section}{sez}{sezioni}
 \renewcommand{\figurename}{Fig.}
+\captionsetup[sub]{font=scriptsize,labelfont={bf,sf}}
+\newcommand\crefpairconjunction{ e }
 
 \crefformat{section}{\S#2#1#3} % see manual of cleveref, section 8.2.1
 \crefformat{subsection}{\S#2#1#3}
@@ -194,7 +197,7 @@ La campagna di simulazioni seguente fa riferimento ad un composito laminato con 
 
 \begin{figure*}[bt!]
 	\includegraphics[width=\textwidth]{laminate_figures.pdf}
-	\caption{Il comportamento meccanico della struttura finale alla macroscala è fortemente influenzato dai singoli componenti in cascata. Da sinistra: fibre continue di carbonio e pellet di polimero; singola lamina; piastra multi layer; placca ortopedica di fissaggio per il radio distale \citep{MUGNAI2018877}.}
+	\caption{Il comportamento meccanico della struttura finale alla macroscala è fortemente influenzato dai singoli componenti in cascata. Da sinistra: fibre continue di carbonio e pellet di polimero; singola lamina; piastra multi layer; placca ortopedica di fissaggio per il radio distale \citep{MUGNAI2018877,DISTAL}.}
 \label{fig:laminates_general}
 \end{figure*}
 
@@ -273,12 +276,63 @@ L'analisi seguente considera una $f_f$ fissata al 60\%.
 
 \subsection{Teoria dei laminati sottili }
 
-\textcolor{blue}{\lipsum[1-2]}
+Dopo aver omogenizzato il singolo layer si ricorre alla teoria dei laminati sottili \citep{SOTTILI} trattando il singolo layer come una lastra sottile omogenea. Ogni lamina è soggetta ad uno stato piano di tensione e la matrice di rigidezza nel singolo strato può essere espressa rispetto un sistema di riferimento globale. 
+\begin{equation}
+[\bar{Q}]=\left[T_{\sigma}\right]^{-1}[Q]\left[T_{\epsilon}\right]
+\end{equation}
+
+Considerando le deformazioni nel piano della superficie media e la curvatura della superficie media si arriva alle leggi costitutive generalizzate, \cref{eq:constitutive}.
+
+\begin{equation}
+	\small{
+\left[\begin{matrix}
+	N_{x} \\
+	N_{y} \\
+	N_{x y} \\
+	M_{x} \\
+	M_{y} \\
+	M_{x y}
+\end{matrix}\right]=\left[\begin{matrix}
+	A_{11} & A_{12} & A_{16} & B_{11} & B_{12} & B_{16} \\
+	A_{21} & A_{22} & A_{26} & B_{21} & B_{22} & B_{26} \\
+	A_{61} & A_{62} & A_{66} & B_{61} & B_{62} & B_{66} \\
+ B_{11} & B_{12} & B_{16} & D_{11} & D_{12} & D_{16} \\
+	B_{21} & B_{22} & B_{26} & D_{21} & D_{22} & D_{26} \\
+	B_{61} & B_{62} & B_{66} & D_{61} & D_{62} & D_{66}
+\end{matrix}\right]\left[\begin{matrix}
+	\varepsilon_{x}^{o} \\
+	\varepsilon_{y}^{o} \\
+	\gamma_{x y}^{o} \\
+	\kappa_{x}^{o} \\
+	\kappa_{y}^{o} \\
+	\kappa_{x y}^{o}
+\end{matrix}\right]}
+\label{eq:constitutive}
+\end{equation}
+
+Dove i tre blocchi della matrice hanno un significato preciso. Il blocco $A$, \cref{eq:A},descrive la rigidezza mebranale della singola lamina. Il blocco $B$, \cref{eq:B}, lega l'accoppiamento tra gli effetti membranali e flessionali. Il blocco $D$, \cref{eq:D}, rappresenta la rigidezza flessionale del laminato.
 
 
+\begin{equation}
+A_{i j}=\sum_{k=1}^{N} \bar{Q}_{i j}^{k}\left(z_{k}-z_{k-1}\right)
+\label{eq:A}
+\end{equation}
+
+\begin{equation}
+B_{i j}=\frac{1}{2} \sum_{k=1}^{N} \bar{Q}_{i j}^{k}\left(z_{k}^{2}-z_{k-1}^{2}\right)
+\label{eq:B}
+\end{equation}
+
+\begin{equation}
+D_{i j}=\frac{1}{3} \sum_{k=1}^{N} \bar{Q}_{i j}^{k}\left(z_{k}^{3}-z_{k-1}^{3}\right)
+\label{eq:D}
+\end{equation}
 
 
-\section{Proprietà dei costituenti}
+Tale descrizione permetterà di prevedere gli accoppiamenti e il comportamento strutturale a partire dalla struttura dei tre blocchi. 
+
+
+\subsection{Proprietà dei costituenti}
 
 \begin{table}[bt!]
 	\centering
@@ -298,10 +352,11 @@ L'analisi seguente considera una $f_f$ fissata al 60\%.
 	\label{tab:parametri}
 \end{table}
 
-Viene considerata una matrice polimerica PEEK che presenta un modulo elastico relativamente basso, di 4 GPa con coefficiente di Poisson $\nu =0.36$. La matrice  viene rinforzata con fibre di carbonio che invece presentano un'elevata rigidezza, modulo elastico di 236 GPa e un coefficiente di Poisson di 0.2. Maggiori informazioni in \cref{tab:parametri}. 
+Partendo dal singolo layer, viene considerata una matrice polimerica PEEK che presenta un modulo elastico relativamente basso, di 4 GPa con coefficiente di Poisson $\nu =0.36$. La matrice  viene rinforzata con fibre di carbonio che invece presentano un'elevata rigidezza, modulo elastico di 236 GPa e un coefficiente di Poisson di 0.2. Maggiori informazioni in \cref{tab:parametri}. 
 
-I risultati della regola delle miscele considerando una frazione volumetrica di fibre del 62\% sono riportati in \cref{tab:miscele}. 
+I risultati della regola delle miscele considerando una frazione volumetrica di fibre del 62\% sono riportati in \cref{tab:miscele}.  A partire da questi risultati numerici, viene calcolata la matrice di rigidezza del singolo layer. 
 
+Si procede poi nel considerare diverse configurazioni di laminato. Ogni singolo strato viene considerato con le fibre allineate lungo una direzione principale, ad eccezione dei layer $\pm 45^f$ che vengono considerati come un intreccio di fibre. I singoli layer sono poi ruotati rispetto un riferimento globale e messi insieme a formare il laminato composito. Quindi è possibile calcolare il legame costitutivo generalizzato del laminato.
 
 \begin{table}[h!]
 	\centering	
@@ -315,12 +370,9 @@ I risultati della regola delle miscele considerando una frazione volumetrica di 
 		\bottomrule
 	\end{tabular}
 	\captionsetup{justification=centering}
-\caption{Risultati applicando la regola delle miscele}
+	\caption{Risultati applicando la regola delle miscele}
 	\label{tab:miscele}
 \end{table}
-
-
-
 
 \section{Layout del laminato}
 
@@ -359,7 +411,7 @@ I risultati della regola delle miscele considerando una frazione volumetrica di 
 	\label{fig:laminates}
 \end{figure*}
 
-Vengono affrontati 4 casi:
+Le variazioni del layout del laminato sono infinite, è possibile variare il numero di strati e l'angolo di fibratura. Nella seguente analisi vengono affrontati 4 casi differenti:
 
 \begin{enumerate}[label=(\alph*)]
 	\item $[\alpha /-\alpha / 30 /-30 / 0_{2}]_{\mathrm{s}}$ con $\alpha\in\left[0^\circ;90^\circ\right]$
@@ -389,7 +441,7 @@ Vengono affrontati anche due elementi strutturali differenti:
 	\begin{subfigure}[t]{0.24\textwidth}
 		\centering
 		\includegraphics[width=\textwidth]{/first_test/alpha=40.pdf}
-		\caption{Elemento tipo piastra deformato (caso \cref{sec:plate_A}  con $\alpha=40^\circ$ )}
+		\caption{Elemento tipo piastra deformato \\(caso \cref{sec:plate_A}  con $\alpha=40^\circ$ )}
 		\label{fig:five over x}
 	\end{subfigure}
 	\hfill
@@ -411,18 +463,12 @@ Vengono affrontati anche due elementi strutturali differenti:
 	\label{fig:three graphs}
 \end{figure*}
 
-
-
-COMPLETA CON ELENCO PUNTATO E DIFFERENTI CASI 
-
-PRESENTA I DUE DIFFERENTI ELEEMTNI STRUTTURALI
-\textcolor{blue}{\lipsum[1-2]}
-
-
-
-
+Per l'analisi della risposta strutturale vengono considerati differenti tipologie di carico. Per l'elemento tipo piasta viene considerato o un carico assiale, o un carico trasversale o entrambi. Per l'elemento tipo cilindro viene invece considerata una pressione interna uniforme.
 
 \subsection{Elemento tipo piastra}
+
+Per l'elemento tipo piastra vengono analizzati i quattro differenti layout di laminato.
+
 \subsubsection{Caso (a)}
 \label{sec:plate_A}
 
@@ -510,22 +556,138 @@ PRESENTA I DUE DIFFERENTI ELEEMTNI STRUTTURALI
 		
 	\end{subfigure}
 	\hfill
-	\caption{Risultati caso (a) per un elemento strutturale tipo piastra con carichi tipo assiale(\cref{sec:plate_A})}
+	\caption{Risultati caso (a) per un elemento strutturale tipo piastra con carichi tipo assiale (\cref{sec:plate_A})}
 	\label{fig:plate_A_axial_load}
 \end{figure*}
 
 
-\textcolor{blue}{\lipsum[1-2]}
+
+La prima analisi affronta uno studio parametrico (parametro $\alpha$) su un layout del tipo:
+\begin{equation}
+	\left[\alpha /-\alpha / 30 /-30 / 0_{2}\right]_{\mathrm{S}}
+\end{equation}
+
+Vengono considerate tre differenti situazioni di carico: soltanto carico assiale, soltanto carico trasversale ed entrambi i carichi. I risultati sono riportati nelle \cref{fig:plate_A_axial_load,fig:plate_A_transload_load,fig:plate_A_both_load}. 
+
+Al variare del parametro $\alpha$ tra 0° e 90° si osservano risposte strutturali differenti.
+
+Essendo un laminato simmetrico non ci si aspetta un accoppiamento tra gli effetti estensionali e flessionali. Questo viene confermato dal confronto tra i tre casi. È evidente che applicando solo un carico assiale l'effetto flessionale è molto ridotto rispetto le altre configurazioni di carico. Nel caso $\alpha=0^\circ$ la flessione è la minima possibile. Al crescere di $\alpha$ aumenta l'effetto flessionale. Questo non succede con il solo carico assiale dove l'effetto flessionale è molto contenuto e praticamente nullo sia per $\alpha=90^\circ$ che per $\alpha=0^\circ$. In questi ultimi casi è quindi nullo anche l'accoppiamento tra effetti in-plane ed out-plane. 
+
+Ad eccezione dei casi  $\alpha=90^\circ$ e $\alpha=0^\circ$ è sempre presente un effetto torsionale anche se molto contenuto. 
+
+È evidente come la disposizione di un numero maggiore di layer allineati lungo l'asse fornisce meno rigidezza flessionale e questo si rispecchia in un effetto flessionale più marcato. Al fine di ridurre l'effetto flessionale è bene disporre il layer parametrici con  le fibre ortogonali all'asse del laminato. Questo annulla anche l'effetto torsionale e l'accoppiamento in-plane out-plane. Inoltre, fornisce anche maggior rigidezza membranale. Volendo invece avere un effetto flessionale più marcato si possono disporre il maggior numero di layer con le fibre allineate lungo l'asse. Questo porta ad uno spostamento nel lato libero terminale della piastra fino a 5 volte superiore ma rende più evidente l'accoppiamento con gli effetti torsionali. 
+
+I casi intermedi forniscono comportamenti strutturali intermedi tra i due casi limite descritti. L'accoppiameto tra il carico assiale e l'effetto torsionale è massimo per i layout con   $\alpha=20^\circ$ e $\alpha=10^\circ$. 
+
 
 
 \subsubsection{Caso (b)}
+\label{sec:plate_B}
+Viene analizzato un laminato bilanciato con layout:
+\begin{equation}
+[-45 / 45 /-45 / 45]
+\end{equation}
+
+Nuovamente vengono considerate le tre differenti configurazioni di carico. 
+
 \textcolor{blue}{\lipsum[1-2]}
 \subsubsection{Caso (c)}
+\label{sec:plate_C}
 \textcolor{blue}{\lipsum[1-2]}
 \subsubsection{Caso (d)}
+\label{sec:plate_D}
+\begin{figure*}[bt!]
+	\centering
+	
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/more_test/caso_B_e_D/bothload/V_X.pdf}
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/more_test/caso_B_e_D/bothload/W_Y.pdf}
+		
+		\caption{Effetto torsionale, spostamento lungo $\hat z$ del bordo estremale della piastra ($x=L$)}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/more_test/caso_B_e_D/bothload/W_X.pdf}
+		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\caption{Risultati caso (b) e (d) per un elemento strutturale tipo piastra con entrambi i carichi (\cref{sec:plate_B,sec:plate_D})}
+	\label{fig:plate_BD_both_load}
+\end{figure*}
+
+
+\begin{figure*}[bt!]
+	\centering
+	
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/more_test/caso_B_e_D/transversal_load/V_X.pdf}
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/more_test/caso_B_e_D/transversal_load/W_Y.pdf}
+		
+		\caption{Effetto torsionale, spostamento lungo $\hat z$ del bordo estremale della piastra ($x=L$)}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/more_test/caso_B_e_D/transversal_load/W_X.pdf}
+		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\caption{Risultati caso (b) e (d) per un elemento strutturale tipo piastra con carichi tipo trasversale (\cref{sec:plate_B,sec:plate_D})}
+	\label{fig:plate_BD_transload_load}
+\end{figure*}
+
+\begin{figure*}[bt!]
+	\centering
+	
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/more_test/caso_B_e_D/axial_load/V_X.pdf}
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/more_test/caso_B_e_D/axial_load/W_Y.pdf}
+		
+		\caption{Effetto torsionale, spostamento lungo $\hat z$ del bordo estremale della piastra ($x=L$)}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{/more_test/caso_B_e_D/axial_load/W_X.pdf}
+		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\caption{Risultati caso (b) e (d) per un elemento strutturale tipo piastra con carichi tipo assiale (\cref{sec:plate_B,sec:plate_D})}
+	\label{fig:plate_BD_axial_load}
+\end{figure*}
+
 \textcolor{blue}{\lipsum[1-2]}
 
 \subsection{Elemento tipo cilindro}
+Per l'elemento tipo cilindro vengono analizzati i quattro differenti layout di laminato.
 
 \subsubsection{Caso (a)}
 \textcolor{blue}{\lipsum[1-2]}
@@ -585,6 +747,8 @@ Conoscere la risposta di elementi strutturali può essere utile per modellare co
 
 textcolor{blue}{\lipsum[1-2]}
 \section{Metodi}
+
+\subsection{Legame costitutivo generalizzato}
 
 \textcolor{blue}{\lipsum[1-2]}
 

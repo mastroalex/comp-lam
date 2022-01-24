@@ -1,4 +1,4 @@
-\begin{thebibliography}{6}
+\begin{thebibliography}{8}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{}
@@ -37,11 +37,23 @@ Mugnai R, Tarallo L, Capra F, Catani F.
 \newblock
   \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1877056818301440}.
 
+\bibitem[{Invibio(????)}]{DISTAL}
+Invibio.
+\newblock Case Study: Distal Radius Fracture.
+\newblock Biomaterial
+  Solutions;\urlprefix\url{https://www.youtube.com/watch?v=GjtbpAHshUw}.
+
 \bibitem[{Kollar and Springer(2009)Laszlo P. Kollar and George S.
   Springer}]{Kollar:1}
 Kollar LP, Springer GS.
 \newblock {Mechanics of Composite Structures}.
 \newblock Cambridge UniversityPress; 2009.
+
+\bibitem[{O and N(1992)Ochoa O. O and Reddy J. N}]{SOTTILI}
+O OO, N RJ.
+\newblock Mechanics of Composite Laminates. In: Finite Element Analysis of
+  Composite Laminates.
+\newblock Springer; 1992.
 
 \bibitem[{Gallagher et~al.(2019)Gallagher, E. A. and Lamorinière, S. and
   McGarry, P.}]{Gallagher}
