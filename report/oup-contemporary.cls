@@ -144,7 +144,7 @@
 	%\textbf{\thepage}%
 	%\hspace{1em}\raisebox{-0.5pt}{|}\hspace{1em}%
 	%  \textit{\@jname}, \@jyear, Vol.~\@jvolume, No.~\@jnumber
-	\textit{\@jname}, \@jyear, No.~2%\@jnumber
+	\textit{\@jname}, \@jyear, No.~\@jnumber
 }
 \rfoot{
 	\color{jcolour}%

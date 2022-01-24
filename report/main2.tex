@@ -17,21 +17,19 @@
 %\journal{Test}
 \jname{Università degli studi Roma Tor Vergata}
 \jlogo{}
-\jnumber{2}
 
 \usepackage{graphicx}
 \usepackage{siunitx}
 \usepackage{import}
-\usepackage{amsmath}
 %\numberwithin{equation}{section}% numera eq come #section.#formula
 %
 
 \usepackage{enumitem}
 %
+\usepackage{amsmath}
 \usepackage{amsthm}
-\usepackage{stmaryrd}
 \usepackage{amssymb}
-
+\usepackage{stmaryrd}
 %
 \usepackage{caption}
 \usepackage{subcaption}
@@ -106,13 +104,12 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[italian, english]{babel}
-\graphicspath{{figures/}} %Setting the graphicspat%h
 \graphicspath{{figures/}} %Setting the graphicspath
 \makeatletter
 \providecommand*{\input@path}{}
 \edef\input@path{{figures/}{}\input@path}% prepend
 \makeatother
-
+\usepackage{fancyhdr}
 
 %%% Flushend: You can add this package to automatically balance the final page, but if things go awry (e.g. section contents appearing out-of-order or entire blocks or paragraphs are coloured), remove it!
 % \usepackage{flushend}
@@ -137,7 +134,6 @@
 
 %%% Should only be set by an editor%
 %\jvolume{00}
-\jnumber{1}
 \jyear{2021}
 
 \begin{document}
@@ -266,7 +262,8 @@ G_{12}=\left(\frac{v_{m}}{G_{m}}+\frac{v_{f}}{G_{f}}\right)^{-1}
 \end{equation}
 
 \begin{figure}
-	\includegraphics[width=\linewidth]{miture_rule_result}
+\def\svgwidth{\linewidth}
+  \input{miture_rule_result_tex.pdf_tex}
 	\caption{Andamento dei moduli tipo Young $E_1$ ed $E_2$ e del modulo di taglio $G_{12}$ al variare di $f_f\in \left[0.3;0.9\right]$.}
 		\label{fig:mixtureRule} 
 \end{figure}
@@ -381,32 +378,36 @@ Si procede poi nel considerare diverse configurazioni di laminato. Ogni singolo 
 \section{Layout del laminato}
 
 \begin{figure*}[bt!]
-	\centering
-	\begin{subfigure}[t]{0.24\textwidth}
+	\centering\captionsetup[subfigure]{justification=centering}
+	
+	\begin{subfigure}[c]{0.24\textwidth}
 		\centering
-		
-		\includegraphics[width=\textwidth]{struct1.pdf}
+	\def\svgwidth{\textwidth}
+\input{struct1_tex.pdf_tex}
 		\caption{$[\alpha /-\alpha / 30 /-30 / 0_{2}]_{\mathrm{s}}$ }
 		
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}[t]{0.24\textwidth}
-		\centering
-		\includegraphics[width=\textwidth]{struct2.pdf}
+	\begin{subfigure}[c]{0.24\textwidth}
+		\centering 
+		\def\svgwidth{\textwidth}
+\input{struct2_tex.pdf_tex}
 		\caption{$[-45 / 45 /-45 / 45]$}
 		
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}[t]{0.24\textwidth}
+	\begin{subfigure}[c]{0.24\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{struct3.pdf}
+		\def\svgwidth{\textwidth}
+\input{struct3_tex.pdf_tex}
 		\caption{$[\pm 45^{f} / \pm 45^{f}]$}
 		
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}[t]{0.24\textwidth}
+	\begin{subfigure}[c]{0.24\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{struct4.pdf}
+		\def\svgwidth{\textwidth}
+		\input{struct4_tex.pdf_tex}
 		\caption{$[-30 /-45 /-30 /-45]$}
 		
 	\end{subfigure}
@@ -418,10 +419,10 @@ Si procede poi nel considerare diverse configurazioni di laminato. Ogni singolo 
 Le variazioni del layout del laminato sono infinite, è possibile variare il numero di strati e l'angolo di fibratura. Nella seguente analisi vengono affrontati 4 casi differenti:
 
 \begin{enumerate}[label=(\alph*)]
-	\item $[\alpha /-\alpha / 30 /-30 / 0_{2}]_{\mathrm{s}}$ con $\alpha\in\left[0^\circ;90^\circ\right]$
-	\item $[-45 / 45 /-45 / 45]$
-	\item $[\pm 45^{f} / \pm 45^{f}]$
-	\item $[-30 /-45 /-30 /-45]$
+	\item $\left[\alpha /-\alpha / 30 /-30 / 0_{2}\right]_{\mathrm{s}}$ con $\alpha\in\left[0^\circ;90^\circ\right]$
+	\item $\left[-45 / 45 /-45 / 45\right]$
+	\item $\left[\pm 45^{f} / \pm 45^{f}\right]$
+	\item $\left[-30 /-45 /-30 /-45\right]$
 \end{enumerate}
 
 Un'illustrazione rappresentativa dei differenti layout è presente in \cref{fig:laminates}.
@@ -436,9 +437,9 @@ Vengono affrontati anche due elementi strutturali differenti:
 	\centering
 	\begin{subfigure}[t]{0.24\textwidth}
 		\centering
-
- \includegraphics[width=\textwidth]{plate_.pdf}
- 				\caption{Elemento tipo piastra}
+\def\svgwidth{\linewidth}
+\input{plate_tex.pdf_tex}
+	 				\caption{Elemento tipo piastra}
 		\label{fig:y equals x}
 	\end{subfigure}
 	\hfill
@@ -451,7 +452,8 @@ Vengono affrontati anche due elementi strutturali differenti:
 	\hfill
 	\begin{subfigure}[t]{0.24\textwidth}
 		\centering
- \includegraphics[width=\textwidth]{cyl_.pdf}
+\def\svgwidth{\linewidth}
+\input{cyl_tex.pdf_tex}
 \caption{Elemento tipo cilindro}
 		\label{fig:three sin x}
 	\end{subfigure}
@@ -459,7 +461,7 @@ Vengono affrontati anche due elementi strutturali differenti:
 	\begin{subfigure}[t]{0.24\textwidth}
 	\centering
  \includegraphics[width=\textwidth]{/more_test/cyl_30_45_30_45.pdf}
-	\caption{Elemento tipo cilindro deformato (caso \cref{sec:cyl_D}}
+	\caption{Elemento tipo cilindro deformato (caso \cref{sec:cyl_D})}
 	\label{fig:five ove x}
 \end{subfigure}
 	\hfill
@@ -481,7 +483,9 @@ Per l'elemento tipo piastra vengono analizzati i quattro differenti layout di la
 
 	\begin{subfigure}[t]{0.3\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{/first_test/bothload/V_X.pdf}
+		  \scalebox{.5}{
+  \def\svgwidth{2\linewidth}
+    \input{first_test_bothload_V_X.pdf_tex}}
 		\caption{Spostamento lungo $\hat y$ del bordo con $y=0$ della piastra}
 		
 	\end{subfigure}
@@ -827,7 +831,6 @@ Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm
 	\centering
 	\begin{subfigure}[t]{0.3\textwidth}
 		\centering
-		
 		\includegraphics[width=\textwidth]{struct5.pdf}
 		\caption{Descrizione}
 			\label{fig:last_case_schema}
