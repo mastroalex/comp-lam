@@ -95,7 +95,7 @@
 
 \def\@jyear{20xx}
 \def\@jvolume{}
-\def\@jnumber{0}
+\def\@jnumber{2}
 \def\@jstartpage{1}
 
 \newcommand{\jyear}[1]{\def\@jyear{#1}}
@@ -144,7 +144,7 @@
 	%\textbf{\thepage}%
 	%\hspace{1em}\raisebox{-0.5pt}{|}\hspace{1em}%
 	%  \textit{\@jname}, \@jyear, Vol.~\@jvolume, No.~\@jnumber
-	\textit{\@jname}, \@jyear, No.~\@jnumber
+	\textit{\@jname}, \@jyear, No.~2%\@jnumber
 }
 \rfoot{
 	\color{jcolour}%
