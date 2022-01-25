@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  25 JAN 2022 19:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  25 JAN 2022 19:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -10078,8 +10078,10 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+Underfull \hbox (badness 1577) in paragraph at lines 1196--1197
+[]\T1/Merriwthr-OsF/m/up/9 (+20) Andando a vedere le ten-sioni lungo lo spes-so
+re,
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
@@ -10590,16 +10592,7 @@ f): PDF inclusion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//grafico_tau_xy.pd
 f): PDF inclusion: multiple pdfs with page group included in a single page
->]
-
-Package fancyhdr Warning: \headheight is too small (17.5pt): 
-(fancyhdr)                Make it at least 18.99997pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.99997pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.49997pt}.
-
-[10] (./main2.bbl
+>] (./main2.bbl
 Underfull \hbox (badness 2119) in paragraph at lines 25--28
 []\T1/Merriwthr-OsF/m/up/9 (+20) Invibio, so-lu-tions B.  High per-for-mance PE
 EK-
@@ -10615,9 +10608,7 @@ Package fancyhdr Warning: \headheight is too small (17.5pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.49997pt}.
 
-[11
-
-] (./main2.aux)
+[10] (./main2.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.3pt have occurred.
@@ -10629,11 +10620,11 @@ Package rerunfilecheck Info: File `main2.out' has not changed.
 (rerunfilecheck)             Checksum: 636F0E29616DDBB7D906A0C6D7B97746;3349.
  ) 
 Here is how much of TeX's memory you used:
- 41822 strings out of 478994
- 861680 string characters out of 5858184
- 1559313 words of memory out of 5000000
+ 41824 strings out of 478994
+ 861757 string characters out of 5858184
+ 1550947 words of memory out of 5000000
  57633 multiletter control sequences out of 15000+600000
- 1843739 words of font info for 640 fonts, out of 8000000 for 9000
+ 1844248 words of font info for 642 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  126i,21n,131p,771b,1046s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -10659,10 +10650,10 @@ cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr
 /local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on main2.pdf (11 pages, 5845051 bytes).
+Output written on main2.pdf (10 pages, 5843294 bytes).
 PDF statistics:
- 1474 PDF objects out of 1728 (max. 8388607)
- 581 compressed objects within 6 object streams
- 86 named destinations out of 1000 (max. 500000)
+ 1470 PDF objects out of 1728 (max. 8388607)
+ 578 compressed objects within 6 object streams
+ 85 named destinations out of 1000 (max. 500000)
  261940 words of extra memory for PDF output out of 266212 (max. 10000000)
 
