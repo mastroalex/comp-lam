@@ -989,29 +989,76 @@ I risultati vengono letti sul bordo nei quattro segmenti ottenibili a $x=\pm R$ 
 	
 \end{figure*}
 
-\textcolor{blue}{\lipsum[1-2]}
+Viene eseguita una campagna di simulazioni parametrica e analizzata la risposta strutturale al variare del parametro $\alpha$. I risultati sono riportati in \cref{fig:cyl_A}.
+
+Il layout del laminato è del tipo:
+\begin{equation}
+	\left[\alpha /-\alpha / 30 /-30 / 0_{2}\right]_{\mathrm{S}} \quad \text{ con } \alpha \in \left[0^\circ;90^\circ\right]
+\end{equation}
+
+
+È evidente come al crescere di $\alpha$ i cilindro diventa sempre meno compliante, ovvero a parità di carico si dilata sempre meno. La dilatazione è uniforme e simmetrica, sia lungo $\hat y$ che lungo $\hat z$.
+
+Il maggior numero di fibre orientate parallelamente alla direzione di carico ($\alpha \to 90^\circ$) rende il materiale più rigido e quindi riduce l'effetto estensionale. 
+
+Inoltre, essendo un layout simmetrico e bilanciato, non si osservano neanche effetti di torsione.
+
 \subsubsection{Caso (b)}
 \label{sec:cyl_B}
-\textcolor{blue}{\lipsum[1-2]}
+
+Viene analizzato un laminato bilanciato con layout:
+\begin{equation}
+	\left[-45 / 45 /-45 / 45\right]
+\end{equation}
+
+In questo layout si osserva una dilatazione del cilindro uniforme e simmetrica. La sezione circolare si allarga mantenendosi costante per tutta la lunghezza del cilindro. 
+
+Inoltre, non sono presenti effetti torsionali. 
+
+I risultati sono riportati in \cref{fig:cyl_BD}
+
 \subsubsection{Caso (c)}
 \label{sec:cyl_C}
-\textcolor{blue}{\lipsum[1-2]}
+Viene analizzato un layout:
+\begin{equation}
+	\left[\pm 45^{f} / \pm 45^{f}\right]
+\end{equation}
+
+I risultati sono riportati in \cref{fig:cyl_C}.
+
+Il layout intrecciato fornisce complessivamente un layout simmetrico e bilanciato. 
+
+Si osserva una dilatazione uniforme e costante come nei casi precedenti. Numericamente si ottiene una leggera differenza andando a misurare lo spostamento verticale (lungo $\hat z$) del bordo superiore e inferiore, ma è trascurabile e inferiore a $10^{-5}$. Si osserva anche una rigidezza inferiore al caso \cref{sec:cyl_B} a causa anche del minor numero di strati complessivi. 
+
 \subsubsection{Caso (d)}
 \label{sec:cyl_D}
 
-\begin{figure}
+Viene analizzato il layout:
+\begin{equation}
+	\left[-30 /-45 /-30 /-45\right]
+\end{equation}
+
+I risultati sono riportati in \cref{fig:cyl_BD} e una deformata tridimensionale è riportata in \cref{fig:five ove x}
+
+Il layout è fortemente sbilanciato e sebbene la dilatazione risulti uniforme si osserva un effetto torsionale. Complessivamente il cilindro tende ad avvitarsi. Questo è possibile osservarlo andando a leggere lo spostamento orizzontale (lungo $\hat y$) del bordo inferiore e superiore del cilindro ($z=\pm R$). Come riportato in \cref{fig:D_extra} si osserva uno spostamento lineare crescente lungo l'asse del cilindro. Risulta positivo per il bordo inferiore e negativo per il bordo superiore.
+
+
+
+\begin{figure}[bt!]
 	\def\svgwidth{\linewidth}
 	\input{D_extra_tex.pdf_tex}
 	\caption{Spostamento lungo $\hat y$ per l'elemento strutturale cilindrico nel layout (d) prendendo il bordo a $z=\pm R$. L'anti simmetria presente rispecchia, insieme alle altre considerazioni (vedi \cref{sec:cyl_D} e \cref{fig:five ove x}), la presenza di un effetto torsionale.}
 \label{fig:D_extra}
 \end{figure}
 
-\textcolor{blue}{\lipsum[1-2]}
+
 
 
 \section{Spessore della piastra}
 \label{sec:final_thick}
-Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm{s}}$ illustrato in \cref{fig:last_case_schema}. 
+
+
+
 
 \begin{figure*}[bt!]
 	\centering
@@ -1027,7 +1074,7 @@ Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm
 		\centering
 	\def\svgwidth{\linewidth}
 		\input{struct5_thickness.pdf_tex}
-		\caption{Descrizione}
+		\caption{Rappresentazione schematica nello spessore del layout  $\left[10/-10/30/-30/0_2\right]_s$ dove sono presenti 12 strati con uno spessore $t=0.2$ ciascuno.}
 		
 	\end{subfigure}
 	\hfill
@@ -1035,11 +1082,11 @@ Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm
 		\centering
 	\def\svgwidth{\linewidth}
 	\input{struct5_thickness_sigmaX_.pdf_tex}
-		\caption{Descrizione}
+		\caption{Rappresentazione qualitativa dell'andamento lineare a tratti delle tensioni $\sigma_x$ nello spessore della piastra (vedi \cref{sec:final_thick}). Il grafico è stato estratto dalla \cref{fig:sigma_x} ed è stato scalato. }
 		
 	\end{subfigure}
 	\hfill
-	\caption{ DESCRIZIONE }
+	\caption{Rappresentazione del layout considerato nella sezione \cref{sec:final_thick} }
 	\label{fig:last_case}
 \end{figure*}
 
@@ -1073,7 +1120,7 @@ Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm
 		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
 	\end{subfigure}
 	\hfill
-	\caption{}
+	\caption{Rappresentazioni degli spostamenti al variare del moltiplicatore di carico $\lambda \in \left\{1; 2; 5;10;20;30\right\}$}
 	\label{fig:last_layer}
 	
 	\centering
@@ -1083,8 +1130,8 @@ Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm
 		\scalebox{.5}{
 			\def\svgwidth{2\linewidth}
 			\input{grafico_sigma_x.pdf_tex}}
-		\caption {}
-		
+		\caption {Rappresentazione delle tensioni $\sigma_x$}
+				\label{fig:sigma_x}
 	\end{subfigure}
 	\hfill
 	\begin{subfigure}[t]{0.3\textwidth}
@@ -1093,7 +1140,7 @@ Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm
 			\def\svgwidth{2\linewidth}
 			\input{grafico_sigma_y.pdf_tex}}
 		
-		\caption{}
+		\caption{Rappresentazione delle tensioni $\sigma_y$}
 		
 	\end{subfigure}
 	\hfill
@@ -1102,19 +1149,49 @@ Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm
 		\scalebox{.5}{
 			\def\svgwidth{2\linewidth}
 			\input{grafico_tau_xy.pdf_tex}}
-		\caption{}
+		\caption{Rappresentazione delle tensioni $\tau_{xy}$}
 			\label{fig:stress}
 	\end{subfigure}
 	\hfill
-	\caption{}
+	\caption{Rappresentazioni delle tensioni al variare del moltiplicatore di carico $\lambda \in \left\{1; 2; 5;10;20;30\right\}$}
 
 \end{figure*}
 
+
+Nella teoria dei laminati sottili il campo di deformazione viene ridotto ad un campo di deformazione della superficie media legato a scorrimenti e dilatazioni nel piano. A questo si aggiungono effetti fuori dal piano legati all'inflessione della superficie media e ad eventuali contributi di torsione. Questo implica che il campo di deformazione viene assunto costante e identico in tutti i layer.
+
+Consideriamo un ulteriore caso con 12 layer con un layout del tipo:
+\begin{equation}
+	[10 /-10 / 30 /-30 / 0_2]_{\mathrm{s}}
+\end{equation}
+
+illustrato in \cref{fig:last_case_schema}. 
+
+L'unica cosa che distingue un layer dall'altro, secondo la teoria considerata, è la sola coordinata $z$. Quindi possiamo considerare il legame ridotto nel piano dove ogni layer avrà  il suo aspetto costitutivo mentre le deformazioni saranno legate allla coordinata $z$. 
+
+\begin{equation}
+	\begin{bmatrix}
+		\sigma_x\\ \sigma_y\\ \tau_{xy}
+	\end{bmatrix}_k=
+\begin{bmatrix}
+	\bar Q
+\end{bmatrix}_k \begin{bmatrix} \varepsilon_x\\ \varepsilon_y\\ \gamma_{xy} \end{bmatrix}
+\end{equation}
+
+Ovvero lo stato di tensione sarà continuo nel layer ma discontinuo all'interfaccia e al più varierà linearmente lungo lo spessore a causa della dipendenza lineare della deformazione. 
+
 Viene applicato un certo carico assiale fisso mentre il carico trasversale scalato tramite un moltiplicatore, \cref{eq:Tload}, così da poter analizzare la variazione delle tensioni interne al variare del carico trasversale. 
+
 \begin{equation}
 	\lambda \:F_{\perp} \quad \text{con } \lambda \in \left\{1; 2; 5;10;20;30\right\}
 	\label{eq:Tload}
 \end{equation}
+
+È evidente come lo spostamenti risulti proporzionale al carico applicato, al crescere del moltiplicatore di carico aumenta la flessione. 
+
+Sono assenti effetti torsionali essendo un laminato simmetrico e bilanciato.
+
+Non sono presenti neanche effetti estensionali e lo spostamento lungo $\hat y$ del bordo della piastra è inferiore a $5 \cdot 10^{-4}. 
 
 COMMENTA EFFETTO CINEMATICO
 
