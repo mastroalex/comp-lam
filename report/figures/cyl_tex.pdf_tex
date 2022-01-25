@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{468.74775bp}%
+    \setlength{\unitlength}{473.29266357bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,11 +50,14 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.96160462)%
+  \begin{picture}(1,0.95237056)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cyl_tex.pdf}}%
-    \put(0.98919995,0.29032779){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\scriptsize{x}\end{tabular}}}}%
+    \put(0.97970106,0.28754001){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}x\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{cyl_tex.pdf}}%
+    \put(0.98931294,0.42509069){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}y\end{tabular}}}}%
+    \put(0.90620816,0.63185034){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}z\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{cyl_tex.pdf}}%
   \end{picture}%
 \endgroup%
