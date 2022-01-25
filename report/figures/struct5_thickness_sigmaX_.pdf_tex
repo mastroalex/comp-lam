@@ -1,0 +1,82 @@
+%% Creator: Inkscape 1.1.1 (3bf5ae0d25, 2021-09-20), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'struct5_thickness_sigmaX_.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{172.42500916bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.95181083)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.04193479,0.02821907){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10°\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.03167642,0.10647867){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-10°\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.04334929,0.18473853){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}30°\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.03167642,0.26299813){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-30°\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.06032339,0.34125719){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0°\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.06032339,0.41951706){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0°\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.06032339,0.49777665){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0°\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.06032339,0.57603625){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0°\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.03167642,0.65429611){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-30°\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.05725225,0.73255531){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}30\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.04557937,0.81081491){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-10\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{struct5_thickness_sigmaX_.pdf}}%
+    \put(0.05583774,0.88907464){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{struct5_thickness_sigmaX_.pdf}}%
+  \end{picture}%
+\endgroup%

@@ -908,6 +908,85 @@ I risultati vengono letti sul bordo nei quattro segmenti ottenibili a $x=\pm R$ 
 	\hfill
 	\caption{Risultati caso (a)  per un elemento strutturale tipo cilindro (\cref{sec:cyl_A})}
 	\label{fig:cyl_A}
+	
+		\centering
+	\begin{subfigure}[t]{0.23\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{BD_C_V_X.pdf_tex}}
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=R$ del cilindro}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.23\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{BD_C_V_X_2.pdf_tex}}
+		
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=-R$ del cilindro}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.23\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{BD_C_W_X.pdf_tex}}
+		\caption{Spostamento lungo $\hat z$ del bordo con $z=R$ del cilindro}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.23\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{BD_C_W_X_2.pdf_tex}}
+		\caption{Spostamento lungo $\hat z$ del bordo con $z=-R$ del cilindro}
+	\end{subfigure}
+	\hfill
+	\caption{Risultati caso (b) e (d) per un elemento strutturale tipo cilindro (\cref{sec:cyl_B})}
+	\label{fig:cyl_BD}
+	
+			\centering
+	\begin{subfigure}[t]{0.23\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{C_C_V_X.pdf_tex}}
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=R$ del cilindro}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.23\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{C_C_V_X_2.pdf_tex}}
+		
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=-R$ del cilindro}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.23\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{C_C_W_X.pdf_tex}}
+		\caption{Spostamento lungo $\hat z$ del bordo con $z=R$ del cilindro}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.23\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{C_C_W_X_2.pdf_tex}}
+		\caption{Spostamento lungo $\hat z$ del bordo con $z=-R$ del cilindro}
+	\end{subfigure}
+	\hfill
+	\caption{Risultati caso (c) per un elemento strutturale tipo cilindro (\cref{sec:cyl_C})}
+	\label{fig:cyl_C}
+	
 \end{figure*}
 
 \textcolor{blue}{\lipsum[1-2]}
@@ -919,33 +998,43 @@ I risultati vengono letti sul bordo nei quattro segmenti ottenibili a $x=\pm R$ 
 \textcolor{blue}{\lipsum[1-2]}
 \subsubsection{Caso (d)}
 \label{sec:cyl_D}
+
+\begin{figure}
+	\def\svgwidth{\linewidth}
+	\input{D_extra_tex.pdf_tex}
+	\caption{Spostamento lungo $\hat y$ per l'elemento strutturale cilindrico nel layout (d) prendendo il bordo a $z=\pm R$. L'anti simmetria presente rispecchia, insieme alle altre considerazioni (vedi \cref{sec:cyl_D} e \cref{fig:five ove x}), la presenza di un effetto torsionale.}
+\label{fig:D_extra}
+\end{figure}
+
 \textcolor{blue}{\lipsum[1-2]}
 
 
 \section{Spessore della piastra}
-
+\label{sec:final_thick}
 Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm{s}}$ illustrato in \cref{fig:last_case_schema}. 
 
 \begin{figure*}[bt!]
 	\centering
-	\begin{subfigure}[t]{0.3\textwidth}
+	\begin{subfigure}[c]{0.28\textwidth}
 		\centering
-		\includegraphics[width=\textwidth]{struct5.pdf}
-		\caption{Descrizione}
+		\def\svgwidth{\linewidth}
+	\input{struct5_tex.pdf_tex}
+		\caption{Layout $\left[10/-10/30/-30/0_2\right]_s$, vedi \cref{sec:final_thick}}
 			\label{fig:last_case_schema}
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}[t]{0.3\textwidth}
+	\begin{subfigure}[c]{0.28\textwidth}
 		\centering
-		METTI FIGURA DI PROFILO CON RETTANGOLI CON GRADI
-		%\includegraphics[width=\textwidth]{V_X=.pdf}
+	\def\svgwidth{\linewidth}
+		\input{struct5_thickness.pdf_tex}
 		\caption{Descrizione}
 		
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}[t]{0.3\textwidth}
+	\begin{subfigure}[c]{0.35\textwidth}
 		\centering
-		%\includegraphics[width=\textwidth]{W_Y=.pdf}
+	\def\svgwidth{\linewidth}
+	\input{struct5_thickness_sigmaX_.pdf_tex}
 		\caption{Descrizione}
 		
 	\end{subfigure}
@@ -953,6 +1042,83 @@ Consideriamo un ulteriore caso con un layout $[10 /-10 / 30 /-30 / 0_2]_{\mathrm
 	\caption{ DESCRIZIONE }
 	\label{fig:last_case}
 \end{figure*}
+
+\begin{figure*}[bt!]
+	\centering
+	
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{last_layer_V_X.pdf_tex}}
+		\caption{Spostamento lungo $\hat y$ del bordo con $y=0$ della piastra}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{last_layer_W_Y.pdf_tex}}
+		
+		\caption{Effetto torsionale, spostamento lungo $\hat z$ del bordo estremale della piastra ($x=L$)}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{last_layer_W_X.pdf_tex}}
+		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
+	\end{subfigure}
+	\hfill
+	\caption{}
+	\label{fig:last_layer}
+	
+	\centering
+	
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{grafico_sigma_x.pdf_tex}}
+		\caption {}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{grafico_sigma_y.pdf_tex}}
+		
+		\caption{}
+		
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\scalebox{.5}{
+			\def\svgwidth{2\linewidth}
+			\input{grafico_tau_xy.pdf_tex}}
+		\caption{}
+			\label{fig:stress}
+	\end{subfigure}
+	\hfill
+	\caption{}
+
+\end{figure*}
+
+Viene applicato un certo carico assiale fisso mentre il carico trasversale scalato tramite un moltiplicatore, \cref{eq:Tload}, così da poter analizzare la variazione delle tensioni interne al variare del carico trasversale. 
+\begin{equation}
+	\lambda \:F_{\perp} \quad \text{con } \lambda \in \left\{1; 2; 5;10;20;30\right\}
+	\label{eq:Tload}
+\end{equation}
+
+COMMENTA EFFETTO CINEMATICO
+
+COMMENTA EFFETTO SULLE TENSIONI 
 
 \textcolor{blue}{\lipsum[1-2]}
 
@@ -964,7 +1130,8 @@ CMPOMPLETA
 
 Conoscere la risposta di elementi strutturali può essere utile per modellare correttamente una determinata struttura protesica e per fare studi dettagliati  di danno.
 
-textcolor{blue}{\lipsum[1-2]}
+\textcolor{blue}{\lipsum[1-2]}
+
 \section{Metodi}
 
 \subsection{Legame costitutivo generalizzato}

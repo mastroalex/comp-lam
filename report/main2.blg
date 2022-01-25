@@ -9,24 +9,24 @@ Warning--empty year in PEEKOPTIMA
 Warning--empty year in DISTAL
 You've used 8 entries,
             3097 wiz_defined-function locations,
-            732 strings with 6752 characters,
-and the built_in function-call counts, 11348 in all, are:
-= -- 1405
+            732 strings with 6754 characters,
+and the built_in function-call counts, 11462 in all, are:
+= -- 1423
 > -- 92
 < -- 4
 + -- 55
 - -- 23
-* -- 947
-:= -- 1224
+* -- 957
+:= -- 1234
 add.period$ -- 27
 call.type$ -- 8
 change.case$ -- 0
 chr.to.int$ -- 8
 cite$ -- 11
-duplicate$ -- 1084
-empty$ -- 1078
+duplicate$ -- 1100
+empty$ -- 1088
 format.name$ -- 44
-if$ -- 2630
+if$ -- 2658
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 75
@@ -38,7 +38,7 @@ purify$ -- 0
 quote$ -- 0
 skip$ -- 99
 stack$ -- 0
-substring$ -- 1946
+substring$ -- 1968
 swap$ -- 151
 text.length$ -- 0
 text.prefix$ -- 0
