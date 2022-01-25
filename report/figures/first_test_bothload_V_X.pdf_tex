@@ -50,74 +50,74 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.50098984)%
+  \begin{picture}(1,0.50098985)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{first_test_bothload_V_X.pdf}}%
-    \put(0.87549181,0.16824201){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.9389876,0.16824201){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95412402,0.16824201){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0.87549182,0.16824202){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89718434,0.16824202){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91232077,0.16824202){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{first_test_bothload_V_X.pdf}}%
-    \put(0.87692761,0.25742521){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.94042341,0.25742521){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95555982,0.25742521){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10\end{tabular}}}}%
+    \put(0.87692762,0.25742521){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89862013,0.25742521){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91375657,0.25742521){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{first_test_bothload_V_X.pdf}}%
-    \put(0.87692761,0.34661602){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.94042341,0.34661602){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95555982,0.34661602){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}20\end{tabular}}}}%
+    \put(0.87692762,0.34661603){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89862013,0.34661603){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91375657,0.34661603){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}20\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{first_test_bothload_V_X.pdf}}%
-    \put(0.87692761,0.43577197){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.94042341,0.43577197){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95555982,0.43577197){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}30\end{tabular}}}}%
+    \put(0.87692762,0.43577199){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89862013,0.43577199){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91375657,0.43577199){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}30\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{first_test_bothload_V_X.pdf}}%
-    \put(0.87692761,0.39120802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.94042341,0.39120802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95555982,0.39120802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}40\end{tabular}}}}%
+    \put(0.87692762,0.39120802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89862013,0.39120802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91375657,0.39120802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}40\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{first_test_bothload_V_X.pdf}}%
-    \put(0.87692761,0.30203564){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.94042341,0.30203564){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95555982,0.30203564){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}50\end{tabular}}}}%
+    \put(0.87692762,0.30203564){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89862013,0.30203564){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91375657,0.30203564){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}50\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=7]{first_test_bothload_V_X.pdf}}%
-    \put(0.87692761,0.21283721){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.94042341,0.21283721){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95555982,0.21283721){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}60\end{tabular}}}}%
+    \put(0.87692762,0.21283722){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89862013,0.21283722){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91375657,0.21283722){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}60\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=8]{first_test_bothload_V_X.pdf}}%
-    \put(0.87692761,0.12358832){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.94042341,0.12358832){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95555982,0.12358832){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}70\end{tabular}}}}%
+    \put(0.87692762,0.12358832){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89862013,0.12358832){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91375657,0.12358832){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}70\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=9]{first_test_bothload_V_X.pdf}}%
-    \put(0.87692761,0.07885169){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.94042341,0.07885169){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95555982,0.07885169){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}80\end{tabular}}}}%
+    \put(0.87692762,0.0788517){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89862013,0.0788517){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91375657,0.0788517){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}80\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=10]{first_test_bothload_V_X.pdf}}%
-    \put(0.87692761,0.03398928){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
-    \put(0.94042341,0.03398928){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
-    \put(0.95555982,0.03398928){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}90\end{tabular}}}}%
+    \put(0.87692762,0.03398928){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\alpha$\end{tabular}}}}%
+    \put(0.89862013,0.03398928){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}=\end{tabular}}}}%
+    \put(0.91375657,0.03398928){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}90\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=11]{first_test_bothload_V_X.pdf}}%
-    \put(0.22659607,0.00039295){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}5\end{tabular}}}}%
+    \put(0.22659608,0.00039295){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}5\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=12]{first_test_bothload_V_X.pdf}}%
-    \put(0.39575194,0.00039295){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10\end{tabular}}}}%
+    \put(0.39575195,0.00039295){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=13]{first_test_bothload_V_X.pdf}}%
-    \put(0.57212407,0.00039295){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}15\end{tabular}}}}%
+    \put(0.57212408,0.00039295){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}15\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=14]{first_test_bothload_V_X.pdf}}%
-    \put(0.74850022,0.00039295){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}20\end{tabular}}}}%
+    \put(0.74850021,0.00039295){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}20\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=15]{first_test_bothload_V_X.pdf}}%
-    \put(0.8007091,0.02354686){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}X\end{tabular}}}}%
+    \put(0.80070908,0.02354687){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}x\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=16]{first_test_bothload_V_X.pdf}}%
-    \put(-0.00173657,0.08115563){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.02\end{tabular}}}}%
+    \put(-0.00173657,0.08115565){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.02\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=17]{first_test_bothload_V_X.pdf}}%
-    \put(-0.00173657,0.13876279){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.04\end{tabular}}}}%
+    \put(-0.00173657,0.13876281){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.04\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=18]{first_test_bothload_V_X.pdf}}%
-    \put(-0.00173657,0.19637156){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.06\end{tabular}}}}%
+    \put(-0.00173657,0.19637157){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.06\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=19]{first_test_bothload_V_X.pdf}}%
-    \put(-0.00173657,0.25398072){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.08\end{tabular}}}}%
+    \put(-0.00173657,0.25398075){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.08\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=20]{first_test_bothload_V_X.pdf}}%
-    \put(-0.00173657,0.31158949){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.10\end{tabular}}}}%
+    \put(-0.00173657,0.3115895){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.10\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=21]{first_test_bothload_V_X.pdf}}%
     \put(-0.00173657,0.36919866){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.12\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=22]{first_test_bothload_V_X.pdf}}%
-    \put(-0.00173657,0.42680742){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.14\end{tabular}}}}%
+    \put(-0.00173657,0.42680744){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.14\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=23]{first_test_bothload_V_X.pdf}}%
-    \put(0.05095185,0.48683109){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}v\end{tabular}}}}%
+    \put(0.05095185,0.48683111){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}v\end{tabular}}}}%
   \end{picture}%
 \endgroup%

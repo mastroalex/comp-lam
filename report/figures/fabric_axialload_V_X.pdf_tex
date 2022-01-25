@@ -1,0 +1,83 @@
+%% Creator: Inkscape 1.1.1 (3bf5ae0d25, 2021-09-20), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'fabric_axialload_V_X.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{257.80147731bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.60278803)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{fabric_axialload_V_X.pdf}}%
+    \put(0.28243904,0.00030683){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}5\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{fabric_axialload_V_X.pdf}}%
+    \put(0.49464236,0.00030683){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{fabric_axialload_V_X.pdf}}%
+    \put(0.71383528,0.00030683){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}15\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{fabric_axialload_V_X.pdf}}%
+    \put(0.9330282,0.00030683){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}20\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{fabric_axialload_V_X.pdf}}%
+    \put(0.98761629,0.02272598){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}x\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{fabric_axialload_V_X.pdf}}%
+    \put(-0.00104323,0.09546513){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.002\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{fabric_axialload_V_X.pdf}}%
+    \put(-0.00104323,0.16820427){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.004\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{fabric_axialload_V_X.pdf}}%
+    \put(-0.00104323,0.24094342){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.006\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{fabric_axialload_V_X.pdf}}%
+    \put(-0.00104323,0.31368258){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.008\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{fabric_axialload_V_X.pdf}}%
+    \put(-0.00104323,0.38642174){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.010\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{fabric_axialload_V_X.pdf}}%
+    \put(-0.00104323,0.45916089){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.012\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{fabric_axialload_V_X.pdf}}%
+    \put(-0.00104323,0.53190005){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.014\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{fabric_axialload_V_X.pdf}}%
+    \put(0.06395182,0.58975383){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}v\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
