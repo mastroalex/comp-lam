@@ -195,7 +195,7 @@
     {\color{black!15}\rule{\linewidth}{2pt}}\par%
     \vspace{\dimexpr 8pt-1em\relax}%
     \fontsize{6.5pt}{9.5pt}\bfseries%
-    \textcolor{jcolour}{doi: xx.xxxx/xxxx}\par
+    \textcolor{jcolour}{url: https://alessandromastrofini.it/comp-laminates}\par
 	Progetto 2\par
     Risposta strutturale laminato CF/PEEK ad uso biomedicale\par
  Ingegneria Medica\par

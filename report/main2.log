@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  26 JAN 2022 15:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  26 JAN 2022 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2163,47 +2163,50 @@ Overfull \hbox (54.64pt too wide) in paragraph at lines 159--159
 [][][] 
  []
 
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 9.0pt on input line 188.
 
-Underfull \hbox (badness 3746) in paragraph at lines 187--189
+Underfull \vbox (badness 2781) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 7.8pt on input line 182.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 7.8pt on input line 182.
+ [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./figures//logo.png>]
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 9.0pt on input line 184.
+
+Underfull \hbox (badness 3746) in paragraph at lines 183--185
 \T1/Merriwthr-OsF/m/up/9 (+20) metal-lici con una rigidezza di circa un or-dine
  di
  []
 
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 7.8pt on input line 189.
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
-(Font)              scaled to size 7.8pt on input line 189.
-[1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
- <./figures//logo.png>]
-<figures//laminate_figures.pdf, id=118, 1671.4545pt x 572.29611pt>
+<figures//laminate_figures.pdf, id=117, 1671.4545pt x 572.29611pt>
 File: figures//laminate_figures.pdf Graphic file (type pdf)
 <use figures//laminate_figures.pdf>
-Package pdftex.def Info: figures//laminate_figures.pdf  used on input line 199.
+Package pdftex.def Info: figures//laminate_figures.pdf  used on input line 193.
 
 (pdftex.def)             Requested size: 488.22787pt x 167.1667pt.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 200.
+(Font)              scaled to size 6.0pt on input line 194.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
-(Font)              scaled to size 6.0pt on input line 200.
+(Font)              scaled to size 6.0pt on input line 194.
 
-Underfull \hbox (badness 1874) in paragraph at lines 208--209
+Underfull \hbox (badness 1874) in paragraph at lines 202--203
 \T1/Merriwthr-OsF/m/up/9 (+20) dif-fer-enti: il com-por-ta-mento della strut-tu
 ra fi-nale
  []
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
-(Font)              scaled to size 8.5pt on input line 211.
+(Font)              scaled to size 8.5pt on input line 205.
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 231.
+(amsmath)                 on input line 225.
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 7.8pt on input line 262.
+(Font)              scaled to size 7.8pt on input line 242.
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
 (fancyhdr)                Make it at least 18.99997pt, for example:
@@ -2213,10 +2216,10 @@ Package fancyhdr Warning: \headheight is too small (17.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.49997pt}.
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 262.
+(Font)              scaled to size 9.0pt on input line 242.
 [2 <./figures//laminate_figures.pdf>]
 (./figures//miture_rule_result_tex.pdf_tex
-<figures//miture_rule_result_tex.pdf, id=191, page=1, 286.74232pt x 163.2244pt>
+<figures//miture_rule_result_tex.pdf, id=190, page=1, 286.74232pt x 163.2244pt>
 
 File: figures//miture_rule_result_tex.pdf Graphic file (type pdf)
 <use figures//miture_rule_result_tex.pdf, page 1>
@@ -2225,195 +2228,121 @@ put line 56.
 (pdftex.def)             Requested size: 235.11394pt x 133.8374pt.
 )
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 6.0pt on input line 267.
+(Font)              scaled to size 6.0pt on input line 261.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 6.0pt on input line 267.
+(Font)              scaled to size 6.0pt on input line 261.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 267.
+(Font)              scaled to size 6.0pt on input line 261.
 
-Underfull \hbox (badness 1371) in paragraph at lines 280--281
+Underfull \hbox (badness 1371) in paragraph at lines 274--275
 \T1/Merriwthr-OsF/m/up/9 (+20) come una las-tra sot-tile omo-ge-nea. Ogni lam-i
 na è
  []
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 289.
+LaTeX Font Warning: Command \small invalid in math mode on input line 283.
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 8.21255pt on input line 289.
-LaTeX Font Info:    Calculating math sizes for size <8.21255> on input line 291
+(Font)              scaled to size 8.21255pt on input line 283.
+LaTeX Font Info:    Calculating math sizes for size <8.21255> on input line 285
 .
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 8.21255pt on input line 291.
+(Font)              scaled to size 8.21255pt on input line 285.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 6.84349pt on input line 291.
+(Font)              scaled to size 6.84349pt on input line 285.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 5.74875pt on input line 291.
+(Font)              scaled to size 5.74875pt on input line 285.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 6.84349pt on input line 291.
+(Font)              scaled to size 6.84349pt on input line 285.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 5.74875pt on input line 291.
+(Font)              scaled to size 5.74875pt on input line 285.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 8.21255pt on input line 291.
+(Font)              scaled to size 8.21255pt on input line 285.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 6.84349pt on input line 291.
+(Font)              scaled to size 6.84349pt on input line 285.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 5.74875pt on input line 291.
+(Font)              scaled to size 5.74875pt on input line 285.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 8.21255pt on input line 291.
+(Font)              scaled to size 8.21255pt on input line 285.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 6.84349pt on input line 291.
+(Font)              scaled to size 6.84349pt on input line 285.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 5.74875pt on input line 291.
-LaTeX Font Info:    Calculating math sizes for size <> on input line 313.
+(Font)              scaled to size 5.74875pt on input line 285.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 307.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 1.0pt on input line 313.
+(Font)              scaled to size 1.0pt on input line 307.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 0.8333pt on input line 313.
+(Font)              scaled to size 0.8333pt on input line 307.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 0.7pt on input line 313.
+(Font)              scaled to size 0.7pt on input line 307.
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.8333> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.8333> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 1.0pt on input line 313.
+(Font)              scaled to size 1.0pt on input line 307.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 0.8333pt on input line 313.
+(Font)              scaled to size 0.8333pt on input line 307.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 0.7pt on input line 313.
+(Font)              scaled to size 0.7pt on input line 307.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 1.0pt on input line 313.
+(Font)              scaled to size 1.0pt on input line 307.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 0.8333pt on input line 313.
+(Font)              scaled to size 0.8333pt on input line 307.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 0.7pt on input line 313.
+(Font)              scaled to size 0.7pt on input line 307.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 1.0pt on input line 313.
+(Font)              scaled to size 1.0pt on input line 307.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 0.8333pt on input line 313.
+(Font)              scaled to size 0.8333pt on input line 307.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 0.7pt on input line 313.
+(Font)              scaled to size 0.7pt on input line 307.
 
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <0.8333> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <0.8333> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 313.
+(Font)              size <5> substituted on input line 307.
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 343.
-(./figures//struct1_tex.pdf_tex
-<figures//struct1_tex.pdf, id=201, page=1, 252.15454pt x 470.05981pt>
-File: figures//struct1_tex.pdf Graphic file (type pdf)
-<use figures//struct1_tex.pdf, page 1>
-Package pdftex.def Info: figures//struct1_tex.pdf , page1 used on input line 56
-.
-(pdftex.def)             Requested size: 117.17737pt x 218.43927pt.
-)
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 6.00005pt on input line 388.
-LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 6.00005pt on input line 388.
-LaTeX Font Info:    Calculating math sizes for size <6.00005> on input line 388
-.
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 6.00005pt on input line 388.
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 4.99982pt on input line 388.
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 4.20001pt on input line 388.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.20001> not available
-(Font)              size <5> substituted on input line 388.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.20001> not available
-(Font)              size <5> substituted on input line 388.
-
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 4.99982pt on input line 388.
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 4.20001pt on input line 388.
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 6.00005pt on input line 388.
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 4.99982pt on input line 388.
-LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 4.20001pt on input line 388.
-LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 4.99982pt on input line 388.
-LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 4.20001pt on input line 388.
-
-LaTeX Font Warning: Font shape `U/stmry/m/n' in size <4.20001> not available
-(Font)              size <5> substituted on input line 388.
-
-
-LaTeX Font Warning: Font shape `U/wasy/m/n' in size <4.20001> not available
-(Font)              size <5> substituted on input line 388.
-
-(./figures//struct2_tex.pdf_tex
-<figures//struct2_tex.pdf, id=202, page=1, 251.19847pt x 270.42148pt>
-File: figures//struct2_tex.pdf Graphic file (type pdf)
-<use figures//struct2_tex.pdf, page 1>
-Package pdftex.def Info: figures//struct2_tex.pdf , page1 used on input line 56
-.
-(pdftex.def)             Requested size: 117.17737pt x 126.14493pt.
-) (./figures//struct3_tex.pdf_tex
-<figures//struct3_tex.pdf, id=203, page=1, 251.25871pt x 224.46982pt>
-File: figures//struct3_tex.pdf Graphic file (type pdf)
-<use figures//struct3_tex.pdf, page 1>
-Package pdftex.def Info: figures//struct3_tex.pdf , page1 used on input line 56
-.
-(pdftex.def)             Requested size: 117.17737pt x 104.6822pt.
-)
-(./figures//struct4_tex.pdf_tex
-<figures//struct4_tex.pdf, id=204, page=1, 251.38667pt x 282.00728pt>
-File: figures//struct4_tex.pdf Graphic file (type pdf)
-<use figures//struct4_tex.pdf, page 1>
-Package pdftex.def Info: figures//struct4_tex.pdf , page1 used on input line 56
-.
-(pdftex.def)             Requested size: 117.17737pt x 131.45045pt.
-)
+(Font)              scaled to size 7.0pt on input line 337.
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
 (fancyhdr)                Make it at least 18.99997pt, for example:
@@ -2422,16 +2351,89 @@ Package fancyhdr Warning: \headheight is too small (17.5pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.49997pt}.
 
-[3 <./figures//miture_rule_result_tex.pdf>]
+[3 <./figures//miture_rule_result_tex.pdf>] (./figures//struct1_tex.pdf_tex
+<figures//struct1_tex.pdf, id=250, page=1, 252.15454pt x 470.05981pt>
+File: figures//struct1_tex.pdf Graphic file (type pdf)
+<use figures//struct1_tex.pdf, page 1>
+Package pdftex.def Info: figures//struct1_tex.pdf , page1 used on input line 56
+.
+(pdftex.def)             Requested size: 117.17737pt x 218.43927pt.
+)
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 6.00005pt on input line 382.
+LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
+(Font)              scaled to size 6.00005pt on input line 382.
+LaTeX Font Info:    Calculating math sizes for size <6.00005> on input line 382
+.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 6.00005pt on input line 382.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 4.99982pt on input line 382.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 4.20001pt on input line 382.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.20001> not available
+(Font)              size <5> substituted on input line 382.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.20001> not available
+(Font)              size <5> substituted on input line 382.
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 4.99982pt on input line 382.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 4.20001pt on input line 382.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 6.00005pt on input line 382.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 4.99982pt on input line 382.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 4.20001pt on input line 382.
+LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
+(Font)              scaled to size 4.99982pt on input line 382.
+LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
+(Font)              scaled to size 4.20001pt on input line 382.
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <4.20001> not available
+(Font)              size <5> substituted on input line 382.
+
+
+LaTeX Font Warning: Font shape `U/wasy/m/n' in size <4.20001> not available
+(Font)              size <5> substituted on input line 382.
+
+(./figures//struct2_tex.pdf_tex
+<figures//struct2_tex.pdf, id=251, page=1, 251.19847pt x 270.42148pt>
+File: figures//struct2_tex.pdf Graphic file (type pdf)
+<use figures//struct2_tex.pdf, page 1>
+Package pdftex.def Info: figures//struct2_tex.pdf , page1 used on input line 56
+.
+(pdftex.def)             Requested size: 117.17737pt x 126.14493pt.
+) (./figures//struct3_tex.pdf_tex
+<figures//struct3_tex.pdf, id=252, page=1, 251.25871pt x 224.46982pt>
+File: figures//struct3_tex.pdf Graphic file (type pdf)
+<use figures//struct3_tex.pdf, page 1>
+Package pdftex.def Info: figures//struct3_tex.pdf , page1 used on input line 56
+.
+(pdftex.def)             Requested size: 117.17737pt x 104.6822pt.
+)
+(./figures//struct4_tex.pdf_tex
+<figures//struct4_tex.pdf, id=253, page=1, 251.38667pt x 282.00728pt>
+File: figures//struct4_tex.pdf Graphic file (type pdf)
+<use figures//struct4_tex.pdf, page 1>
+Package pdftex.def Info: figures//struct4_tex.pdf , page1 used on input line 56
+.
+(pdftex.def)             Requested size: 117.17737pt x 131.45045pt.
+)
 LaTeX Font Info:    Trying to load font information for TS1+Merriwthr-OsF on in
-put line 433.
+put line 427.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/merriweather/TS1Merriwthr-OsF.fd
 File: TS1Merriwthr-OsF.fd 2020/08/30 (autoinst) Font definitions for TS1/Merriw
 thr-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 433.
+(Font)              scaled to size 9.0pt on input line 427.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Merriwthr-OsF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
@@ -2447,7 +2449,7 @@ Package pdftex.def Info: figures//plate_tex.pdf , page1 used on input line 56.
 File: figures///first_test/alpha=40.pdf Graphic file (type pdf)
 <use figures///first_test/alpha=40.pdf>
 Package pdftex.def Info: figures///first_test/alpha=40.pdf  used on input line 
-449.
+443.
 (pdftex.def)             Requested size: 117.17737pt x 77.33438pt.
  (./figures//cyl_tex.pdf_tex
 <figures//cyl_tex.pdf, id=258, page=1, 475.0675pt x 452.4403pt>
@@ -2470,24 +2472,20 @@ Package pdftex.def Info: figures//cyl_tex.pdf , page3 used on input line 61.
 File: figures///more_test/cyl_30_45_30_45.pdf Graphic file (type pdf)
 <use figures///more_test/cyl_30_45_30_45.pdf>
 Package pdftex.def Info: figures///more_test/cyl_30_45_30_45.pdf  used on input
- line 464.
+ line 458.
 (pdftex.def)             Requested size: 117.17737pt x 90.0305pt.
 
-Underfull \hbox (badness 4108) in paragraph at lines 465--465
+Underfull \hbox (badness 4108) in paragraph at lines 459--459
 []\T1/MerriwthrSans-OsF/m/n/6.00005 (+20) (iv) |\T1/Merriwthr-OsF/m/up/6.00005 
 (+20) El-e-mento tipo cilin-dro de-for-mato
  []
 
-
-Underfull \vbox (badness 2600) has occurred while \output is active []
-
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/sl' in size <9> not availabl
 e
 (Font)              Font shape `T1/Merriwthr-OsF/b/it' tried instead on input l
-ine 479.
+ine 473.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 479.
-
+(Font)              scaled to size 9.0pt on input line 473.
 (./figures//first_test_bothload_V_X.pdf_tex
 <figures//first_test_bothload_V_X.pdf, id=263, page=1, 187.91443pt x 94.14323pt
 >
@@ -2651,7 +2649,7 @@ Package pdftex.def Info: figures//first_test_bothload_V_X.pdf , page23 used on
 input line 120.
 (pdftex.def)             Requested size: 292.9397pt x 146.76515pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 489--490
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 483--484
  [][] 
  []
 
@@ -2811,7 +2809,7 @@ Package pdftex.def Info: figures//first_test_bothload_W_Y.pdf , page22 used on
 input line 123.
 (pdftex.def)             Requested size: 292.9397pt x 144.7921pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 498--499
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 492--493
  [][] 
  []
 
@@ -2964,7 +2962,7 @@ Package pdftex.def Info: figures//first_test_bothload_W_X.pdf , page21 used on
 input line 121.
 (pdftex.def)             Requested size: 292.9397pt x 144.89297pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 508--509
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 502--503
  [][] 
  []
 
@@ -3110,7 +3108,7 @@ Package pdftex.def Info: figures//first_test_transload_V_X.pdf , page20 used on
  input line 114.
 (pdftex.def)             Requested size: 292.9397pt x 144.02959pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 522--523
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 516--517
  [][] 
  []
 
@@ -3270,7 +3268,7 @@ Package pdftex.def Info: figures//first_test_transload_W_Y.pdf , page22 used on
  input line 123.
 (pdftex.def)             Requested size: 292.9397pt x 144.89297pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 531--532
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 525--526
  [][] 
  []
 
@@ -3423,7 +3421,7 @@ Package pdftex.def Info: figures//first_test_transload_W_X.pdf , page21 used on
  input line 121.
 (pdftex.def)             Requested size: 292.9397pt x 144.89297pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 541--542
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 535--536
  [][] 
  []
 
@@ -3561,7 +3559,7 @@ Package pdftex.def Info: figures//first_test_axialload_V_X.pdf , page22 used on
  input line 118.
 (pdftex.def)             Requested size: 292.9397pt x 146.39952pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 555--556
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 549--550
  [][] 
  []
 
@@ -3700,7 +3698,7 @@ Package pdftex.def Info: figures//first_test_axialload_W_Y.pdf , page19 used on
  input line 113.
 (pdftex.def)             Requested size: 292.9397pt x 141.48415pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 564--565
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 558--559
  [][] 
  []
 
@@ -3853,12 +3851,12 @@ Package pdftex.def Info: figures//first_test_axialload_W_X.pdf , page21 used on
  input line 117.
 (pdftex.def)             Requested size: 292.9397pt x 141.48415pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 574--575
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 568--569
  [][] 
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 585--586
+Underfull \hbox (badness 4303) in paragraph at lines 579--580
 \T1/Merriwthr-OsF/m/up/9 (+20) La prima anal-isi af-fronta uno stu-dio para-met
 -rico
  []
@@ -3910,26 +3908,22 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///more_test/cyl_30
 _45_30_45.pdf): PDF inclusion: multiple pdfs with page group included in a sing
 le page
 >]
-Underfull \hbox (badness 2426) in paragraph at lines 598--599
+Underfull \hbox (badness 2426) in paragraph at lines 592--593
 \T1/Merriwthr-OsF/m/up/9 (+20) giore di layer allineati lungo l'asse for-nisce 
 meno
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 602--603
+Underfull \hbox (badness 10000) in paragraph at lines 596--597
 []\T1/Merriwthr-OsF/m/up/9 (+20) I casi in-ter-medi for-niscono com-por-ta-ment
 i
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 602--603
+Underfull \hbox (badness 1603) in paragraph at lines 596--597
 \T1/Merriwthr-OsF/m/up/9 (+20) strut-turali in-ter-medi tra i due casi lim-ite 
 de-scritti.
  []
-
-
-Underfull \vbox (badness 2790) has occurred while \output is active []
-
 
 (./figures//fabric_bothload_V_X.pdf_tex
 <figures//fabric_bothload_V_X.pdf, id=510, page=1, 258.76823pt x 155.98239pt>
@@ -4011,7 +4005,7 @@ Package pdftex.def Info: figures//fabric_bothload_V_X.pdf , page13 used on inpu
 t line 80.
 (pdftex.def)             Requested size: 292.9397pt x 176.59125pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 630--631
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 624--625
  [][] 
  []
 
@@ -4077,7 +4071,7 @@ Package pdftex.def Info: figures//fabric_bothload_W_Y.pdf , page10 used on inpu
 t line 77.
 (pdftex.def)             Requested size: 292.9397pt x 165.32806pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 639--640
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 633--634
  [][] 
  []
 
@@ -4155,7 +4149,7 @@ Package pdftex.def Info: figures//fabric_bothload_W_X.pdf , page12 used on inpu
 t line 84.
 (pdftex.def)             Requested size: 292.9397pt x 175.66641pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 649--650
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 643--644
  [][] 
  []
 
@@ -4222,7 +4216,7 @@ Package pdftex.def Info: figures//fabric_transload_V_X.pdf , page10 used on inp
 ut line 76.
 (pdftex.def)             Requested size: 292.9397pt x 178.25157pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 662--663
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 656--657
  [][] 
  []
 
@@ -4289,7 +4283,7 @@ Package pdftex.def Info: figures//fabric_transload_W_Y.pdf , page10 used on inp
 ut line 77.
 (pdftex.def)             Requested size: 292.9397pt x 165.32806pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 671--672
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 665--666
  [][] 
  []
 
@@ -4370,7 +4364,7 @@ Package pdftex.def Info: figures//fabric_transload_W_X.pdf , page12 used on inp
 ut line 84.
 (pdftex.def)             Requested size: 292.9397pt x 175.66641pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 681--682
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 675--676
  [][] 
  []
 
@@ -4458,7 +4452,7 @@ Package pdftex.def Info: figures//fabric_axialload_V_X.pdf , page13 used on inp
 ut line 80.
 (pdftex.def)             Requested size: 292.9397pt x 176.59125pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 695--696
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 689--690
  [][] 
  []
 
@@ -4532,7 +4526,7 @@ Package pdftex.def Info: figures//fabric_axialload_W_Y.pdf , page11 used on inp
 ut line 78.
 (pdftex.def)             Requested size: 292.9397pt x 178.25157pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 704--705
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 698--699
  [][] 
  []
 
@@ -4599,13 +4593,9 @@ Package pdftex.def Info: figures//fabric_axialload_W_X.pdf , page10 used on inp
 ut line 76.
 (pdftex.def)             Requested size: 292.9397pt x 178.25157pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 714--715
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 708--709
  [][] 
  []
-
-
-Underfull \vbox (badness 2221) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
@@ -5566,7 +5556,13 @@ oad_W_X.pdf): PDF inclusion: multiple pdfs with page group included in a single
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//first_test_axiall
 oad_W_X.pdf): PDF inclusion: multiple pdfs with page group included in a single
  page
->] (./figures//BD_bothload_V_X.pdf_tex
+>]
+Underfull \hbox (badness 1728) in paragraph at lines 727--730
+\T1/Merriwthr-OsF/m/up/9 (+20) as-siali ed ef-fetto fles-sion-ale. Il lam-i-nat
+o risponde
+ []
+
+(./figures//BD_bothload_V_X.pdf_tex
 <figures//BD_bothload_V_X.pdf, id=747, page=1, 266.86931pt x 107.45073pt>
 File: figures//BD_bothload_V_X.pdf Graphic file (type pdf)
 <use figures//BD_bothload_V_X.pdf, page 1>
@@ -5652,7 +5648,7 @@ Package pdftex.def Info: figures//BD_bothload_V_X.pdf , page14 used on input li
 ne 82.
 (pdftex.def)             Requested size: 292.9397pt x 117.9584pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 748--749
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 742--743
  [][] 
  []
 
@@ -5742,7 +5738,7 @@ Package pdftex.def Info: figures//BD_bothload_W_Y.pdf , page14 used on input li
 ne 84.
 (pdftex.def)             Requested size: 292.9397pt x 108.98215pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 757--758
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 751--752
  [][] 
  []
 
@@ -5820,7 +5816,7 @@ Package pdftex.def Info: figures//BD_bothload_W_X.pdf , page12 used on input li
 ne 82.
 (pdftex.def)             Requested size: 292.9397pt x 108.11646pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 767--768
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 761--762
  [][] 
  []
 
@@ -5892,7 +5888,7 @@ Package pdftex.def Info: figures//BD_transload_V_X.pdf , page11 used on input l
 ine 78.
 (pdftex.def)             Requested size: 292.9397pt x 98.66153pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 781--782
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 775--776
  [][] 
  []
 
@@ -5970,7 +5966,7 @@ Package pdftex.def Info: figures//BD_transload_W_Y.pdf , page12 used on input l
 ine 78.
 (pdftex.def)             Requested size: 292.9397pt x 110.67973pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 790--791
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 784--785
  [][] 
  []
 
@@ -6042,7 +6038,7 @@ Package pdftex.def Info: figures//BD_transload_W_X.pdf , page11 used on input l
 ine 76.
 (pdftex.def)             Requested size: 292.9397pt x 110.54617pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 800--801
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 794--795
  [][] 
  []
 
@@ -6132,7 +6128,7 @@ Package pdftex.def Info: figures//BD_axialload_V_X.pdf , page14 used on input l
 ine 82.
 (pdftex.def)             Requested size: 292.9397pt x 114.92943pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 814--815
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 808--809
  [][] 
  []
 
@@ -6228,7 +6224,7 @@ Package pdftex.def Info: figures//BD_axialload_W_Y.pdf , page15 used on input l
 ine 86.
 (pdftex.def)             Requested size: 292.9397pt x 108.58478pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 823--824
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 817--818
  [][] 
  []
 
@@ -6318,1103 +6314,38 @@ Package pdftex.def Info: figures//BD_axialload_W_X.pdf , page14 used on input l
 ine 88.
 (pdftex.def)             Requested size: 292.9397pt x 109.66336pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 833--834
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 827--828
  [][] 
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 851--852
+Underfull \hbox (badness 1735) in paragraph at lines 845--846
 []\T1/Merriwthr-OsF/m/up/9 (+20) È pre-sente an-che l'accoppiamento in-plane ou
 t-
  []
 
+
+Underfull \hbox (badness 4686) in paragraph at lines 849--850
+[]\T1/Merriwthr-OsF/m/up/9 (+20) Questo ac-cop-pi-a-mento si tra-duce in un ef-
+fetto
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 849--850
+\T1/Merriwthr-OsF/m/up/9 (+20) fles-sion-ale ap-pli-cando il solo carico lon-gi
+-tu-di-nale
+ []
+
 (./figures//deformata_D_tex.pdf_tex
-<figures//deformata_D_tex.pdf, id=877, page=1, 474.53065pt x 229.6831pt>
+<figures//deformata_D_tex.pdf, id=878, page=1, 474.53065pt x 229.6831pt>
 File: figures//deformata_D_tex.pdf Graphic file (type pdf)
 <use figures//deformata_D_tex.pdf, page 1>
 Package pdftex.def Info: figures//deformata_D_tex.pdf , page1 used on input lin
 e 56.
 (pdftex.def)             Requested size: 470.22787pt x 227.61125pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 860--861
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 854--855
 [][] 
- []
-
-(./figures//first_test_C_V_X.pdf_tex
-<figures//first_test_C_V_X.pdf, id=879, page=1, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 1>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page1 used on input li
-ne 56.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=880, page=2, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 2>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page2 used on input li
-ne 60.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=881, page=3, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 3>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page3 used on input li
-ne 64.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=882, page=4, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 4>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page4 used on input li
-ne 68.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=883, page=5, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 5>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page5 used on input li
-ne 72.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=884, page=6, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 6>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page6 used on input li
-ne 76.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=885, page=7, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 7>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page7 used on input li
-ne 80.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=886, page=8, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 8>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page8 used on input li
-ne 84.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=887, page=9, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 9>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page9 used on input li
-ne 88.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=888, page=10, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 10>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page10 used on input l
-ine 92.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=889, page=11, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 11>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page11 used on input l
-ine 96.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=890, page=12, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 12>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page12 used on input l
-ine 98.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=891, page=13, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 13>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page13 used on input l
-ine 100.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=892, page=14, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 14>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page14 used on input l
-ine 102.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=893, page=15, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 15>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page15 used on input l
-ine 104.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=894, page=16, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 16>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page16 used on input l
-ine 106.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=895, page=17, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 17>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page17 used on input l
-ine 109.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=896, page=18, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 18>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page18 used on input l
-ine 112.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-<figures//first_test_C_V_X.pdf, id=897, page=19, 250.98558pt x 126.35371pt>
-File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X.pdf, page 19>
-Package pdftex.def Info: figures//first_test_C_V_X.pdf , page19 used on input l
-ine 115.
-(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 879--880
- [][] 
- []
-
-(./figures//first_test_C_V_X_2.pdf_tex
-<figures//first_test_C_V_X_2.pdf, id=898, page=1, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 1>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page1 used on input 
-line 56.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=899, page=2, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 2>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page2 used on input 
-line 60.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=900, page=3, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 3>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page3 used on input 
-line 64.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=901, page=4, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 4>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page4 used on input 
-line 68.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=902, page=5, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 5>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page5 used on input 
-line 72.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=903, page=6, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 6>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page6 used on input 
-line 76.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=904, page=7, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 7>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page7 used on input 
-line 80.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=905, page=8, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 8>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page8 used on input 
-line 84.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=906, page=9, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 9>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page9 used on input 
-line 88.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=907, page=10, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 10>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page10 used on input
- line 92.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=908, page=11, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 11>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page11 used on input
- line 96.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=909, page=12, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 12>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page12 used on input
- line 98.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=910, page=13, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 13>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page13 used on input
- line 100.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=911, page=14, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 14>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page14 used on input
- line 102.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=912, page=15, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 15>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page15 used on input
- line 104.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=913, page=16, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 16>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page16 used on input
- line 106.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=914, page=17, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 17>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page17 used on input
- line 108.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=915, page=18, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 18>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page18 used on input
- line 110.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=916, page=19, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 19>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page19 used on input
- line 112.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_V_X_2.pdf, id=917, page=20, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_V_X_2.pdf, page 20>
-Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page20 used on input
- line 114.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 888--889
- [][] 
- []
-
-(./figures//first_test_C_W_X.pdf_tex
-<figures//first_test_C_W_X.pdf, id=918, page=1, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 1>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page1 used on input li
-ne 56.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=919, page=2, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 2>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page2 used on input li
-ne 60.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=920, page=3, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 3>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page3 used on input li
-ne 64.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=921, page=4, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 4>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page4 used on input li
-ne 68.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=922, page=5, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 5>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page5 used on input li
-ne 72.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=923, page=6, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 6>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page6 used on input li
-ne 76.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=924, page=7, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 7>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page7 used on input li
-ne 80.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=925, page=8, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 8>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page8 used on input li
-ne 84.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=926, page=9, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 9>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page9 used on input li
-ne 88.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=927, page=10, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 10>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page10 used on input l
-ine 92.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=928, page=11, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 11>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page11 used on input l
-ine 96.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=929, page=12, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 12>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page12 used on input l
-ine 98.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=930, page=13, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 13>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page13 used on input l
-ine 100.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=931, page=14, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 14>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page14 used on input l
-ine 102.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=932, page=15, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 15>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page15 used on input l
-ine 104.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=933, page=16, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 16>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page16 used on input l
-ine 106.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=934, page=17, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 17>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page17 used on input l
-ine 108.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=935, page=18, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 18>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page18 used on input l
-ine 110.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=936, page=19, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 19>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page19 used on input l
-ine 112.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-<figures//first_test_C_W_X.pdf, id=937, page=20, 251.68704pt x 134.3331pt>
-File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X.pdf, page 20>
-Package pdftex.def Info: figures//first_test_C_W_X.pdf , page20 used on input l
-ine 114.
-(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 898--899
- [][] 
- []
-
-(./figures//first_test_C_W_X_2.pdf_tex
-<figures//first_test_C_W_X_2.pdf, id=938, page=1, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 1>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page1 used on input 
-line 56.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=939, page=2, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 2>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page2 used on input 
-line 60.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=940, page=3, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 3>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page3 used on input 
-line 64.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=941, page=4, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 4>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page4 used on input 
-line 68.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=942, page=5, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 5>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page5 used on input 
-line 72.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=943, page=6, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 6>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page6 used on input 
-line 76.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=944, page=7, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 7>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page7 used on input 
-line 80.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=945, page=8, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 8>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page8 used on input 
-line 84.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=946, page=9, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 9>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page9 used on input 
-line 88.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=947, page=10, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 10>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page10 used on input
- line 92.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=948, page=11, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 11>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page11 used on input
- line 96.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=949, page=12, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 12>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page12 used on input
- line 98.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=950, page=13, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 13>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page13 used on input
- line 100.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=951, page=14, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 14>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page14 used on input
- line 102.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=952, page=15, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 15>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page15 used on input
- line 104.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=953, page=16, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 16>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page16 used on input
- line 106.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=954, page=17, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 17>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page17 used on input
- line 109.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=955, page=18, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 18>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page18 used on input
- line 112.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-<figures//first_test_C_W_X_2.pdf, id=956, page=19, 250.98558pt x 126.19211pt>
-File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//first_test_C_W_X_2.pdf, page 19>
-Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page19 used on input
- line 115.
-(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 906--907
- [][] 
- []
-
-(./figures//BD_C_V_X.pdf_tex
-<figures//BD_C_V_X.pdf, id=958, page=1, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 1>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=959, page=2, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 2>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=960, page=3, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 3>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=961, page=4, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 4>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page4 used on input line 62.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=962, page=5, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 5>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page5 used on input line 64.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=963, page=6, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 6>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page6 used on input line 66.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=964, page=7, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 7>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page7 used on input line 68.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=965, page=8, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 8>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page8 used on input line 70.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=966, page=9, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 9>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page9 used on input line 73.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=967, page=10, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 10>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page10 used on input line 76.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=968, page=11, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 11>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page11 used on input line 79.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=969, page=12, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 12>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page12 used on input line 82.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-<figures//BD_C_V_X.pdf, id=970, page=13, 177.13174pt x 98.49062pt>
-File: figures//BD_C_V_X.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X.pdf, page 13>
-Package pdftex.def Info: figures//BD_C_V_X.pdf , page13 used on input line 85.
-(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 918--919
- [][] 
- []
-
-(./figures//BD_C_V_X_2.pdf_tex
-<figures//BD_C_V_X_2.pdf, id=971, page=1, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 1>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page1 used on input line 56.
-
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=972, page=2, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 2>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page2 used on input line 58.
-
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=973, page=3, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 3>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page3 used on input line 60.
-
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=974, page=4, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 4>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page4 used on input line 62.
-
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=975, page=5, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 5>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page5 used on input line 64.
-
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=976, page=6, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 6>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page6 used on input line 66.
-
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=977, page=7, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 7>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page7 used on input line 68.
-
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=978, page=8, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 8>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page8 used on input line 70.
-
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=979, page=9, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 9>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page9 used on input line 72.
-
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=980, page=10, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 10>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page10 used on input line 74
-.
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=981, page=11, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 11>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page11 used on input line 76
-.
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=982, page=12, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 12>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page12 used on input line 78
-.
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-<figures//BD_C_V_X_2.pdf, id=983, page=13, 174.88033pt x 107.47769pt>
-File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_V_X_2.pdf, page 13>
-Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page13 used on input line 80
-.
-(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 927--928
- [][] 
- []
-
-(./figures//BD_C_W_X.pdf_tex
-<figures//BD_C_W_X.pdf, id=984, page=1, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 1>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=985, page=2, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 2>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=986, page=3, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 3>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=987, page=4, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 4>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page4 used on input line 62.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=988, page=5, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 5>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page5 used on input line 64.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=989, page=6, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 6>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page6 used on input line 66.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=990, page=7, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 7>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page7 used on input line 68.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=991, page=8, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 8>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page8 used on input line 70.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=992, page=9, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 9>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page9 used on input line 72.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=993, page=10, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 10>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page10 used on input line 74.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=994, page=11, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 11>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page11 used on input line 76.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=995, page=12, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 12>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page12 used on input line 78.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-<figures//BD_C_W_X.pdf, id=996, page=13, 175.12114pt x 107.47769pt>
-File: figures//BD_C_W_X.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X.pdf, page 13>
-Package pdftex.def Info: figures//BD_C_W_X.pdf , page13 used on input line 80.
-(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 937--938
- [][] 
- []
-
-(./figures//BD_C_W_X_2.pdf_tex
-<figures//BD_C_W_X_2.pdf, id=997, page=1, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 1>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page1 used on input line 56.
-
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=998, page=2, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 2>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page2 used on input line 59.
-
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=999, page=3, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 3>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page3 used on input line 61.
-
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=1000, page=4, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 4>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page4 used on input line 63.
-
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=1001, page=5, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 5>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page5 used on input line 65.
-
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=1002, page=6, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 6>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page6 used on input line 67.
-
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=1003, page=7, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 7>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page7 used on input line 69.
-
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=1004, page=8, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 8>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page8 used on input line 72.
-
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=1005, page=9, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 9>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page9 used on input line 75.
-
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=1006, page=10, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 10>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page10 used on input line 78
-.
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=1007, page=11, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 11>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page11 used on input line 81
-.
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-<figures//BD_C_W_X_2.pdf, id=1008, page=12, 177.34529pt x 98.49062pt>
-File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//BD_C_W_X_2.pdf, page 12>
-Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page12 used on input line 84
-.
-(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 945--946
- [][] 
- []
-
-(./figures//C_C_V_X.pdf_tex
-<figures//C_C_V_X.pdf, id=1010, page=1, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 1>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1011, page=2, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 2>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1012, page=3, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 3>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1013, page=4, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 4>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page4 used on input line 62.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1014, page=5, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 5>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page5 used on input line 64.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1015, page=6, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 6>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page6 used on input line 66.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1016, page=7, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 7>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page7 used on input line 69.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1017, page=8, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 8>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page8 used on input line 72.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1018, page=9, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 9>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page9 used on input line 75.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1019, page=10, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 10>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page10 used on input line 78.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1020, page=11, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 11>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page11 used on input line 81.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1021, page=12, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 12>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page12 used on input line 84.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-<figures//C_C_V_X.pdf, id=1022, page=13, 266.57227pt x 157.31537pt>
-File: figures//C_C_V_X.pdf Graphic file (type pdf)
-<use figures//C_C_V_X.pdf, page 13>
-Package pdftex.def Info: figures//C_C_V_X.pdf , page13 used on input line 87.
-(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 957--958
- [][] 
- []
-
-(./figures//C_C_V_X_2.pdf_tex
-<figures//C_C_V_X_2.pdf, id=1023, page=1, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 1>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1024, page=2, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 2>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1025, page=3, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 3>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1026, page=4, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 4>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page4 used on input line 62.
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1027, page=5, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 5>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page5 used on input line 64.
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1028, page=6, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 6>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page6 used on input line 66.
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1029, page=7, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 7>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page7 used on input line 68.
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1030, page=8, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 8>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page8 used on input line 70.
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1031, page=9, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 9>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page9 used on input line 72.
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1032, page=10, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 10>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page10 used on input line 74.
-
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1033, page=11, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 11>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page11 used on input line 76.
-
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1034, page=12, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 12>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page12 used on input line 78.
-
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-<figures//C_C_V_X_2.pdf, id=1035, page=13, 264.14694pt x 164.8356pt>
-File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_V_X_2.pdf, page 13>
-Package pdftex.def Info: figures//C_C_V_X_2.pdf , page13 used on input line 80.
-
-(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 966--967
- [][] 
- []
-
-(./figures//C_C_W_X.pdf_tex
-<figures//C_C_W_X.pdf, id=1036, page=1, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 1>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1037, page=2, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 2>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1038, page=3, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 3>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1039, page=4, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 4>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page4 used on input line 62.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1040, page=5, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 5>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page5 used on input line 64.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1041, page=6, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 6>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page6 used on input line 66.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1042, page=7, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 7>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page7 used on input line 68.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1043, page=8, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 8>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page8 used on input line 70.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1044, page=9, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 9>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page9 used on input line 72.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1045, page=10, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 10>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page10 used on input line 74.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1046, page=11, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 11>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page11 used on input line 76.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-<figures//C_C_W_X.pdf, id=1047, page=12, 272.60619pt x 149.48071pt>
-File: figures//C_C_W_X.pdf Graphic file (type pdf)
-<use figures//C_C_W_X.pdf, page 12>
-Package pdftex.def Info: figures//C_C_W_X.pdf , page12 used on input line 78.
-(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 976--977
- [][] 
- []
-
-(./figures//C_C_W_X_2.pdf_tex
-<figures//C_C_W_X_2.pdf, id=1048, page=1, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 1>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1049, page=2, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 2>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page2 used on input line 58.
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1050, page=3, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 3>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page3 used on input line 60.
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1051, page=4, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 4>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page4 used on input line 62.
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1052, page=5, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 5>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page5 used on input line 64.
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1053, page=6, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 6>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page6 used on input line 66.
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1054, page=7, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 7>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page7 used on input line 69.
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1055, page=8, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 8>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page8 used on input line 72.
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1056, page=9, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 9>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page9 used on input line 75.
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1057, page=10, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 10>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page10 used on input line 78.
-
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1058, page=11, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 11>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page11 used on input line 81.
-
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-<figures//C_C_W_X_2.pdf, id=1059, page=12, 276.30713pt x 145.90977pt>
-File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
-<use figures//C_C_W_X_2.pdf, page 12>
-Package pdftex.def Info: figures//C_C_W_X_2.pdf , page12 used on input line 84.
-
-(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
-)
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 984--985
- [][] 
  []
 
 
@@ -7925,8 +6856,1088 @@ e
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//fabric_axialload_
 W_X.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
 e
->]
+>] (./figures//first_test_C_V_X.pdf_tex
+<figures//first_test_C_V_X.pdf, id=908, page=1, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 1>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page1 used on input li
+ne 56.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=909, page=2, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 2>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page2 used on input li
+ne 60.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=910, page=3, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 3>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page3 used on input li
+ne 64.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=911, page=4, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 4>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page4 used on input li
+ne 68.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=912, page=5, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 5>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page5 used on input li
+ne 72.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=913, page=6, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 6>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page6 used on input li
+ne 76.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=914, page=7, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 7>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page7 used on input li
+ne 80.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=915, page=8, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 8>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page8 used on input li
+ne 84.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=916, page=9, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 9>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page9 used on input li
+ne 88.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=917, page=10, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 10>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page10 used on input l
+ine 92.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=918, page=11, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 11>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page11 used on input l
+ine 96.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=919, page=12, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 12>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page12 used on input l
+ine 98.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=920, page=13, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 13>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page13 used on input l
+ine 100.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=921, page=14, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 14>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page14 used on input l
+ine 102.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=922, page=15, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 15>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page15 used on input l
+ine 104.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=923, page=16, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 16>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page16 used on input l
+ine 106.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=924, page=17, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 17>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page17 used on input l
+ine 109.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=925, page=18, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 18>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page18 used on input l
+ine 112.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+<figures//first_test_C_V_X.pdf, id=926, page=19, 250.98558pt x 126.35371pt>
+File: figures//first_test_C_V_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X.pdf, page 19>
+Package pdftex.def Info: figures//first_test_C_V_X.pdf , page19 used on input l
+ine 115.
+(pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 873--874
+ [][] 
+ []
+
+(./figures//first_test_C_V_X_2.pdf_tex
+<figures//first_test_C_V_X_2.pdf, id=927, page=1, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 1>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page1 used on input 
+line 56.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=928, page=2, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 2>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page2 used on input 
+line 60.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=929, page=3, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 3>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page3 used on input 
+line 64.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=930, page=4, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 4>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page4 used on input 
+line 68.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=931, page=5, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 5>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page5 used on input 
+line 72.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=932, page=6, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 6>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page6 used on input 
+line 76.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=933, page=7, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 7>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page7 used on input 
+line 80.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=934, page=8, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 8>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page8 used on input 
+line 84.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=935, page=9, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 9>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page9 used on input 
+line 88.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=936, page=10, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 10>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page10 used on input
+ line 92.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=937, page=11, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 11>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page11 used on input
+ line 96.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=938, page=12, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 12>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page12 used on input
+ line 98.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=939, page=13, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 13>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page13 used on input
+ line 100.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=940, page=14, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 14>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page14 used on input
+ line 102.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=941, page=15, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 15>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page15 used on input
+ line 104.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=942, page=16, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 16>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page16 used on input
+ line 106.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=943, page=17, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 17>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page17 used on input
+ line 108.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=944, page=18, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 18>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page18 used on input
+ line 110.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=945, page=19, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 19>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page19 used on input
+ line 112.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_V_X_2.pdf, id=946, page=20, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_V_X_2.pdf, page 20>
+Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page20 used on input
+ line 114.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 882--883
+ [][] 
+ []
+
+(./figures//first_test_C_W_X.pdf_tex
+<figures//first_test_C_W_X.pdf, id=947, page=1, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 1>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page1 used on input li
+ne 56.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=948, page=2, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 2>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page2 used on input li
+ne 60.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=949, page=3, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 3>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page3 used on input li
+ne 64.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=950, page=4, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 4>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page4 used on input li
+ne 68.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=951, page=5, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 5>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page5 used on input li
+ne 72.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=952, page=6, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 6>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page6 used on input li
+ne 76.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=953, page=7, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 7>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page7 used on input li
+ne 80.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=954, page=8, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 8>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page8 used on input li
+ne 84.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=955, page=9, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 9>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page9 used on input li
+ne 88.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=956, page=10, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 10>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page10 used on input l
+ine 92.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=957, page=11, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 11>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page11 used on input l
+ine 96.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=958, page=12, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 12>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page12 used on input l
+ine 98.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=959, page=13, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 13>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page13 used on input l
+ine 100.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=960, page=14, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 14>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page14 used on input l
+ine 102.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=961, page=15, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 15>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page15 used on input l
+ine 104.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=962, page=16, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 16>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page16 used on input l
+ine 106.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=963, page=17, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 17>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page17 used on input l
+ine 108.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=964, page=18, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 18>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page18 used on input l
+ine 110.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=965, page=19, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 19>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page19 used on input l
+ine 112.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+<figures//first_test_C_W_X.pdf, id=966, page=20, 251.68704pt x 134.3331pt>
+File: figures//first_test_C_W_X.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X.pdf, page 20>
+Package pdftex.def Info: figures//first_test_C_W_X.pdf , page20 used on input l
+ine 114.
+(pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 892--893
+ [][] 
+ []
+
+(./figures//first_test_C_W_X_2.pdf_tex
+<figures//first_test_C_W_X_2.pdf, id=967, page=1, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 1>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page1 used on input 
+line 56.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=968, page=2, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 2>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page2 used on input 
+line 60.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=969, page=3, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 3>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page3 used on input 
+line 64.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=970, page=4, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 4>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page4 used on input 
+line 68.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=971, page=5, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 5>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page5 used on input 
+line 72.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=972, page=6, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 6>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page6 used on input 
+line 76.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=973, page=7, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 7>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page7 used on input 
+line 80.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=974, page=8, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 8>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page8 used on input 
+line 84.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=975, page=9, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 9>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page9 used on input 
+line 88.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=976, page=10, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 10>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page10 used on input
+ line 92.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=977, page=11, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 11>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page11 used on input
+ line 96.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=978, page=12, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 12>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page12 used on input
+ line 98.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=979, page=13, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 13>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page13 used on input
+ line 100.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=980, page=14, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 14>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page14 used on input
+ line 102.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=981, page=15, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 15>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page15 used on input
+ line 104.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=982, page=16, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 16>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page16 used on input
+ line 106.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=983, page=17, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 17>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page17 used on input
+ line 109.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=984, page=18, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 18>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page18 used on input
+ line 112.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+<figures//first_test_C_W_X_2.pdf, id=985, page=19, 250.98558pt x 126.19211pt>
+File: figures//first_test_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//first_test_C_W_X_2.pdf, page 19>
+Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page19 used on input
+ line 115.
+(pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 900--901
+ [][] 
+ []
+
+(./figures//BD_C_V_X.pdf_tex
+<figures//BD_C_V_X.pdf, id=987, page=1, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 1>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=988, page=2, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 2>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=989, page=3, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 3>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=990, page=4, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 4>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=991, page=5, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 5>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=992, page=6, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 6>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=993, page=7, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 7>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=994, page=8, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 8>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=995, page=9, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 9>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page9 used on input line 73.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=996, page=10, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 10>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page10 used on input line 76.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=997, page=11, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 11>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page11 used on input line 79.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=998, page=12, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 12>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page12 used on input line 82.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+<figures//BD_C_V_X.pdf, id=999, page=13, 177.13174pt x 98.49062pt>
+File: figures//BD_C_V_X.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X.pdf, page 13>
+Package pdftex.def Info: figures//BD_C_V_X.pdf , page13 used on input line 85.
+(pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 912--913
+ [][] 
+ []
+
+(./figures//BD_C_V_X_2.pdf_tex
+<figures//BD_C_V_X_2.pdf, id=1000, page=1, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 1>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page1 used on input line 56.
+
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1001, page=2, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 2>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page2 used on input line 58.
+
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1002, page=3, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 3>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page3 used on input line 60.
+
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1003, page=4, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 4>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page4 used on input line 62.
+
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1004, page=5, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 5>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page5 used on input line 64.
+
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1005, page=6, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 6>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page6 used on input line 66.
+
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1006, page=7, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 7>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page7 used on input line 68.
+
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1007, page=8, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 8>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page8 used on input line 70.
+
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1008, page=9, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 9>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page9 used on input line 72.
+
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1009, page=10, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 10>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page10 used on input line 74
+.
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1010, page=11, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 11>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page11 used on input line 76
+.
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1011, page=12, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 12>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page12 used on input line 78
+.
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+<figures//BD_C_V_X_2.pdf, id=1012, page=13, 174.88033pt x 107.47769pt>
+File: figures//BD_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_V_X_2.pdf, page 13>
+Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page13 used on input line 80
+.
+(pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 921--922
+ [][] 
+ []
+
+(./figures//BD_C_W_X.pdf_tex
+<figures//BD_C_W_X.pdf, id=1013, page=1, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 1>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1014, page=2, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 2>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1015, page=3, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 3>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1016, page=4, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 4>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1017, page=5, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 5>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1018, page=6, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 6>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1019, page=7, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 7>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1020, page=8, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 8>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1021, page=9, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 9>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1022, page=10, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 10>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1023, page=11, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 11>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1024, page=12, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 12>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+<figures//BD_C_W_X.pdf, id=1025, page=13, 175.12114pt x 107.47769pt>
+File: figures//BD_C_W_X.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X.pdf, page 13>
+Package pdftex.def Info: figures//BD_C_W_X.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 931--932
+ [][] 
+ []
+
+(./figures//BD_C_W_X_2.pdf_tex
+<figures//BD_C_W_X_2.pdf, id=1026, page=1, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 1>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page1 used on input line 56.
+
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1027, page=2, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 2>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page2 used on input line 59.
+
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1028, page=3, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 3>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page3 used on input line 61.
+
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1029, page=4, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 4>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page4 used on input line 63.
+
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1030, page=5, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 5>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page5 used on input line 65.
+
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1031, page=6, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 6>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page6 used on input line 67.
+
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1032, page=7, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 7>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page7 used on input line 69.
+
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1033, page=8, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 8>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page8 used on input line 72.
+
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1034, page=9, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 9>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page9 used on input line 75.
+
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1035, page=10, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 10>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page10 used on input line 78
+.
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1036, page=11, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 11>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page11 used on input line 81
+.
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+<figures//BD_C_W_X_2.pdf, id=1037, page=12, 177.34529pt x 98.49062pt>
+File: figures//BD_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//BD_C_W_X_2.pdf, page 12>
+Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page12 used on input line 84
+.
+(pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 939--940
+ [][] 
+ []
+
+(./figures//C_C_V_X.pdf_tex
+<figures//C_C_V_X.pdf, id=1039, page=1, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 1>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1040, page=2, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 2>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1041, page=3, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 3>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1042, page=4, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 4>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1043, page=5, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 5>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1044, page=6, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 6>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1045, page=7, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 7>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page7 used on input line 69.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1046, page=8, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 8>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page8 used on input line 72.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1047, page=9, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 9>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page9 used on input line 75.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1048, page=10, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 10>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page10 used on input line 78.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1049, page=11, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 11>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page11 used on input line 81.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1050, page=12, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 12>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page12 used on input line 84.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+<figures//C_C_V_X.pdf, id=1051, page=13, 266.57227pt x 157.31537pt>
+File: figures//C_C_V_X.pdf Graphic file (type pdf)
+<use figures//C_C_V_X.pdf, page 13>
+Package pdftex.def Info: figures//C_C_V_X.pdf , page13 used on input line 87.
+(pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 951--952
+ [][] 
+ []
+
+(./figures//C_C_V_X_2.pdf_tex
+<figures//C_C_V_X_2.pdf, id=1052, page=1, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 1>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1053, page=2, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 2>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1054, page=3, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 3>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1055, page=4, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 4>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1056, page=5, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 5>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1057, page=6, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 6>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1058, page=7, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 7>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1059, page=8, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 8>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1060, page=9, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 9>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1061, page=10, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 10>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page10 used on input line 74.
+
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1062, page=11, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 11>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page11 used on input line 76.
+
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1063, page=12, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 12>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page12 used on input line 78.
+
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+<figures//C_C_V_X_2.pdf, id=1064, page=13, 264.14694pt x 164.8356pt>
+File: figures//C_C_V_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_V_X_2.pdf, page 13>
+Package pdftex.def Info: figures//C_C_V_X_2.pdf , page13 used on input line 80.
+
+(pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 960--961
+ [][] 
+ []
+
+(./figures//C_C_W_X.pdf_tex
+<figures//C_C_W_X.pdf, id=1065, page=1, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 1>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1066, page=2, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 2>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1067, page=3, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 3>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1068, page=4, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 4>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1069, page=5, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 5>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1070, page=6, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 6>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1071, page=7, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 7>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1072, page=8, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 8>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1073, page=9, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 9>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1074, page=10, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 10>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1075, page=11, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 11>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+<figures//C_C_W_X.pdf, id=1076, page=12, 272.60619pt x 149.48071pt>
+File: figures//C_C_W_X.pdf Graphic file (type pdf)
+<use figures//C_C_W_X.pdf, page 12>
+Package pdftex.def Info: figures//C_C_W_X.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 970--971
+ [][] 
+ []
+
+(./figures//C_C_W_X_2.pdf_tex
+<figures//C_C_W_X_2.pdf, id=1077, page=1, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 1>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1078, page=2, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 2>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1079, page=3, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 3>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1080, page=4, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 4>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1081, page=5, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 5>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1082, page=6, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 6>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1083, page=7, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 7>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page7 used on input line 69.
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1084, page=8, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 8>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page8 used on input line 72.
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1085, page=9, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 9>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page9 used on input line 75.
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1086, page=10, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 10>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page10 used on input line 78.
+
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1087, page=11, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 11>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page11 used on input line 81.
+
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+<figures//C_C_W_X_2.pdf, id=1088, page=12, 276.30713pt x 145.90977pt>
+File: figures//C_C_W_X_2.pdf Graphic file (type pdf)
+<use figures//C_C_W_X_2.pdf, page 12>
+Package pdftex.def Info: figures//C_C_W_X_2.pdf , page12 used on input line 84.
+
+(pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
+)
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 978--979
+ [][] 
+ []
+
+
 Underfull \vbox (badness 1354) has occurred while \output is active []
+
+
+Underfull \vbox (badness 2310) has occurred while \output is active []
 
 
 
@@ -8783,7 +8794,7 @@ Package pdftex.def Info: figures//last_layer_V_X.pdf , page17 used on input lin
 e 88.
 (pdftex.def)             Requested size: 292.9397pt x 149.83238pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1101--1102
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1095--1096
  [][] 
  []
 
@@ -8891,7 +8902,7 @@ Package pdftex.def Info: figures//last_layer_W_Y.pdf , page17 used on input lin
 e 92.
 (pdftex.def)             Requested size: 292.9397pt x 163.03754pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1110--1111
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1104--1105
  [][] 
  []
 
@@ -8987,7 +8998,7 @@ Package pdftex.def Info: figures//last_layer_W_X.pdf , page15 used on input lin
 e 87.
 (pdftex.def)             Requested size: 292.9397pt x 163.31451pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1120--1121
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1114--1115
  [][] 
  []
 
@@ -9071,7 +9082,7 @@ Package pdftex.def Info: figures//grafico_sigma_x.pdf , page13 used on input li
 ne 83.
 (pdftex.def)             Requested size: 292.9397pt x 152.2979pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1133--1134
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1127--1128
  [][] 
  []
 
@@ -9173,7 +9184,7 @@ Package pdftex.def Info: figures//grafico_sigma_y.pdf , page16 used on input li
 ne 90.
 (pdftex.def)             Requested size: 292.9397pt x 152.1511pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1142--1143
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1136--1137
  [][] 
  []
 
@@ -9281,15 +9292,18 @@ Package pdftex.def Info: figures//grafico_tau_xy.pdf , page17 used on input lin
 e 93.
 (pdftex.def)             Requested size: 292.9397pt x 153.07933pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1152--1153
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1146--1147
  [][] 
  []
 
 
-Underfull \vbox (badness 6412) has occurred while \output is active []
+Underfull \hbox (badness 2359) in paragraph at lines 1163--1164
+[]\T1/Merriwthr-OsF/m/up/9 (+20) Una rap-p-re-sen-tazione schemat-ica è il-lus-
+trata in
+ []
 
 
-Underfull \vbox (badness 2269) has occurred while \output is active []
+Underfull \vbox (badness 2035) has occurred while \output is active []
 
 
 
@@ -10069,40 +10083,29 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//D_extra_tex.pdf):
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//D_extra_tex.pdf):
  PDF inclusion: multiple pdfs with page group included in a single page
 >]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1197 
-       
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+<figures//strain.pdf, id=1353, 169.41493pt x 259.81065pt>
+File: figures//strain.pdf Graphic file (type pdf)
+<use figures//strain.pdf>
+Package pdftex.def Info: figures//strain.pdf  used on input line 1188.
+(pdftex.def)             Requested size: 58.77847pt x 90.13824pt.
+<figures//Q.pdf, id=1354, 166.92363pt x 259.81065pt>
+File: figures//Q.pdf Graphic file (type pdf)
+<use figures//Q.pdf>
+Package pdftex.def Info: figures//Q.pdf  used on input line 1192.
+(pdftex.def)             Requested size: 58.77847pt x 91.48613pt.
+<figures//stress.pdf, id=1355, 176.63492pt x 259.81065pt>
+File: figures//stress.pdf Graphic file (type pdf)
+<use figures//stress.pdf>
+Package pdftex.def Info: figures//stress.pdf  used on input line 1196.
+(pdftex.def)             Requested size: 58.77847pt x 86.45532pt.
 
-
-Underfull \hbox (badness 1577) in paragraph at lines 1198--1199
+Underfull \hbox (badness 1577) in paragraph at lines 1209--1210
 []\T1/Merriwthr-OsF/m/up/9 (+20) Andando a vedere le ten-sioni lungo lo spes-so
 re,
  []
 
-<figures//strain.pdf, id=1354, 169.41493pt x 259.81065pt>
-File: figures//strain.pdf Graphic file (type pdf)
-<use figures//strain.pdf>
-Package pdftex.def Info: figures//strain.pdf  used on input line 1205.
-(pdftex.def)             Requested size: 58.77847pt x 90.13824pt.
-<figures//Q.pdf, id=1355, 166.92363pt x 259.81065pt>
-File: figures//Q.pdf Graphic file (type pdf)
-<use figures//Q.pdf>
-Package pdftex.def Info: figures//Q.pdf  used on input line 1209.
-(pdftex.def)             Requested size: 58.77847pt x 91.48613pt.
-<figures//stress.pdf, id=1356, 176.63492pt x 259.81065pt>
-File: figures//stress.pdf Graphic file (type pdf)
-<use figures//stress.pdf>
-Package pdftex.def Info: figures//stress.pdf  used on input line 1213.
-(pdftex.def)             Requested size: 58.77847pt x 86.45532pt.
 
-Underfull \vbox (badness 3590) has occurred while \output is active []
-
-
-Underfull \vbox (badness 2521) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -10628,17 +10631,33 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 1236.
+nput line 1230.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 4.5pt on input line 1237.
+(Font)              scaled to size 4.5pt on input line 1231.
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <8.21255> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1246.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1240.
 
-Underfull \vbox (badness 1824) has occurred while \output is active []
+Underfull \hbox (badness 3525) in paragraph at lines 1304--1305
+[]\T1/Merriwthr-OsF/m/up/9 (+20) La rou-tine \T1/lmtt/m/n/9 Solution[] \T1/Merr
+iwthr-OsF/m/up/9 (+20) provvede alla risoluzione
+ []
 
 
-Underfull \vbox (badness 3884) has occurred while \output is active []
+Underfull \hbox (badness 1389) in paragraph at lines 1319--1320
+[]\T1/Merriwthr-OsF/m/up/9 (+20) Notebook per i casi nelle sezioni [][]4.1.1[][
+] e [][]4.2.1[][] in
+ []
 
+
+Underfull \hbox (badness 1248) in paragraph at lines 1321--1322
+[]\T1/Merriwthr-OsF/m/up/9 (+20) Notebook per i casi nelle sezioni [][]4.1.3[][
+] e [][]4.2.3[][] in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1323
+[]\T1/Merriwthr-OsF/m/up/9 (+20) Notebook per il caso in Ÿ[][]5[][] in
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
@@ -10648,13 +10667,7 @@ Package fancyhdr Warning: \headheight is too small (17.5pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.49997pt}.
 
-[10]
-Underfull \hbox (badness 3525) in paragraph at lines 1310--1311
-[]\T1/Merriwthr-OsF/m/up/9 (+20) La rou-tine \T1/lmtt/m/n/9 Solution[] \T1/Merr
-iwthr-OsF/m/up/9 (+20) provvede alla risoluzione
- []
-
-(./main2.bbl
+[10] (./main2.bbl
 Underfull \hbox (badness 1199) in paragraph at lines 25--28
 []\T1/Merriwthr-OsF/m/up/9 (+20) Invibio, so-lu-tions B.  High per-for-mance PE
 EK-
@@ -10687,7 +10700,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--39
 
  []
 
-) 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+
 AED: lastpage setting LastPage
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
@@ -10709,13 +10726,13 @@ Package rerunfilecheck Info: File `main2.out' has not changed.
 (rerunfilecheck)             Checksum: FE65C93DFD773E8547FAA86968AD1250;3273.
  ) 
 Here is how much of TeX's memory you used:
- 49843 strings out of 478994
- 1014505 string characters out of 5858184
- 2775735 words of memory out of 5000000
+ 49849 strings out of 478994
+ 1014676 string characters out of 5858184
+ 2778190 words of memory out of 5000000
  65593 multiletter control sequences out of 15000+600000
- 1862571 words of font info for 649 fonts, out of 8000000 for 9000
+ 1863620 words of font info for 653 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 126i,21n,149p,771b,9060s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 126i,21n,149p,770b,9060s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2021/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_owzwzj.enc}{/usr
 /local/texlive/2021/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_ags7qn.en
@@ -10743,10 +10760,10 @@ xlive/2021/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/lm/lmtt9.pfb></usr/local/texlive/2021/texmf-dist/
 fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-d
 ist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on main2.pdf (11 pages, 6004780 bytes).
+Output written on main2.pdf (11 pages, 6007901 bytes).
 PDF statistics:
- 1577 PDF objects out of 1728 (max. 8388607)
- 670 compressed objects within 7 object streams
+ 1588 PDF objects out of 1728 (max. 8388607)
+ 681 compressed objects within 7 object streams
  121 named destinations out of 1000 (max. 500000)
  266563 words of extra memory for PDF output out of 319454 (max. 10000000)
 

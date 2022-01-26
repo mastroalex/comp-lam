@@ -142,19 +142,19 @@
 \maketitle
 \begin{abstract}
 
-Nel seguente report sono state condotte diverse campagne di simulazione per analizzare la risposta strutturale di un composito laminato CF/PEEK che mostra grandi potenzialità di applicazione nel campo biomedicale. 
+Nella presente analisi sono state condotte diverse campagne di simulazione per analizzare la risposta strutturale di un composito laminato CF/PEEK che mostra grandi potenzialità di applicazione nel campo biomedicale. 
 
  \textbf{Background}, in un composito laminato il comportamento strutturale dipende dalla disposizione dei singoli strati, in queste analisi viene indagato come i differenti layouts influenzano la risposta di alcuni elementi strutturali;
  
-  \textbf{Results}, \color{red}the main findings;
+  \textbf{Results}, differenti campagne di simulazione mostrano la variazione della rigidezza e delle condizioni di accoppiamento tra le condizioni di carico e la risposta strutturale al variare del layout e dell'angolo di fibratura della lamina;
   
-   \textbf{Conclusions}, brief summary and potential implications. 
+   \textbf{Conclusions}, le risposte strutturali sono molto variabili, da comportamenti più semplici da predire a risposte più complesse. Un'analisi che tiene conto del layout dell'intero laminato, a partire dalla composizione del singolo layer, permette di avere risultati precisi per comprendere il comportamento strutturale.;
    
 
 \end{abstract}
 
 \begin{keywords}
-laminates; CF/PEEK; laminates composites mechanics ; 
+laminates; CF/PEEK; laminates composites mechanics; 
 \end{keywords}
 \end{frontmatter}
 
@@ -164,32 +164,26 @@ laminates; CF/PEEK; laminates composites mechanics ;
 
 Lo scopo della seguente analisi è quello di indagare il comportamento di differenti layouts di un composito laminato.
 
-Viene analizzato un composito laminato CF/PEEK, ovvero un PEEK rinforzato a fibre di carbonio che mostra grandi potenzialità per le applicazioni biomedicali. Vengono considerati due elementi strutturali fondamentali, un cilindro e una piastra, e viene analizzato come la variazione del layout porta ad una differente risposta meccanica.  
+Viene analizzato un composito laminato CF/PEEK, ovvero un composito a matrice polimerica termoplastica rinforzata con fibre di carbonio che mostra grandi potenzialità per le applicazioni biomedicali. Vengono considerati due elementi strutturali fondamentali, un cilindro e una piastra, e viene studiato come la variazione del layout porta ad una differente risposta meccanica.  
 
 Viene fatto anche uno studio approfondito andando ad analizzare la distribuzione delle tensioni a livello dei singoli strati. 
 
-La conoscenza e la possibilità di prevedere il comportamento strutturale a partire dalla disposizione dei layer risulta fondamentale sia per la simulazione che per la produzione di dispositivi ed oggetti con compositi laminati. 
+La conoscenza e la possibilità di prevedere il comportamento strutturale a partire dalla disposizione dei layers risulta fondamentale sia per la corretta simulazione che per la produzione di dispositivi ed oggetti con compositi laminati. 
 
 
 \section{Laminati CF/PEEK} 
 
-I recenti progressi nei materiali compositi, in particolare a matrice PEEK, ovvero una matrice polimerica di poli-eter-eter chetone. Questo polimero, viste le sue proprietà, si pone tra i polimeri più importanti in ambito ingegneristico. Ha delle proprietà eccellenti quali un'alta resistenza meccanica, ottima stabilità termica, resistenza chimica e un comportamento resistente anche in ambienti chimicamente ostili. Presenta anche una natura anticorrosiva e una buona resisitenza alla degradazione, proprietà che lo rendono ottimo per le applicazioni in campo biomedicale. 
+I recenti progressi nei materiali compositi, in particolare a matrice PEEK, ovvero una matrice polimerica di poli-eter-eter chetone, hanno ampliato fortemente gli scenari applicativi facendo rientrare questi materiali nella classe dei tecnopolimeri. Questo polimero, viste le sue proprietà, si pone tra i polimeri più importanti in ambito ingegneristico. Ha delle proprietà eccellenti quali un'alta resistenza meccanica, ottima stabilità termica, resistenza chimica e un comportamento stabile anche in ambienti chimicamente ostili. Presenta anche una natura anticorrosiva e una buona resisitenza alla degradazione, proprietà che lo rendono ottimo per le applicazioni in campo biomedicale. 
 
 In tali applicazioni sono state migliorate anche alcune proprietà superficiali combinando il PEEK con particelle bioattive come l'idrossiapatite. Questo ha permesso di far fronte ad alcune problematiche come la limitata efficacia nel far aderire cellule e nell'integrazione con l'osso.  Chiaramente l'integrazione di fibre di rinforzo ne ha permesso anche il miglioramento delle proprietà meccaniche. 
 
-Uno dei rinforzi più importanti è quello a fibre di carbonio uniderizionali. Indicato come CF/PEEK è stato introdotto intorno al 1980 e negli ultimi anni si è mostrato essere un ottimo biomateriali con grandi potenzialità di applicazione negli impianti biomedicali \citep{Verma}.    
+Uno dei rinforzi più importanti è quello a fibre di carbonio uniderizionali. Indicato come CF/PEEK è stato introdotto intorno al 1980 e negli ultimi anni si è mostrato essere un ottimo biomateriale con grandi potenzialità di applicazione negli impianti biomedicali \citep{Verma}.    
+PEEK generici trovano grandi applicazioni sia in impianti personalizzati realizzati con stampa 2D sia nell'ortodonsistica. Inoltre, il CF/PEEK trova grandi applicazioni in ortopedia.  È bene sottolineare anche che il CF/PEEK a fibre continue mostra proprietà meccaniche migliori di PEEK generici o rinforzati a fibre corte ma richiede metodi di produzione più avanzati.
 
-Il PEEK trova grandi applicazioni nel campo medicale sia in impianti personalizzati realizzati con stampa 2D sia nell'ortodonsistica. Inoltre, il CF/PEEK trova grandi applicazioni in ortopedia.  È bene sottolineare anche che questo il CF/PEEK con fibre continue mostra proprietà meccaniche migliori ma richiede metodi di produzione avanzati come l'Additive Manifacturing e la stampa 3D. 
-
-
-
-
-Tipicamente in ortopedia sono utilizzati impianti metallici con una rigidezza di circa un ordine di grandezza più elevata di quella dell'osso fisiologico e questo può portare a problematiche legate al riassorbimento osseo. Inoltre, possono esserci problematiche legate all'imaging diagnostico CT o a raggi X \citep{Rohner}. 
+Tipicamente in ortopedia sono utilizzati impianti metallici con una rigidezza di circa un ordine di grandezza più elevato di quello dell'osso fisiologico e questo può portare a problematiche legate al riassorbimento osseo. Inoltre, possono esserci problematiche legate all'imaging diagnostico CT o a raggi X \citep{Rohner}. 
 L'utilizzo di materiali compositi può fornire diversi vantaggi quali la presenza di proprietà anisotrope, radiotrasparenza, elevata resistenza a fatica ed un elevato rapporto resistenza/peso.  Attualmente sono ancora pochi i compositi laminati effettivamente usati nelle applicazioni ortopediche. Un esempio di tale materiale è un PEEK rinforzato a fibra di carbonio continua, noto come PEEK-OPTIMA\textsuperscript{TM}  Ultra-Reinforced, ed è stato approvato per l'impianto anche negli esseri umani dalla Food and Drug Administration americana \citep{PEEKOPTIMA}.
 
-
-
-La campagna di simulazioni seguente fa riferimento ad un composito laminato con strati di CF/PEEK con frazione volumetrica di fibre del 62 \% e neconsidera diversi layouts laminati analizzando le performance meccaniche e la risposta strutturale.  
+La campagna di simulazioni seguente fa riferimento ad un composito laminato con strati di CF/PEEK con frazione volumetrica di fibre del 62 \% e ne considera diversi layouts laminati analizzando le performance meccaniche e la risposta strutturale.  
 
 
 
@@ -205,7 +199,7 @@ I compositi moderni si basano sull'utilizzo di una fase di rinforzo, tipicamente
 
 Mettendo insieme più strati di materiale composito si ottiene un pacchetto che prende il nome di composito laminato.
 
-Il problema può essere diviso su tre scale di grandezza differenti: il comportamento della struttura finale (macroscala) dipende dal laminato che a sua volta è influenzato dalle singole lamine (mesoscala). A loro volta il comportamento è determinato dai singoli costituenti e dalla loro composizione (microscala). Una rappresentazione schematica è data in \cref{fig:laminates_general}.
+Il problema può essere diviso su tre scale di grandezza differenti: il comportamento della struttura finale (macroscala) che dipende dal laminato che a sua volta è influenzato dalle singole lamine (mesoscala). A loro volta il comportamento è determinato dai singoli costituenti e dalla loro composizione (microscala). Una rappresentazione schematica è data in \cref{fig:laminates_general}.
 
 
 \subsection{Regola delle miscele}
@@ -214,7 +208,7 @@ La singola lamina è composta da una matrice e dalle fibre di rinforzo con una f
 
 Per arrivare alle proprietà omogenizzate del singolo layer è possibile applicare la regola delle miscele \citep{Kollar:1}.
 
-Considerando un volume globale del composito dato dalla somma del volume della matrice e di quello del rinforzo e assumendo un'adesione corretta tra i due è possibile calcolare analiticamente i moduli risultanti. Valgono le frazioni volumetriche:
+Considerando un volume globale del composito dato dalla somma del volume della matrice e di quello del rinforzo e assumendo un'adesione perfetta tra i due è possibile calcolare analiticamente i moduli risultanti. Valgono le frazioni volumetriche:
 
 \begin{equation}
 v_m+f_f=1   
@@ -270,7 +264,7 @@ G_{12}=\left(\frac{v_{m}}{G_{m}}+\frac{v_{f}}{G_{f}}\right)^{-1}
 
 In particolare, è possibile osservare l'andamento dei moduli tipo Young nella \cref{fig:mixtureRule}. È evidente l'andamento lineare di $E_1$. Tutti i moduli aumentano all'aumentare della $f_f$ in quanto aumenta il contributo delle fibre di carbonio che presentano moduli più alti del PEEK. 
 
-L'analisi seguente considera una $f_f$ fissata al 60\%. 
+L'analisi seguente considera una $f_f$ fissata al 62\%. 
 
 
 
@@ -413,7 +407,7 @@ Si procede poi nel considerare diverse configurazioni di laminato. Ogni singolo 
 		
 	\end{subfigure}
 	\hfill
-	\caption{Differenti layout di laminato }
+	\caption{Differenti layout di laminato considerati nell'analisi}
 	\label{fig:laminates}
 \end{figure*}
 
@@ -428,7 +422,7 @@ Le variazioni del layout del laminato sono infinite, è possibile variare il num
 
 Un'illustrazione rappresentativa dei differenti layout è presente in \cref{fig:laminates}.
 
-Vengono affrontati anche due elementi strutturali differenti:
+Vengono considerati due elementi strutturali differenti:
 \begin{itemize}
 \item Elemento tipo piastra
 \item Elemento tipo cilindro
@@ -540,7 +534,7 @@ Per l'elemento tipo piastra vengono analizzati i quattro differenti layout di la
 	\def\svgwidth{2\linewidth}
 	\input{first_test_transload_W_X.pdf_tex}}
 		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
-		\label{fig:plate_A_extra}
+
 	\end{subfigure}
 	\hfill
 	\caption{Risultati caso (a) per un elemento strutturale tipo piastra con carichi tipo trasversale (\cref{sec:plate_A})}
@@ -573,7 +567,7 @@ Per l'elemento tipo piastra vengono analizzati i quattro differenti layout di la
 	\def\svgwidth{2\linewidth}
 	\input{first_test_axialload_W_X.pdf_tex}}
 		\caption{Effetto flessionale, spostamento lungo $z$ del bordo $y=0$ della piastra}
-		
+				\label{fig:plate_A_extra}
 	\end{subfigure}
 	\hfill
 	\caption{Risultati caso (a) per un elemento strutturale tipo piastra con carichi tipo assiale (\cref{sec:plate_A})}
@@ -595,9 +589,9 @@ Essendo un laminato simmetrico non ci si aspetta un accoppiamento tra gli effett
 
 Ad eccezione dei casi  $\alpha=90^\circ$ e $\alpha=0^\circ$ è sempre presente un effetto torsionale anche se molto contenuto. 
 
-È evidente come la disposizione di un numero maggiore di layer allineati lungo l'asse fornisce meno rigidezza flessionale e questo si rispecchia in un effetto flessionale più marcato. Al fine di ridurre l'effetto flessionale è bene disporre il layer parametrici con  le fibre ortogonali all'asse del laminato. Questo annulla anche l'effetto torsionale e l'accoppiamento in-plane out-plane. Inoltre, fornisce anche maggior rigidezza membranale. Volendo invece avere un effetto flessionale più marcato si possono disporre il maggior numero di layer con le fibre allineate lungo l'asse. Questo porta ad uno spostamento nel lato libero terminale della piastra fino a 5 volte superiore ma rende più evidente l'accoppiamento con gli effetti torsionali. 
+È evidente come la disposizione di un numero maggiore di layer allineati lungo l'asse fornisce meno rigidezza flessionale e questo si rispecchia in un effetto flessionale più marcato. Al fine di ridurre l'effetto flessionale è bene disporre i layer parametrici con  le fibre ortogonali all'asse del laminato. Questo annulla anche l'effetto torsionale e l'accoppiamento in-plane out-plane. Inoltre, fornisce anche maggior rigidezza membranale. Volendo invece avere un effetto flessionale più marcato si possono disporre il maggior numero di layer con le fibre allineate lungo l'asse. Questo porta ad uno spostamento nel lato libero terminale della piastra fino a 5 volte superiore ma rende più evidente l'accoppiamento con gli effetti torsionali. 
 
-È interessante vedere che con il solo carico trasversale, a seconda della configurazione del laminato, è possibile avere una flessione tale da spostare l'estremo finale sia verso l'alto che verso il basso ()\cref{fig:plate_A_extra}). 
+È interessante vedere che con il solo carico trasversale, a seconda della configurazione del laminato, è possibile avere una flessione tale da spostare l'estremo finale sia verso l'alto che verso il basso (\cref{fig:plate_A_extra}). Questo effetto non è presente nei casi $\alpha=0^\circ$ o $\alpha=90^\circ$.
 
 I casi intermedi forniscono comportamenti strutturali intermedi tra i due casi limite descritti. L'accoppiameto tra il carico assiale e l'effetto torsionale è massimo per i layout con   $\alpha=20^\circ$ e $\alpha=10^\circ$. 
 
@@ -612,7 +606,7 @@ Viene analizzato un laminato bilanciato con layout:
 
 Nuovamente vengono considerate le tre differenti configurazioni di carico. 
 
-Essendo un laminato bilancio non ci si aspetta un accoppiamento taglio-estensione. Dai risultati ottenuti, \cref{fig:plate_BD_axial_load,fig:plate_BD_both_load,fig:plate_BD_transload_load}, si osservano diversi accoppiamenti. Si osserva un accoppiamento tra il carico assiale e un effetto flessionale. Si osserva anche un accoppiamento tra il carico assiale e l'effetto torsionale mentre non si osserva un effetto torsionale con il solo carico trasversale. 
+Essendo un laminato bilanciato non ci si aspetta un accoppiamento taglio-estensione. Dai risultati ottenuti, \cref{fig:plate_BD_axial_load,fig:plate_BD_both_load,fig:plate_BD_transload_load}, si osservano diversi accoppiamenti. Si osserva un accoppiamento tra il carico assiale e un effetto flessionale. Si osserva anche un accoppiamento tra il carico assiale e l'effetto torsionale mentre non si osserva un effetto torsionale con il solo carico trasversale. 
 
 Il comportamento di questo laminato è molto simile al comportamento del caso (\cref{sec:plate_A}) con il parametro $\alpha=90^\circ$ ma con una rigidezza flessionale molto minore a causa del minor numero di strati. 
 
@@ -732,7 +726,7 @@ Q_{i j}^{\text {woven }}=\frac{1}{2}\left[\left(\bar{Q}_{i j}\right)_{45}+\left(
 
 In questo layout non è presente alcun effetto torsionale. 
 È assente anche l'accoppiamento tra carichi assiali ed effetto flessionale. 
-
+Il laminato risponde senza mostrare accoppiamenti torsionali o estensionali-flessionali anche a causa della simmetria e del bilanciamento.
  
 
 
@@ -850,9 +844,9 @@ Questo layout è completamente sbilanciato e asimmetrico con la direzione di fib
 
 È presente anche l'accoppiamento in-plane out-plane come è possibile osservare dalla flessione indotta dal solo carico assiale (\cref{fig:plate_BD_extra}).  È molto marcato anche l'accoppiamento estensionale-estensionale. 
 
-È interessante vedere l'effetto del solo carico trasversale (\cref{fig:plate_BD_transload_load}) in cui, a causa dello sbilanciamento delle direzioni di fibratura e della torsione, si ha un effetto complessivo per cui l'estremo libero della piastra tende ad avere uno spostamento in direzione opposta a quella del carico.  Queste effetto, nel caso in cui ci siano entrambe le condizioni di carico, si traduce in un iniziale innalzamento per poi flettersi secondo la direzione del carico trasversale (\cref{fig:plate_BD_extra2}). 
+È interessante vedere l'effetto del solo carico trasversale (\cref{fig:plate_BD_transload_load}) in cui, a causa dello sbilanciamento delle direzioni di fibratura e della torsione, si ha un effetto complessivo per cui l'estremo libero della piastra tende ad avere uno spostamento in direzione opposta a quella del carico.  Queste effetto, nel caso in cui ci siano entrambe le condizioni di carico, si traduce in un iniziale innalzamento per poi flettersi secondo la direzione del carico trasversale (\cref{fig:plate_BD_extra2}). È riportata anche la deformata completa in \cref{fig:deformata_D}.
 
-È riportata anche la deformata completa in \cref{fig:deformata_D}.
+Questo accoppiamento si traduce in un effetto flessionale applicando il solo carico longitudinale (\cref{fig:plate_BD_extra}).
 
 \begin{figure}[bt!]
 			  \scalebox{.5}{
@@ -864,9 +858,9 @@ Questo layout è completamente sbilanciato e asimmetrico con la direzione di fib
 
 \subsection{Elemento tipo cilindro}
 
-Viene considerato un elemento strutturale tipo cilindro con raggio $R$ e lunghezza $L$. Viene considerata una configurazione di carico espressa da una pressione interna uniforme sulla parete del cilindro. Vengono nuovamente analizzati i quattro differenti layout di laminato.
+Viene poi considerato un elemento strutturale tipo cilindro con raggio $R$ e lunghezza $L$. Viene considerata una configurazione di carico espressa da una pressione interna uniforme sulla parete del cilindro. Vengono nuovamente analizzati i quattro differenti layout di laminato.
 
-I risultati vengono letti sul bordo nei quattro segmenti ottenibili a $x=\pm R$ e $y=\pm R$, così da poter capire se l'allargamento è uniforme o meno lungo l'asse e se è presente un'effetto torsionale. 
+I risultati vengono letti sul bordo del cilindro nei quattro segmenti ottenibili a $x=\pm R$ e $y=\pm R$, così da poter capire se l'allargamento è uniforme o meno lungo l'asse e se è presente un'effetto torsionale. 
 
 \subsubsection{Caso (a)}
 \label{sec:cyl_A}
@@ -1161,12 +1155,12 @@ Il layout è fortemente sbilanciato e sebbene la dilatazione risulti uniforme si
 
 Nella teoria dei laminati sottili il campo di deformazione viene ridotto ad un campo di deformazione della superficie media legato a scorrimenti e dilatazioni nel piano. A questo si aggiungono effetti fuori dal piano legati all'inflessione della superficie media e ad eventuali contributi di torsione. Questo implica che il campo di deformazione viene assunto costante e identico in tutti i layer.
 
-Consideriamo un ulteriore caso con 12 layer con un layout del tipo:
+Si considera allora un ulteriore caso con 12 layer aventi un layout del tipo:
 \begin{equation}
 	[10 /-10 / 30 /-30 / 0_2]_{\mathrm{s}}
 \end{equation}
 
-illustrato in \cref{fig:last_case_schema}. 
+Una rappresentazione schematica è illustrata in \cref{fig:last_case_schema}. 
 
 L'unica cosa che distingue un layer dall'altro, secondo la teoria considerata, è la sola coordinata $z$. Quindi possiamo considerare il legame ridotto nel piano dove ogni layer avrà  il suo aspetto costitutivo mentre le deformazioni saranno legate allla coordinata $z$. 
 
@@ -1188,47 +1182,47 @@ Viene applicato un certo carico assiale fisso mentre il carico trasversale scala
 	\lambda \:F_{\perp} \quad \text{con } \lambda \in \left\{1; 2; 5;10;20;30\right\}
 	\label{eq:Tload}
 \end{equation}
+\begin{figure}[bt!]
+	\centering\captionsetup[subfigure]{justification=centering}
+	\begin{subfigure}{0.25\linewidth}
+		\includegraphics[width=\textwidth]{strain.pdf}
+		\caption{}
+	\end{subfigure}\hspace{0.1\linewidth}
+	\begin{subfigure}{0.25\linewidth}
+		\includegraphics[width=\textwidth]{Q.pdf}
+		\caption{}
+	\end{subfigure}\hspace{0.1\linewidth}
+	\begin{subfigure}{0.25\linewidth}
+		\includegraphics[width=\textwidth]{stress.pdf}
+		\caption{}
+	\end{subfigure}
+	\caption{Rappresentazione grafica dell'\cref{eq:QQ} nello spessore del laminato. Sono rappresentate le deformazioni (i), la rigidezza (ii) e le tensioni (iii). }
+	\label{fig:layout}
+\end{figure}
 
-È evidente come lo spostamenti risulti proporzionale al carico applicato, al crescere del moltiplicatore di carico aumenta la flessione. 
+È evidente come lo spostamento risulti proporzionale al carico applicato, al crescere del moltiplicatore di carico aumenta la flessione. 
 
 Sono assenti effetti torsionali essendo un laminato simmetrico e bilanciato.
 
-Non sono presenti neanche effetti estensionali e lo spostamento lungo $\hat y$ del bordo della piastra è inferiore a $5 \cdot 10^{-4}. 
+Non sono presenti effetti estensionali e lo spostamento lungo $\hat y$ del bordo della piastra è inferiore a $5 \cdot 10^{-4}$. 
 
-Andando a vedere le tensioni lungo lo spessore, ovvero al varare della coordinata $z \in \left[-{h\over 2};{h\over 2}\right]$ è possibile vedere l'andamento lineare a tratti. L'andamento lineare è dato dalle deformazioni che moltiplicano un coefficiente di rigidezza diverso layer per layer. 
+Andando a vedere le tensioni lungo lo spessore, ovvero al varare della coordinata $z \in \left[-{h\over 2};{h\over 2}\right]$ è possibile vedere l'andamento lineare a tratti. L'andamento lineare è dato dalle deformazioni che moltiplicano un coefficiente di rigidezza diverso layer per layer (vedi \cref{fig:layout}). 
 
 Anche le tensioni crescono, in modulo, proporzionalmente al moltiplicatore di carico. 
 
-\begin{figure}[bt!]
-	\centering\captionsetup[subfigure]{justification=centering}
-\begin{subfigure}{0.25\linewidth}
-	\includegraphics[width=\textwidth]{strain.pdf}
-\caption{}
-\end{subfigure}\hspace{0.1\linewidth}
-\begin{subfigure}{0.25\linewidth}
-	\includegraphics[width=\textwidth]{Q.pdf}
-	\caption{}
-\end{subfigure}\hspace{0.1\linewidth}
-\begin{subfigure}{0.25\linewidth}
-	\includegraphics[width=\textwidth]{stress.pdf}
-	\caption{}
-\end{subfigure}
-\caption{Rappresentazione grafica dell'\cref{eq:QQ} nello spessore del laminato. Sono rappresentate le deformazioni (i), la rigidezza (ii) e le tensioni (iii). }
-\label{fig:layout}
-\end{figure}
 
 
 
 
 \section{Conclusioni}
 
-Conoscere la risposta di elementi strutturali può essere utile per modellare correttamente una determinata struttura protesica e per fare studi dettagliati  di danno.
+Conoscere la risposta di elementi strutturali può essere utile per modellare correttamente una determinata struttura in laminato composito e per fare studi dettagliati di danno analizzando le tensioni interne.
 
-Alcuni casi possono essere semplici da prevedere come l'allineamento di tutte le fibre lungo una stessa direzioni. Casi più complessi, come layout sbilanciati, posso portare a comportamenti strutturali non sempre facili da predire. 
+Alcuni casi possono essere semplici da prevedere come l'allineamento di tutte le fibre lungo una stessa direziond. Casi più complessi, come layout sbilanciati, possono portare a comportamenti strutturali non sempre facili da predire. 
 
 Implementare un'analisi del composito laminato che porta in conto la configurazione dei singoli layer fornisce risultati utili alla comprensione del comportamento strutturale.
 
-Inoltre, permette di tenere in conto anche delle tensioni interne nei singoli layer che presentano una discontinuità all'interfaccia layer-layer successivo. 
+Inoltre, permette di tenere in conto anche delle tensioni interne nei singoli layer che presentano una discontinuità all'interfaccia layer-layer. 
 
 \section{Metodi}
 
@@ -1269,7 +1263,7 @@ Return[{$\mathbb Q$$\mathbb Q$, zzv, $\theta$$\theta$}]
 
 \end{figure*}
 
-Per implementare le campagne di simulazioni è stato utilizzato il software \texttt{Mathematica} \citep{mathematica} con il pacchetto aggiuntivo\texttt{ AceGEN/AceFEM} \citep{ace}. 
+Per implementare le campagne di simulazione è stato utilizzato il software \texttt{Mathematica} \citep{mathematica} con il pacchetto aggiuntivo\texttt{ AceGEN/AceFEM} \citep{ace}. 
 
 
 \subsection{Legame costitutivo generalizzato}
@@ -1299,9 +1293,9 @@ La simulazione viene avviata passando alla routine \texttt{SimulationComplete[]}
 	\item \texttt{PostProcessMyDisplacement[]}
 \end{itemize}
 
-Ciascun sotto routine ha un suo compito preciso. 
+Ciascuna sotto routine ha un suo compito preciso. 
 
-La subroutine \texttt{MyGeometry[]} si occupa di richiamare la funzione \texttt{ABDcomp1[]}  passandogli la definizione  del layout e di ogni singolo layer.  Provvede anche ad impostare le dimensioni generali dell'elemento strutturale. Prima di passare i dati alla routine \texttt{ABDcomp1[]} vengono passi a \texttt{total$\mathbb Q$[]} che si occupa di calcolare le coordinate di spessore e preparare un vettore unico sia per l'angolo di rotazione che per la matrice di rigidezza di ogni layer.
+La subroutine \texttt{MyGeometry[]} si occupa di richiamare la funzione \texttt{ABDcomp1[]}  passandogli la definizione  del layout e di ogni singolo layer.  Provvede anche ad impostare le dimensioni generali dell'elemento strutturale. Prima di passare i dati alla routine \texttt{ABDcomp1[]} vengono passati a \texttt{total$\mathbb Q$[]} che si occupa di calcolare le coordinate di spessore e preparare un vettore unico sia per l'angolo di rotazione che per la matrice di rigidezza di ogni layer.
 
  \texttt{FEM Model[]} inizializza il modello agli elementi finiti definendo le proprietà della mesh e le condizioni al bordo.
  
@@ -1317,12 +1311,16 @@ Chiaramente la funzione \texttt{SimulationComplete[]} viene inserita all'interno
 
 \section{Disponibilità del codice e materiale aggiuntivo}
 
-Tutto il codice, le immagini, file di processamento e risultati ottenuti sono disponibili alla repository online al link: \url{https://github.com/mastroalex/comp-lam}. 
+Tutto il codice, le immagini, file di processamento e risultati ottenuti sono disponibili alla repository online al link: \url{https://github.com/mastroalex/comp-lam}
 
-Il codice comprende:
+Sono compresi:
 
 \begin{itemize}
-	\item 
+	\item Notebook per i casi nelle \cref{sec:plate_A,sec:cyl_A} in \texttt{first\_test->frst\_test\_final.nb}
+	\item  Notebook per i casi nelle \cref{sec:plate_B,sec:plate_D,sec:cyl_B,sec:cyl_D} in \texttt{more\_test->more\_test\_final.nb}
+	\item  Notebook per i casi nelle \cref{sec:plate_C,sec:cyl_C} in \texttt{more\_test->FABRIC->more\_test\_final\_fabric.nb}
+	\item  Notebook per il caso in \cref{sec:final_thick} in \texttt{more\_test->LAST\_LAYER->more\_test\_final\_layer.nb}
+
 \end{itemize}
 
 
