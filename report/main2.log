@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  25 JAN 2022 19:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.7)  26 JAN 2022 15:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2237,109 +2237,109 @@ na è
  []
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 288.
+LaTeX Font Warning: Command \small invalid in math mode on input line 289.
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 8.21255pt on input line 288.
-LaTeX Font Info:    Calculating math sizes for size <8.21255> on input line 290
+(Font)              scaled to size 8.21255pt on input line 289.
+LaTeX Font Info:    Calculating math sizes for size <8.21255> on input line 291
 .
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 8.21255pt on input line 290.
+(Font)              scaled to size 8.21255pt on input line 291.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 6.84349pt on input line 290.
+(Font)              scaled to size 6.84349pt on input line 291.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 5.74875pt on input line 290.
+(Font)              scaled to size 5.74875pt on input line 291.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 6.84349pt on input line 290.
+(Font)              scaled to size 6.84349pt on input line 291.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 5.74875pt on input line 290.
+(Font)              scaled to size 5.74875pt on input line 291.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 8.21255pt on input line 290.
+(Font)              scaled to size 8.21255pt on input line 291.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 6.84349pt on input line 290.
+(Font)              scaled to size 6.84349pt on input line 291.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 5.74875pt on input line 290.
+(Font)              scaled to size 5.74875pt on input line 291.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 8.21255pt on input line 290.
+(Font)              scaled to size 8.21255pt on input line 291.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 6.84349pt on input line 290.
+(Font)              scaled to size 6.84349pt on input line 291.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 5.74875pt on input line 290.
-LaTeX Font Info:    Calculating math sizes for size <> on input line 312.
+(Font)              scaled to size 5.74875pt on input line 291.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 313.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 1.0pt on input line 312.
+(Font)              scaled to size 1.0pt on input line 313.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 0.8333pt on input line 312.
+(Font)              scaled to size 0.8333pt on input line 313.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 0.7pt on input line 312.
+(Font)              scaled to size 0.7pt on input line 313.
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.8333> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.8333> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 1.0pt on input line 312.
+(Font)              scaled to size 1.0pt on input line 313.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 0.8333pt on input line 312.
+(Font)              scaled to size 0.8333pt on input line 313.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 0.7pt on input line 312.
+(Font)              scaled to size 0.7pt on input line 313.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 1.0pt on input line 312.
+(Font)              scaled to size 1.0pt on input line 313.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 0.8333pt on input line 312.
+(Font)              scaled to size 0.8333pt on input line 313.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 0.7pt on input line 312.
+(Font)              scaled to size 0.7pt on input line 313.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 1.0pt on input line 312.
+(Font)              scaled to size 1.0pt on input line 313.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 0.8333pt on input line 312.
+(Font)              scaled to size 0.8333pt on input line 313.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 0.7pt on input line 312.
+(Font)              scaled to size 0.7pt on input line 313.
 
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <0.8333> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <0.8333> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 313.
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 342.
+(Font)              scaled to size 7.0pt on input line 343.
 (./figures//struct1_tex.pdf_tex
 <figures//struct1_tex.pdf, id=201, page=1, 252.15454pt x 470.05981pt>
 File: figures//struct1_tex.pdf Graphic file (type pdf)
@@ -2349,47 +2349,47 @@ Package pdftex.def Info: figures//struct1_tex.pdf , page1 used on input line 56
 (pdftex.def)             Requested size: 117.17737pt x 218.43927pt.
 )
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 6.00005pt on input line 387.
+(Font)              scaled to size 6.00005pt on input line 388.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 6.00005pt on input line 387.
-LaTeX Font Info:    Calculating math sizes for size <6.00005> on input line 387
+(Font)              scaled to size 6.00005pt on input line 388.
+LaTeX Font Info:    Calculating math sizes for size <6.00005> on input line 388
 .
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 6.00005pt on input line 387.
+(Font)              scaled to size 6.00005pt on input line 388.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 4.99982pt on input line 387.
+(Font)              scaled to size 4.99982pt on input line 388.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
-(Font)              scaled to size 4.20001pt on input line 387.
+(Font)              scaled to size 4.20001pt on input line 388.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.20001> not available
-(Font)              size <5> substituted on input line 387.
+(Font)              size <5> substituted on input line 388.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.20001> not available
-(Font)              size <5> substituted on input line 387.
+(Font)              size <5> substituted on input line 388.
 
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 4.99982pt on input line 387.
+(Font)              scaled to size 4.99982pt on input line 388.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 4.20001pt on input line 387.
+(Font)              scaled to size 4.20001pt on input line 388.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 6.00005pt on input line 387.
+(Font)              scaled to size 6.00005pt on input line 388.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 4.99982pt on input line 387.
+(Font)              scaled to size 4.99982pt on input line 388.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
-(Font)              scaled to size 4.20001pt on input line 387.
+(Font)              scaled to size 4.20001pt on input line 388.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 4.99982pt on input line 387.
+(Font)              scaled to size 4.99982pt on input line 388.
 LaTeX Font Info:    Font shape `T1/MerriwthrSans-OsF/m/n' will be
-(Font)              scaled to size 4.20001pt on input line 387.
+(Font)              scaled to size 4.20001pt on input line 388.
 
 LaTeX Font Warning: Font shape `U/stmry/m/n' in size <4.20001> not available
-(Font)              size <5> substituted on input line 387.
+(Font)              size <5> substituted on input line 388.
 
 
 LaTeX Font Warning: Font shape `U/wasy/m/n' in size <4.20001> not available
-(Font)              size <5> substituted on input line 387.
+(Font)              size <5> substituted on input line 388.
 
 (./figures//struct2_tex.pdf_tex
 <figures//struct2_tex.pdf, id=202, page=1, 251.19847pt x 270.42148pt>
@@ -2424,14 +2424,14 @@ Package fancyhdr Warning: \headheight is too small (17.5pt):
 
 [3 <./figures//miture_rule_result_tex.pdf>]
 LaTeX Font Info:    Trying to load font information for TS1+Merriwthr-OsF on in
-put line 432.
+put line 433.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/merriweather/TS1Merriwthr-OsF.fd
 File: TS1Merriwthr-OsF.fd 2020/08/30 (autoinst) Font definitions for TS1/Merriw
 thr-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/Merriwthr-OsF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 432.
+(Font)              scaled to size 9.0pt on input line 433.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Merriwthr-OsF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
@@ -2447,7 +2447,7 @@ Package pdftex.def Info: figures//plate_tex.pdf , page1 used on input line 56.
 File: figures///first_test/alpha=40.pdf Graphic file (type pdf)
 <use figures///first_test/alpha=40.pdf>
 Package pdftex.def Info: figures///first_test/alpha=40.pdf  used on input line 
-448.
+449.
 (pdftex.def)             Requested size: 117.17737pt x 77.33438pt.
  (./figures//cyl_tex.pdf_tex
 <figures//cyl_tex.pdf, id=258, page=1, 475.0675pt x 452.4403pt>
@@ -2470,10 +2470,10 @@ Package pdftex.def Info: figures//cyl_tex.pdf , page3 used on input line 61.
 File: figures///more_test/cyl_30_45_30_45.pdf Graphic file (type pdf)
 <use figures///more_test/cyl_30_45_30_45.pdf>
 Package pdftex.def Info: figures///more_test/cyl_30_45_30_45.pdf  used on input
- line 463.
+ line 464.
 (pdftex.def)             Requested size: 117.17737pt x 90.0305pt.
 
-Underfull \hbox (badness 4108) in paragraph at lines 464--464
+Underfull \hbox (badness 4108) in paragraph at lines 465--465
 []\T1/MerriwthrSans-OsF/m/n/6.00005 (+20) (iv) |\T1/Merriwthr-OsF/m/up/6.00005 
 (+20) El-e-mento tipo cilin-dro de-for-mato
  []
@@ -2484,9 +2484,9 @@ Underfull \vbox (badness 2600) has occurred while \output is active []
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/sl' in size <9> not availabl
 e
 (Font)              Font shape `T1/Merriwthr-OsF/b/it' tried instead on input l
-ine 478.
+ine 479.
 LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 478.
+(Font)              scaled to size 9.0pt on input line 479.
 
 (./figures//first_test_bothload_V_X.pdf_tex
 <figures//first_test_bothload_V_X.pdf, id=263, page=1, 187.91443pt x 94.14323pt
@@ -2651,7 +2651,7 @@ Package pdftex.def Info: figures//first_test_bothload_V_X.pdf , page23 used on
 input line 120.
 (pdftex.def)             Requested size: 292.9397pt x 146.76515pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 488--489
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 489--490
  [][] 
  []
 
@@ -2811,7 +2811,7 @@ Package pdftex.def Info: figures//first_test_bothload_W_Y.pdf , page22 used on
 input line 123.
 (pdftex.def)             Requested size: 292.9397pt x 144.7921pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 497--498
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 498--499
  [][] 
  []
 
@@ -2964,7 +2964,7 @@ Package pdftex.def Info: figures//first_test_bothload_W_X.pdf , page21 used on
 input line 121.
 (pdftex.def)             Requested size: 292.9397pt x 144.89297pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 507--508
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 508--509
  [][] 
  []
 
@@ -3110,7 +3110,7 @@ Package pdftex.def Info: figures//first_test_transload_V_X.pdf , page20 used on
  input line 114.
 (pdftex.def)             Requested size: 292.9397pt x 144.02959pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 521--522
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 522--523
  [][] 
  []
 
@@ -3270,7 +3270,7 @@ Package pdftex.def Info: figures//first_test_transload_W_Y.pdf , page22 used on
  input line 123.
 (pdftex.def)             Requested size: 292.9397pt x 144.89297pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 530--531
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 531--532
  [][] 
  []
 
@@ -3423,7 +3423,7 @@ Package pdftex.def Info: figures//first_test_transload_W_X.pdf , page21 used on
  input line 121.
 (pdftex.def)             Requested size: 292.9397pt x 144.89297pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 540--541
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 541--542
  [][] 
  []
 
@@ -3561,7 +3561,7 @@ Package pdftex.def Info: figures//first_test_axialload_V_X.pdf , page22 used on
  input line 118.
 (pdftex.def)             Requested size: 292.9397pt x 146.39952pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 554--555
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 555--556
  [][] 
  []
 
@@ -3700,7 +3700,7 @@ Package pdftex.def Info: figures//first_test_axialload_W_Y.pdf , page19 used on
  input line 113.
 (pdftex.def)             Requested size: 292.9397pt x 141.48415pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 563--564
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 564--565
  [][] 
  []
 
@@ -3853,12 +3853,12 @@ Package pdftex.def Info: figures//first_test_axialload_W_X.pdf , page21 used on
  input line 117.
 (pdftex.def)             Requested size: 292.9397pt x 141.48415pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 573--574
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 574--575
  [][] 
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 584--585
+Underfull \hbox (badness 4303) in paragraph at lines 585--586
 \T1/Merriwthr-OsF/m/up/9 (+20) La prima anal-isi af-fronta uno stu-dio para-met
 -rico
  []
@@ -3910,19 +3910,19 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures///more_test/cyl_30
 _45_30_45.pdf): PDF inclusion: multiple pdfs with page group included in a sing
 le page
 >]
-Underfull \hbox (badness 2426) in paragraph at lines 597--598
+Underfull \hbox (badness 2426) in paragraph at lines 598--599
 \T1/Merriwthr-OsF/m/up/9 (+20) giore di layer allineati lungo l'asse for-nisce 
 meno
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 601--602
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
 []\T1/Merriwthr-OsF/m/up/9 (+20) I casi in-ter-medi for-niscono com-por-ta-ment
 i
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 601--602
+Underfull \hbox (badness 1603) in paragraph at lines 602--603
 \T1/Merriwthr-OsF/m/up/9 (+20) strut-turali in-ter-medi tra i due casi lim-ite 
 de-scritti.
  []
@@ -4011,7 +4011,7 @@ Package pdftex.def Info: figures//fabric_bothload_V_X.pdf , page13 used on inpu
 t line 80.
 (pdftex.def)             Requested size: 292.9397pt x 176.59125pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 629--630
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 630--631
  [][] 
  []
 
@@ -4077,7 +4077,7 @@ Package pdftex.def Info: figures//fabric_bothload_W_Y.pdf , page10 used on inpu
 t line 77.
 (pdftex.def)             Requested size: 292.9397pt x 165.32806pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 638--639
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 639--640
  [][] 
  []
 
@@ -4155,7 +4155,7 @@ Package pdftex.def Info: figures//fabric_bothload_W_X.pdf , page12 used on inpu
 t line 84.
 (pdftex.def)             Requested size: 292.9397pt x 175.66641pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 648--649
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 649--650
  [][] 
  []
 
@@ -4222,7 +4222,7 @@ Package pdftex.def Info: figures//fabric_transload_V_X.pdf , page10 used on inp
 ut line 76.
 (pdftex.def)             Requested size: 292.9397pt x 178.25157pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 661--662
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 662--663
  [][] 
  []
 
@@ -4289,7 +4289,7 @@ Package pdftex.def Info: figures//fabric_transload_W_Y.pdf , page10 used on inp
 ut line 77.
 (pdftex.def)             Requested size: 292.9397pt x 165.32806pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 670--671
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 671--672
  [][] 
  []
 
@@ -4370,7 +4370,7 @@ Package pdftex.def Info: figures//fabric_transload_W_X.pdf , page12 used on inp
 ut line 84.
 (pdftex.def)             Requested size: 292.9397pt x 175.66641pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 680--681
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 681--682
  [][] 
  []
 
@@ -4458,7 +4458,7 @@ Package pdftex.def Info: figures//fabric_axialload_V_X.pdf , page13 used on inp
 ut line 80.
 (pdftex.def)             Requested size: 292.9397pt x 176.59125pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 694--695
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 695--696
  [][] 
  []
 
@@ -4532,7 +4532,7 @@ Package pdftex.def Info: figures//fabric_axialload_W_Y.pdf , page11 used on inp
 ut line 78.
 (pdftex.def)             Requested size: 292.9397pt x 178.25157pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 703--704
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 704--705
  [][] 
  []
 
@@ -4599,7 +4599,7 @@ Package pdftex.def Info: figures//fabric_axialload_W_X.pdf , page10 used on inp
 ut line 76.
 (pdftex.def)             Requested size: 292.9397pt x 178.25157pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 713--714
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 714--715
  [][] 
  []
 
@@ -5652,7 +5652,7 @@ Package pdftex.def Info: figures//BD_bothload_V_X.pdf , page14 used on input li
 ne 82.
 (pdftex.def)             Requested size: 292.9397pt x 117.9584pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 747--748
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 748--749
  [][] 
  []
 
@@ -5742,7 +5742,7 @@ Package pdftex.def Info: figures//BD_bothload_W_Y.pdf , page14 used on input li
 ne 84.
 (pdftex.def)             Requested size: 292.9397pt x 108.98215pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 756--757
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 757--758
  [][] 
  []
 
@@ -5820,7 +5820,7 @@ Package pdftex.def Info: figures//BD_bothload_W_X.pdf , page12 used on input li
 ne 82.
 (pdftex.def)             Requested size: 292.9397pt x 108.11646pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 766--767
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 767--768
  [][] 
  []
 
@@ -5892,7 +5892,7 @@ Package pdftex.def Info: figures//BD_transload_V_X.pdf , page11 used on input l
 ine 78.
 (pdftex.def)             Requested size: 292.9397pt x 98.66153pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 780--781
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 781--782
  [][] 
  []
 
@@ -5970,7 +5970,7 @@ Package pdftex.def Info: figures//BD_transload_W_Y.pdf , page12 used on input l
 ine 78.
 (pdftex.def)             Requested size: 292.9397pt x 110.67973pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 789--790
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 790--791
  [][] 
  []
 
@@ -6042,7 +6042,7 @@ Package pdftex.def Info: figures//BD_transload_W_X.pdf , page11 used on input l
 ine 76.
 (pdftex.def)             Requested size: 292.9397pt x 110.54617pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 799--800
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 800--801
  [][] 
  []
 
@@ -6132,7 +6132,7 @@ Package pdftex.def Info: figures//BD_axialload_V_X.pdf , page14 used on input l
 ine 82.
 (pdftex.def)             Requested size: 292.9397pt x 114.92943pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 813--814
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 814--815
  [][] 
  []
 
@@ -6228,7 +6228,7 @@ Package pdftex.def Info: figures//BD_axialload_W_Y.pdf , page15 used on input l
 ine 86.
 (pdftex.def)             Requested size: 292.9397pt x 108.58478pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 822--823
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 823--824
  [][] 
  []
 
@@ -6318,12 +6318,12 @@ Package pdftex.def Info: figures//BD_axialload_W_X.pdf , page14 used on input l
 ine 88.
 (pdftex.def)             Requested size: 292.9397pt x 109.66336pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 832--833
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 833--834
  [][] 
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 850--851
+Underfull \hbox (badness 1735) in paragraph at lines 851--852
 []\T1/Merriwthr-OsF/m/up/9 (+20) È pre-sente an-che l'accoppiamento in-plane ou
 t-
  []
@@ -6336,7 +6336,7 @@ Package pdftex.def Info: figures//deformata_D_tex.pdf , page1 used on input lin
 e 56.
 (pdftex.def)             Requested size: 470.22787pt x 227.61125pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 859--860
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 860--861
 [][] 
  []
 
@@ -6456,7 +6456,7 @@ Package pdftex.def Info: figures//first_test_C_V_X.pdf , page19 used on input l
 ine 115.
 (pdftex.def)             Requested size: 224.58063pt x 113.05983pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 878--879
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 879--880
  [][] 
  []
 
@@ -6582,7 +6582,7 @@ Package pdftex.def Info: figures//first_test_C_V_X_2.pdf , page20 used on input
  line 114.
 (pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 887--888
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 888--889
  [][] 
  []
 
@@ -6708,7 +6708,7 @@ Package pdftex.def Info: figures//first_test_C_W_X.pdf , page20 used on input l
 ine 114.
 (pdftex.def)             Requested size: 224.58063pt x 119.87173pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 897--898
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 898--899
  [][] 
  []
 
@@ -6828,7 +6828,7 @@ Package pdftex.def Info: figures//first_test_C_W_X_2.pdf , page19 used on input
  line 115.
 (pdftex.def)             Requested size: 224.58063pt x 112.91522pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 905--906
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 906--907
  [][] 
  []
 
@@ -6899,7 +6899,7 @@ File: figures//BD_C_V_X.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures//BD_C_V_X.pdf , page13 used on input line 85.
 (pdftex.def)             Requested size: 224.58063pt x 124.87727pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 917--918
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 918--919
  [][] 
  []
 
@@ -6983,7 +6983,7 @@ Package pdftex.def Info: figures//BD_C_V_X_2.pdf , page13 used on input line 80
 .
 (pdftex.def)             Requested size: 224.58063pt x 138.0252pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 926--927
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 927--928
  [][] 
  []
 
@@ -7054,7 +7054,7 @@ File: figures//BD_C_W_X.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures//BD_C_W_X.pdf , page13 used on input line 80.
 (pdftex.def)             Requested size: 224.58063pt x 137.83989pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 936--937
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 937--938
  [][] 
  []
 
@@ -7132,7 +7132,7 @@ Package pdftex.def Info: figures//BD_C_W_X_2.pdf , page12 used on input line 84
 .
 (pdftex.def)             Requested size: 224.58063pt x 124.72398pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 944--945
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 945--946
  [][] 
  []
 
@@ -7203,7 +7203,7 @@ File: figures//C_C_V_X.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures//C_C_V_X.pdf , page13 used on input line 87.
 (pdftex.def)             Requested size: 224.58063pt x 132.53766pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 956--957
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 957--958
  [][] 
  []
 
@@ -7278,7 +7278,7 @@ Package pdftex.def Info: figures//C_C_V_X_2.pdf , page13 used on input line 80.
 
 (pdftex.def)             Requested size: 224.58063pt x 140.14612pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 965--966
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 966--967
  [][] 
  []
 
@@ -7344,7 +7344,7 @@ File: figures//C_C_W_X.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures//C_C_W_X.pdf , page12 used on input line 78.
 (pdftex.def)             Requested size: 224.58063pt x 123.14975pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 975--976
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 976--977
  [][] 
  []
 
@@ -7413,7 +7413,7 @@ Package pdftex.def Info: figures//C_C_W_X_2.pdf , page12 used on input line 84.
 
 (pdftex.def)             Requested size: 224.58063pt x 118.59814pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 983--984
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 984--985
  [][] 
  []
 
@@ -8783,7 +8783,7 @@ Package pdftex.def Info: figures//last_layer_V_X.pdf , page17 used on input lin
 e 88.
 (pdftex.def)             Requested size: 292.9397pt x 149.83238pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1100--1101
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1101--1102
  [][] 
  []
 
@@ -8891,7 +8891,7 @@ Package pdftex.def Info: figures//last_layer_W_Y.pdf , page17 used on input lin
 e 92.
 (pdftex.def)             Requested size: 292.9397pt x 163.03754pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1109--1110
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1110--1111
  [][] 
  []
 
@@ -8987,7 +8987,7 @@ Package pdftex.def Info: figures//last_layer_W_X.pdf , page15 used on input lin
 e 87.
 (pdftex.def)             Requested size: 292.9397pt x 163.31451pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1119--1120
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1120--1121
  [][] 
  []
 
@@ -9071,7 +9071,7 @@ Package pdftex.def Info: figures//grafico_sigma_x.pdf , page13 used on input li
 ne 83.
 (pdftex.def)             Requested size: 292.9397pt x 152.2979pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1132--1133
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1133--1134
  [][] 
  []
 
@@ -9173,7 +9173,7 @@ Package pdftex.def Info: figures//grafico_sigma_y.pdf , page16 used on input li
 ne 90.
 (pdftex.def)             Requested size: 292.9397pt x 152.1511pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1141--1142
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1142--1143
  [][] 
  []
 
@@ -9281,7 +9281,7 @@ Package pdftex.def Info: figures//grafico_tau_xy.pdf , page17 used on input lin
 e 93.
 (pdftex.def)             Requested size: 292.9397pt x 153.07933pt.
 )
-Overfull \hbox (2.11499pt too wide) in paragraph at lines 1151--1152
+Overfull \hbox (2.11499pt too wide) in paragraph at lines 1152--1153
  [][] 
  []
 
@@ -10072,16 +10072,38 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//D_extra_tex.pdf):
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1195 
+l.1197 
        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 1196--1197
+Underfull \hbox (badness 1577) in paragraph at lines 1198--1199
 []\T1/Merriwthr-OsF/m/up/9 (+20) Andando a vedere le ten-sioni lungo lo spes-so
 re,
  []
+
+<figures//strain.pdf, id=1354, 169.41493pt x 259.81065pt>
+File: figures//strain.pdf Graphic file (type pdf)
+<use figures//strain.pdf>
+Package pdftex.def Info: figures//strain.pdf  used on input line 1205.
+(pdftex.def)             Requested size: 58.77847pt x 90.13824pt.
+<figures//Q.pdf, id=1355, 166.92363pt x 259.81065pt>
+File: figures//Q.pdf Graphic file (type pdf)
+<use figures//Q.pdf>
+Package pdftex.def Info: figures//Q.pdf  used on input line 1209.
+(pdftex.def)             Requested size: 58.77847pt x 91.48613pt.
+<figures//stress.pdf, id=1356, 176.63492pt x 259.81065pt>
+File: figures//stress.pdf Graphic file (type pdf)
+<use figures//stress.pdf>
+Package pdftex.def Info: figures//stress.pdf  used on input line 1213.
+(pdftex.def)             Requested size: 58.77847pt x 86.45532pt.
+
+Underfull \vbox (badness 3590) has occurred while \output is active []
+
+
+Underfull \vbox (badness 2521) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (17.5pt): 
@@ -10592,10 +10614,77 @@ f): PDF inclusion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures//grafico_tau_xy.pd
 f): PDF inclusion: multiple pdfs with page group included in a single page
->] (./main2.bbl
-Underfull \hbox (badness 2119) in paragraph at lines 25--28
+> <./figures//strain.pdf> <./figures//Q.pdf> <./figures//stress.pdf>]
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 1236.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 4.5pt on input line 1237.
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <8.21255> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1246.
+
+Underfull \vbox (badness 1824) has occurred while \output is active []
+
+
+Underfull \vbox (badness 3884) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (17.5pt): 
+(fancyhdr)                Make it at least 18.99997pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.99997pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.49997pt}.
+
+[10]
+Underfull \hbox (badness 3525) in paragraph at lines 1310--1311
+[]\T1/Merriwthr-OsF/m/up/9 (+20) La rou-tine \T1/lmtt/m/n/9 Solution[] \T1/Merr
+iwthr-OsF/m/up/9 (+20) provvede alla risoluzione
+ []
+
+(./main2.bbl
+Underfull \hbox (badness 1199) in paragraph at lines 25--28
 []\T1/Merriwthr-OsF/m/up/9 (+20) Invibio, so-lu-tions B.  High per-for-mance PE
 EK-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+\T1/Merriwthr-OsF/m/up/9 (+20) and carbon-fiber re-in-forced polyetherether-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+\T1/Merriwthr-OsF/m/up/9 (+20) ke-tone volar lock-ing plates for dis-tal ra-diu
+s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+\T1/Merriwthr-OsF/m/up/9 (+20) frac-tures.  Or-thopaedics and Trau-ma-tol-ogy:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+\T1/Merriwthr-OsF/m/up/9 (+20) Surgery and Re-search 2018;104(6):877--882.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+[][]$\T1/lmtt/m/n/9 https : / / www . sciencedirect . com / science / article /
+
  []
 
 ) 
@@ -10608,7 +10697,7 @@ Package fancyhdr Warning: \headheight is too small (17.5pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.49997pt}.
 
-[10] (./main2.aux)
+[11] (./main2.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.3pt have occurred.
@@ -10617,16 +10706,16 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main2.out' has not changed.
-(rerunfilecheck)             Checksum: 636F0E29616DDBB7D906A0C6D7B97746;3349.
+(rerunfilecheck)             Checksum: FE65C93DFD773E8547FAA86968AD1250;3273.
  ) 
 Here is how much of TeX's memory you used:
- 41824 strings out of 478994
- 861757 string characters out of 5858184
- 1550947 words of memory out of 5000000
- 57633 multiletter control sequences out of 15000+600000
- 1844248 words of font info for 642 fonts, out of 8000000 for 9000
+ 49843 strings out of 478994
+ 1014505 string characters out of 5858184
+ 2775735 words of memory out of 5000000
+ 65593 multiletter control sequences out of 15000+600000
+ 1862571 words of font info for 649 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 126i,21n,131p,771b,1046s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 126i,21n,149p,771b,9060s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2021/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_owzwzj.enc}{/usr
 /local/texlive/2021/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_ags7qn.en
@@ -10649,11 +10738,15 @@ l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr
 /local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb></us
-r/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on main2.pdf (10 pages, 5843294 bytes).
+r/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2021/
+texmf-dist/fonts/type1/public/lm/lmtt9.pfb></usr/local/texlive/2021/texmf-dist/
+fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-d
+ist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on main2.pdf (11 pages, 6004780 bytes).
 PDF statistics:
- 1470 PDF objects out of 1728 (max. 8388607)
- 578 compressed objects within 6 object streams
- 85 named destinations out of 1000 (max. 500000)
- 261940 words of extra memory for PDF output out of 266212 (max. 10000000)
+ 1577 PDF objects out of 1728 (max. 8388607)
+ 670 compressed objects within 7 object streams
+ 121 named destinations out of 1000 (max. 500000)
+ 266563 words of extra memory for PDF output out of 319454 (max. 10000000)
 

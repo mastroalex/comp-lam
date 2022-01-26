@@ -3,49 +3,59 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main2.aux
 The style file: vancouver-authoryear.bst
 Database file #1: paper-refs.bib
+Warning--entry type for "ace" isn't style-file defined
+--line 16 of file paper-refs.bib
+Warning--entry type for "mathematica" isn't style-file defined
+--line 22 of file paper-refs.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in PEEKOPTIMA
 Warning--empty year in PEEKOPTIMA
 Warning--empty year in DISTAL
-You've used 8 entries,
+Warning--empty author and editor in mathematica
+Warning--missing publisher in mathematica
+Warning--there's a month but no year in mathematica
+Warning--empty author and editor in ace
+Warning--missing publisher in ace
+Warning--there's a month but no year in ace
+You've used 10 entries,
             3097 wiz_defined-function locations,
-            732 strings with 6754 characters,
-and the built_in function-call counts, 11462 in all, are:
-= -- 1423
-> -- 92
-< -- 4
-+ -- 55
-- -- 23
-* -- 957
-:= -- 1234
-add.period$ -- 27
-call.type$ -- 8
+            740 strings with 6865 characters,
+and the built_in function-call counts, 12381 in all, are:
+= -- 1512
+> -- 100
+< -- 6
++ -- 59
+- -- 25
+* -- 1021
+:= -- 1353
+add.period$ -- 31
+call.type$ -- 10
 change.case$ -- 0
-chr.to.int$ -- 8
-cite$ -- 11
-duplicate$ -- 1100
-empty$ -- 1088
-format.name$ -- 44
-if$ -- 2658
+chr.to.int$ -- 10
+cite$ -- 19
+duplicate$ -- 1180
+empty$ -- 1183
+format.name$ -- 48
+if$ -- 2860
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 75
-newline$ -- 49
-num.names$ -- 16
-pop$ -- 150
+missing$ -- 87
+newline$ -- 57
+num.names$ -- 20
+pop$ -- 179
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 99
+skip$ -- 131
 stack$ -- 0
-substring$ -- 1968
-swap$ -- 151
+substring$ -- 2049
+swap$ -- 171
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 44
-warning$ -- 3
-while$ -- 61
+type$ -- 56
+warning$ -- 9
+while$ -- 69
 width$ -- 0
-write$ -- 111
-(There were 3 warnings)
+write$ -- 133
+(There were 11 warnings)

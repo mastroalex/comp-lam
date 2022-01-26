@@ -1,4 +1,4 @@
-\begin{thebibliography}{8}
+\begin{thebibliography}{10}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{}
@@ -62,5 +62,13 @@ Gallagher EA, Lamorinière S, McGarry P.
   PEEK laminated composites for distal radius fracture fixation implants.
 \newblock Medical engineering \& physics 2019;67:22--32.
 \newblock \urlprefix\url{https://doi.org/10.1016/j.medengphy.2019.03.006}.
+
+\bibitem[{Wolfram(????)}]{mathematica}
+Wolfram, Mathematica;.
+\newblock \urlprefix\url{https://www.wolfram.com/mathematica/}.
+
+\bibitem[{Kelec(????)Joze Kelec}]{ace}
+Kelec J, AceGen;.
+\newblock \urlprefix\url{http://symech.fgg.uni-lj.si}.
 
 \end{thebibliography}

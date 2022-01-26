@@ -80,7 +80,7 @@
 }
 \lstset{texcl=false, mathescape=true,style=mystyle}
 \lstset{emph={%  
-		i, j,X,n,Y%
+		i, j,X,n,Y,alpha_,axialLoad_,trasLoad_%
 	},emphstyle={\color{indexcolour}}%
 }%
 
@@ -280,6 +280,7 @@ L'analisi seguente considera una $f_f$ fissata al 60\%.
 Dopo aver omogenizzato il singolo layer si ricorre alla teoria dei laminati sottili \citep{SOTTILI} trattando il singolo layer come una lastra sottile omogenea. Ogni lamina è soggetta ad uno stato piano di tensione e la matrice di rigidezza nel singolo strato può essere espressa rispetto un sistema di riferimento globale. 
 \begin{equation}
 [\bar{Q}]=\left[T_{\sigma}\right]^{-1}[Q]\left[T_{\epsilon}\right]
+\label{eq:rotazione}
 \end{equation}
 
 Considerando le deformazioni nel piano della superficie media e la curvatura della superficie media si arriva alle leggi costitutive generalizzate, \cref{eq:constitutive}.
@@ -1176,9 +1177,10 @@ L'unica cosa che distingue un layer dall'altro, secondo la teoria considerata, �
 \begin{bmatrix}
 	\bar Q
 \end{bmatrix}_k \begin{bmatrix} \varepsilon_x\\ \varepsilon_y\\ \gamma_{xy} \end{bmatrix}
+\label{eq:QQ}
 \end{equation}
 
-Ovvero lo stato di tensione sarà continuo nel layer ma discontinuo all'interfaccia e al più varierà linearmente lungo lo spessore a causa della dipendenza lineare della deformazione. 
+Ovvero lo stato di tensione sarà continuo nel layer ma discontinuo all'interfaccia e al più varierà linearmente lungo lo spessore a causa della dipendenza lineare della deformazione \cref{fig:layout}.
 
 Viene applicato un certo carico assiale fisso mentre il carico trasversale scalato tramite un moltiplicatore, \cref{eq:Tload}, così da poter analizzare la variazione delle tensioni interne al variare del carico trasversale. 
 
@@ -1197,7 +1199,25 @@ Andando a vedere le tensioni lungo lo spessore, ovvero al varare della coordinat
 
 Anche le tensioni crescono, in modulo, proporzionalmente al moltiplicatore di carico. 
 
-AGGIUNGI FIGURA PICCOLA CON DEFORMAZIONI e COEFFICIENTE Q 
+\begin{figure}[bt!]
+	\centering\captionsetup[subfigure]{justification=centering}
+\begin{subfigure}{0.25\linewidth}
+	\includegraphics[width=\textwidth]{strain.pdf}
+\caption{}
+\end{subfigure}\hspace{0.1\linewidth}
+\begin{subfigure}{0.25\linewidth}
+	\includegraphics[width=\textwidth]{Q.pdf}
+	\caption{}
+\end{subfigure}\hspace{0.1\linewidth}
+\begin{subfigure}{0.25\linewidth}
+	\includegraphics[width=\textwidth]{stress.pdf}
+	\caption{}
+\end{subfigure}
+\caption{Rappresentazione grafica dell'\cref{eq:QQ} nello spessore del laminato. Sono rappresentate le deformazioni (i), la rigidezza (ii) e le tensioni (iii). }
+\label{fig:layout}
+\end{figure}
+
+
 
 
 \section{Conclusioni}
@@ -1212,24 +1232,100 @@ Inoltre, permette di tenere in conto anche delle tensioni interne nei singoli la
 
 \section{Metodi}
 
+\begin{figure*}[b]
+	\begin{lstlisting}[language=Mathematica,caption=Struttura del codice per la simulazione nel caso \cref{sec:plate_A},label=code_general]
+		<< AceFEM`;
+		SimulationComplete[alpha_, axialLoad_, trasLoad_] := (
+		displacement = Table[{0*i, 0, 0}, {i, 1, Length[alpha]}];
+		Do[ 
+		Print["$\alpha$=", alpha[[i]]];
+		MyGeometry[alpha[[i]], axialLoad, trasLoad];
+		FEMModel[];
+		Coordinate[];
+		Solution[];
+		Print[Show[SMTShowMesh["DeformedMesh" -> True, "Mesh" -> GrayLevel[0.9]], SMTShowMesh["FillElements" -> False, "BoundaryConditions" -> True, "Mesh" -> GrayLevel[0]]]];
+		displacement[[i]] = PostProcessMyDisplacement[alpha[[i]]];, 
+		{i, 1, Length[alpha]}];
+		PrintMyDisplacement[displacement, alpha];   		;
+		(***)
+		alpha = {0, 10, 20, 30, 40, 50, 60, 70, 80, 90};
+		axLoad = 2*10^3* (L/10);
+		trLoad = 0.02*10^3;
+		SimulationComplete[alpha, axLoad, trLoad]
+	\end{lstlisting}
+	\begin{lstlisting}[language=Mathematica,caption=Snippet di \texttt{total$\mathbb Q$[]} che si occupa di generare il layout del laminato a partire dalla definizione di ogni layer,label=code_totalq]
+index = 0; 
+totalLayer = Total[Table[layer[[i, 1]], {i, 1, Length[layer]}]];
+$\mathbb Q$$\mathbb Q$ = Table[DiagonalMatrix[{0, 0, 0}]*i, {i, 1, totalLayer}];
+$\theta$$\theta$ = Table[DiagonalMatrix[{0, 0, 0}]*i, {i, 1, totalLayer}];
+zzv = Table[0*i, {i, 1, totalLayer + 1}];
+Do[Do[ $\theta$$\theta$[[index + j]] = layer[[i, 2]];
+zzv[[index + j + 1]] = zzv[[index + j]] + layer[[i, 7]];
+$\mathbb Q$$\mathbb Q$[[index + j]] = Calc$\mathbb Q$[layer[[i, 3]], layer[[i, 4]], layer[[i, 5]], layer[[i, 6]]], 
+{j, 1, layer[[i, 1]]}];  index = index + layer[[i, 1]]; ,   {i, 1, Length[layer]}];
+zzv = zzv - (Abs[zzv[[1]] + zzv[[Length[zzv]]]]/2);
+Return[{$\mathbb Q$$\mathbb Q$, zzv, $\theta$$\theta$}] 
+\end{lstlisting}
+
+\end{figure*}
+
+Per implementare le campagne di simulazioni è stato utilizzato il software \texttt{Mathematica} \citep{mathematica} con il pacchetto aggiuntivo\texttt{ AceGEN/AceFEM} \citep{ace}. 
+
+
 \subsection{Legame costitutivo generalizzato}
 
-\textcolor{blue}{\lipsum[1-2]}
+
+Per il calcolo del legame costitutivo generalizzato e quindi le tre matrici $\mathbb A, \mathbb B, \mathbb D$ viene utilizzata la funzione \texttt{ABDcomp1[$\theta v$, $zv$, $\mathbb Q]$} a cui vengono passati:
+\begin{itemize}
+	\item \texttt{$\theta v$}, vettore contenente l'angolo di ogni layer
+	\item \texttt{$zv$}, vettore contenente la coordinata iniziale e finale nello spessore di ogni layer
+	\item \texttt{$\mathbb Q$}, matrice di rigidezza del layer ottenuta con la regola delle miscele nel riferimento locale
+\end{itemize}
+
+L'algoritmo ruota la matrice di rigidezza nel riferimento globale ( \cref{eq:rotazione}) e poi calcola le tre matrici costitutive, vedi \cref{eq:A,eq:B,eq:D}.
+
+
+
+\subsection{Simulazione}
+
+Tutte le diverse campagne di simulazione sono basate sulla stessa logica. Utilizzano alcune routine per separare diverse sezioni implmentative, molte comuni tra i diversi casi analizzati.
+
+La simulazione viene avviata passando alla routine \texttt{SimulationComplete[]} il layout del laminato e il carico. Tale routine (un esempio è presente nello snippet \ref{code_general}) comprende:
+\begin{itemize}
+	\item \texttt{MyGeometry[]}
+	\item \texttt{FEM Model[]}
+   \item \texttt{Coordinate[]}
+	\item \texttt{Solution[]}
+	\item \texttt{PostProcessMyDisplacement[]}
+\end{itemize}
+
+Ciascun sotto routine ha un suo compito preciso. 
+
+La subroutine \texttt{MyGeometry[]} si occupa di richiamare la funzione \texttt{ABDcomp1[]}  passandogli la definizione  del layout e di ogni singolo layer.  Provvede anche ad impostare le dimensioni generali dell'elemento strutturale. Prima di passare i dati alla routine \texttt{ABDcomp1[]} vengono passi a \texttt{total$\mathbb Q$[]} che si occupa di calcolare le coordinate di spessore e preparare un vettore unico sia per l'angolo di rotazione che per la matrice di rigidezza di ogni layer.
+
+ \texttt{FEM Model[]} inizializza il modello agli elementi finiti definendo le proprietà della mesh e le condizioni al bordo.
+ 
+ \texttt{Coordinate[]} si occupa della definizione delle coordinate locali e applica il carico trasversale sulle coordinate nodali di interesse.
+ 
+ La routine  \texttt{Solution[]} provvede alla risoluzione tramite il metodo di Newton Rapson con passi di carico fissi. 
+ 
+ Infine la sotto routine \texttt{PostProcessMyDisplacement[]} si occupa di generare tutti i grafici e di stampare la deformata.
+ 
+Chiaramente la funzione \texttt{SimulationComplete[]} viene inserita all'interno di un ciclo sul parametro di interesse, ad esempio l'angolo $\alpha$ per il caso \cref{sec:plate_A} o il carico per il caso \cref{sec:final_thick}.
+
 
 
 \section{Disponibilità del codice e materiale aggiuntivo}
 
 Tutto il codice, le immagini, file di processamento e risultati ottenuti sono disponibili alla repository online al link: \url{https://github.com/mastroalex/comp-lam}. 
 
-Il codice 
-
-
-\subsection{Lista delle abbreviazioni}
+Il codice comprende:
 
 \begin{itemize}
-	\item CF, carbon fiber
+	\item 
 \end{itemize}
- 
+
+
 
 
 %% Specify your .bib file name here, without the extension
