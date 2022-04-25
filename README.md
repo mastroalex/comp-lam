@@ -12,7 +12,9 @@ In the present analysis several simulation campaigns were carried out to analyze
 
 <strong> Results </strong>, different simulation campaigns show the variation of the stiffness and of the coupling conditions between the load conditions and the structural response to the variation of the layout and the grain angle of the foil; 
 
-<strong> Conclusions </strong>, structural responses are highly variable, from simpler behaviors to predict to more complex responses. An analysis that takes into account the layout of the entire laminate, starting from the composition of the single layer, allows for precise results to understand the structural behavior .;
+<strong> Conclusions </strong>, structural responses are highly variable, from simpler behaviors to predict to more complex responses. An analysis that takes into account the layout of the entire laminate, starting from the composition of the single layer, allows for precise results to understand the structural behavior.
+
+**Read the [report](https://github.com/mastroalex/comp-lam/blob/main/report/main2.pdf)**
 
 **Read more [website](https://alessandromastrofini.it/)**
 
