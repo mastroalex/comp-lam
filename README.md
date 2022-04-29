@@ -1,10 +1,8 @@
 # Laminates composites structural response
+### Computational Mechanics of Tissues and Biomaterials
+### Biomedical Engineering - University of Rome Tor Vergata
 
-## Computational Mechanics of Tissues and Biomaterials
-
-## Biomedical Engineering - University of Rome Tor Vergata
-
-### Abstract
+#### Abstract
 
 In the present analysis several simulation campaigns were carried out to analyze the structural response of CF / PEEK laminated composites showing great potential for application in the biomedical field. 
 
