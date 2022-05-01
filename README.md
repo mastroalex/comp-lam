@@ -1,4 +1,4 @@
-# Laminates composites structural response
+# Laminates composites structural response 🧩
 ### Computational Mechanics of Tissues and Biomaterials
 ### Biomedical Engineering - University of Rome Tor Vergata
 
