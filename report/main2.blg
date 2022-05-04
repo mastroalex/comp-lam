@@ -1,12 +1,12 @@
-This is BibTeX, Version 0.99d (TeX Live 2021)
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main2.aux
 The style file: vancouver-authoryear.bst
 Database file #1: paper-refs.bib
 Warning--entry type for "ace" isn't style-file defined
---line 16 of file paper-refs.bib
+--line 47 of file paper-refs.bib
 Warning--entry type for "mathematica" isn't style-file defined
---line 22 of file paper-refs.bib
+--line 59 of file paper-refs.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in PEEKOPTIMA
 Warning--empty year in PEEKOPTIMA
